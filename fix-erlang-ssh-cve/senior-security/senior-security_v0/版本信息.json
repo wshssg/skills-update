@@ -1,0 +1,98 @@
+{
+  "task": "fix-erlang-ssh-cve",
+  "skill": "senior-security",
+  "version": "v0",
+  "directory": "fix-erlang-ssh-cve/senior-security/senior-security_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+  "source_root": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security",
+  "commit_title": "[Task] add task fix-erlang-ssh-cve (#471)",
+  "commit_time_beijing": "2026-01-20 06:52:06",
+  "author_time_beijing": "2026-01-20 06:52:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/SKILL.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "2365f333c06ded06bc71320222f4c119375292a9",
+      "sha256": "d7e26f159d81a9e5ca9a7bc9ff3af116876068349d727b894c6b50020efbd7a7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/references/cryptography_implementation.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/references/cryptography_implementation.md",
+      "relative_source": "references/cryptography_implementation.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "0406f18626f7cb293138e193fa82c24d61530c2a",
+      "sha256": "d4d994d22c107903fe29c6f6bde732f92e7a5eb26eaa9b200f10a3d4ddbe4adb",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/references/penetration_testing_guide.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/references/penetration_testing_guide.md",
+      "relative_source": "references/penetration_testing_guide.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "f718f2045eb2a9d68999c80bbd4e1996a73fe9bc",
+      "sha256": "06aaca9578eb2b91664f0ef964c03621b80c47469260b2982764615aaacdc512",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/references/security_architecture_patterns.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/references/security_architecture_patterns.md",
+      "relative_source": "references/security_architecture_patterns.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "94bad88092ec35038ad1afa31d059eb06d95a5ad",
+      "sha256": "86619c5fb1ae5432b2d0be75b897144161f260afaa2ded33fae0988f5da50b1d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/scripts/pentest_automator.py",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/scripts/pentest_automator.py",
+      "relative_source": "scripts/pentest_automator.py",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "3c9c75582fe15d0ad23913c3b24764f73a215d00",
+      "sha256": "cd8f0e6403cca75cca416fa7b2d3b722c9960119696763dff489ae3147a1cd60",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/scripts/security_auditor.py",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/scripts/security_auditor.py",
+      "relative_source": "scripts/security_auditor.py",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "2967e611dadc0a21ca83a9d19a2fc62063f8e716",
+      "sha256": "89426443afb2367e90d7fa44e53ecd61b057a968f0b38d2066b00c2aa64dc6c9",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-erlang-ssh-cve/senior-security/senior-security_v0/scripts/threat_modeler.py",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/senior-security/scripts/threat_modeler.py",
+      "relative_source": "scripts/threat_modeler.py",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "f15c5d81e2651265d8474dcfa5fea11b82c4a35e",
+      "sha256": "e10f03667ce974a489b444aa24b17fb21a590d358b8a970e1f15f4cbd97e0b39",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

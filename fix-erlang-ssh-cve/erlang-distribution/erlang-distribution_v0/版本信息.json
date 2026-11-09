@@ -1,0 +1,32 @@
+{
+  "task": "fix-erlang-ssh-cve",
+  "skill": "erlang-distribution",
+  "version": "v0",
+  "directory": "fix-erlang-ssh-cve/erlang-distribution/erlang-distribution_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+  "source_root": "tasks/fix-erlang-ssh-cve/environment/skills/erlang-distribution",
+  "commit_title": "[Task] add task fix-erlang-ssh-cve (#471)",
+  "commit_time_beijing": "2026-01-20 06:52:06",
+  "author_time_beijing": "2026-01-20 06:52:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-erlang-ssh-cve/erlang-distribution/erlang-distribution_v0/SKILL.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/erlang-distribution/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "0701d7f7d115bb3a4cd679fad6c69eab26ba58ef",
+      "sha256": "4d49e72f775b25fd5a64dfa0dbc36177a275a0a069812ecd5f1d81fcaf9b6b1b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

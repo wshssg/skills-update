@@ -1,0 +1,32 @@
+{
+  "task": "fix-erlang-ssh-cve",
+  "skill": "ssh-penetration-testing",
+  "version": "v0",
+  "directory": "fix-erlang-ssh-cve/ssh-penetration-testing/ssh-penetration-testing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+  "source_root": "tasks/fix-erlang-ssh-cve/environment/skills/ssh-penetration-testing",
+  "commit_title": "[Task] add task fix-erlang-ssh-cve (#471)",
+  "commit_time_beijing": "2026-01-20 06:52:06",
+  "author_time_beijing": "2026-01-20 06:52:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-erlang-ssh-cve/ssh-penetration-testing/ssh-penetration-testing_v0/SKILL.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/ssh-penetration-testing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "11cb3c41bd7b27aaa7c79869239acb20c36a73f5",
+      "sha256": "a7605138ec97cfe2fa54af6d3b0bd08c7246028dbc0bfb580b8dd0bfa9c53be3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

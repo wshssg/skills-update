@@ -1,0 +1,32 @@
+{
+  "task": "fix-erlang-ssh-cve",
+  "skill": "find-bugs",
+  "version": "v0",
+  "directory": "fix-erlang-ssh-cve/find-bugs/find-bugs_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+  "source_root": "tasks/fix-erlang-ssh-cve/environment/skills/find-bugs",
+  "commit_title": "[Task] add task fix-erlang-ssh-cve (#471)",
+  "commit_time_beijing": "2026-01-20 06:52:06",
+  "author_time_beijing": "2026-01-20 06:52:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-erlang-ssh-cve/find-bugs/find-bugs_v0/SKILL.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/find-bugs/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "02eff33d4cfdd079989a4a2e91642b62b5f58a4d",
+      "sha256": "edad456696ade7d64c855594e55b9064689a6ce354e667dc2a64e83362a56a8e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "fix-erlang-ssh-cve",
+  "skill": "erlang-concurrency",
+  "version": "v0",
+  "directory": "fix-erlang-ssh-cve/erlang-concurrency/erlang-concurrency_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+  "source_root": "tasks/fix-erlang-ssh-cve/environment/skills/erlang-concurrency",
+  "commit_title": "[Task] add task fix-erlang-ssh-cve (#471)",
+  "commit_time_beijing": "2026-01-20 06:52:06",
+  "author_time_beijing": "2026-01-20 06:52:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-erlang-ssh-cve/erlang-concurrency/erlang-concurrency_v0/SKILL.md",
+      "source": "tasks/fix-erlang-ssh-cve/environment/skills/erlang-concurrency/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1c6d6c18c66cef2948a2bea2a883ac6370a90776",
+      "blob": "2b58f2ea63ac58c1c08dc98f03a9e3ac42d93e9a",
+      "sha256": "eb762a07fbdc3162047bed8bab4674f7e3b8676c698b6c2afdfe10179237b36b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
