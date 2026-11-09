@@ -1,0 +1,32 @@
+{
+  "task": "enterprise-information-search",
+  "skill": "enterprise-artifact-search",
+  "version": "v0",
+  "directory": "enterprise-information-search/enterprise-artifact-search/enterprise-artifact-search_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d53058a3e929e65792bf3735cfec87589f2276da",
+  "source_root": "tasks/enterprise-information-search/environment/skills/enterprise-artifact-search",
+  "commit_title": "[task] enterprise-information-search (#269)",
+  "commit_time_beijing": "2026-01-24 07:58:36",
+  "author_time_beijing": "2026-01-24 07:58:36",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "enterprise-information-search/enterprise-artifact-search/enterprise-artifact-search_v0/SKILL.md",
+      "source": "tasks/enterprise-information-search/environment/skills/enterprise-artifact-search/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d53058a3e929e65792bf3735cfec87589f2276da",
+      "blob": "eab425d2497ee5fe7334e8c6ed0224a2b58558f1",
+      "sha256": "00e31df6ee3a502e9636cdbd3ce45350a8bb307c1840e7aa75823f6da4e0ef41",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

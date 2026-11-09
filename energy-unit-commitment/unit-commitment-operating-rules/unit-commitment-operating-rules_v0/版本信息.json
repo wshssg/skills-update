@@ -1,0 +1,32 @@
+{
+  "task": "energy-unit-commitment",
+  "skill": "unit-commitment-operating-rules",
+  "version": "v0",
+  "directory": "energy-unit-commitment/unit-commitment-operating-rules/unit-commitment-operating-rules_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "547eb28ec6e3f50f8e888cd666d6d7a2350150a1",
+  "source_root": "tasks/energy-unit-commitment/environment/skills/unit-commitment-operating-rules",
+  "commit_title": "Add energy unit commitment task (#747)",
+  "commit_time_beijing": "2026-04-30 14:01:44",
+  "author_time_beijing": "2026-04-30 14:01:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-unit-commitment/unit-commitment-operating-rules/unit-commitment-operating-rules_v0/SKILL.md",
+      "source": "tasks/energy-unit-commitment/environment/skills/unit-commitment-operating-rules/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "547eb28ec6e3f50f8e888cd666d6d7a2350150a1",
+      "blob": "7d6e4eb6a91fd919b44a69ba340421010063e883",
+      "sha256": "e44bbc07a1f2b53a11ac0773962fc6dbf9daf1534244f358878919971d9caa2c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

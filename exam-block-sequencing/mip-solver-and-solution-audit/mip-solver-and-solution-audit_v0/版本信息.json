@@ -1,0 +1,32 @@
+{
+  "task": "exam-block-sequencing",
+  "skill": "mip-solver-and-solution-audit",
+  "version": "v0",
+  "directory": "exam-block-sequencing/mip-solver-and-solution-audit/mip-solver-and-solution-audit_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "80bb0cd8413db27996f88bc6da3d9bde39c99284",
+  "source_root": "tasks/exam-block-sequencing/environment/skills/mip-solver-and-solution-audit",
+  "commit_title": "Add exam block sequencing scheduling task (#761)",
+  "commit_time_beijing": "2026-05-05 07:33:05",
+  "author_time_beijing": "2026-05-05 07:33:05",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "exam-block-sequencing/mip-solver-and-solution-audit/mip-solver-and-solution-audit_v0/SKILL.md",
+      "source": "tasks/exam-block-sequencing/environment/skills/mip-solver-and-solution-audit/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "80bb0cd8413db27996f88bc6da3d9bde39c99284",
+      "blob": "7e15a581d8aa0f4af3d5a034fa88fd7ea40246c7",
+      "sha256": "34ab1c8cd80ab01f65ad7287776994efeceb15fe454c36216d7d4ba2fee442f7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

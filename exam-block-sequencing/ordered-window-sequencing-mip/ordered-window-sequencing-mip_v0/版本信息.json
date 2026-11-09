@@ -1,0 +1,32 @@
+{
+  "task": "exam-block-sequencing",
+  "skill": "ordered-window-sequencing-mip",
+  "version": "v0",
+  "directory": "exam-block-sequencing/ordered-window-sequencing-mip/ordered-window-sequencing-mip_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "80bb0cd8413db27996f88bc6da3d9bde39c99284",
+  "source_root": "tasks/exam-block-sequencing/environment/skills/ordered-window-sequencing-mip",
+  "commit_title": "Add exam block sequencing scheduling task (#761)",
+  "commit_time_beijing": "2026-05-05 07:33:05",
+  "author_time_beijing": "2026-05-05 07:33:05",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "exam-block-sequencing/ordered-window-sequencing-mip/ordered-window-sequencing-mip_v0/SKILL.md",
+      "source": "tasks/exam-block-sequencing/environment/skills/ordered-window-sequencing-mip/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "80bb0cd8413db27996f88bc6da3d9bde39c99284",
+      "blob": "2ced9d53987c7b2f1380efb4856558cd2aa5882d",
+      "sha256": "0e1aa2b96b164e0cb06045b8d6b3fdd56d693c002a7dbbf8fb093bca3216c514",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

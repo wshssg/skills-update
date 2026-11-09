@@ -1,0 +1,32 @@
+{
+  "task": "energy-unit-commitment",
+  "skill": "unit-commitment-data-modeling",
+  "version": "v0",
+  "directory": "energy-unit-commitment/unit-commitment-data-modeling/unit-commitment-data-modeling_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "547eb28ec6e3f50f8e888cd666d6d7a2350150a1",
+  "source_root": "tasks/energy-unit-commitment/environment/skills/unit-commitment-data-modeling",
+  "commit_title": "Add energy unit commitment task (#747)",
+  "commit_time_beijing": "2026-04-30 14:01:44",
+  "author_time_beijing": "2026-04-30 14:01:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-unit-commitment/unit-commitment-data-modeling/unit-commitment-data-modeling_v0/SKILL.md",
+      "source": "tasks/energy-unit-commitment/environment/skills/unit-commitment-data-modeling/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "547eb28ec6e3f50f8e888cd666d6d7a2350150a1",
+      "blob": "76e4102af9b4a5f23e792abea262502483a57850",
+      "sha256": "b67192fb7fccb9c6e04df287bf2049fbc0f26571d7d702f7bcacc1c1b0566d19",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
