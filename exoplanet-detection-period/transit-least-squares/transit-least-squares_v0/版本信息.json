@@ -1,0 +1,32 @@
+{
+  "task": "exoplanet-detection-period",
+  "skill": "transit-least-squares",
+  "version": "v0",
+  "directory": "exoplanet-detection-period/transit-least-squares/transit-least-squares_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+  "source_root": "tasks/exoplanet-detection-period/environment/skills/transit-least-squares",
+  "commit_title": "[Task] exoplanet-detection-period (#131)",
+  "commit_time_beijing": "2026-01-14 10:28:06",
+  "author_time_beijing": "2026-01-14 10:28:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "exoplanet-detection-period/transit-least-squares/transit-least-squares_v0/SKILL.md",
+      "source": "tasks/exoplanet-detection-period/environment/skills/transit-least-squares/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+      "blob": "9d1763661fbe9384b2419db6215f6df8aa457244",
+      "sha256": "8ecf66396843055834c29bc31c3fbb66c854ece54977a64a6152daebd60d200a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

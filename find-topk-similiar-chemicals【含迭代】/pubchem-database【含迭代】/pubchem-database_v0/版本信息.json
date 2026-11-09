@@ -1,0 +1,65 @@
+{
+  "task": "find-topk-similiar-chemicals",
+  "skill": "pubchem-database",
+  "version": "v0",
+  "directory": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "2cd8f114521f0702cb1cdb6a2def28fe85d5bdd3",
+  "source_root": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database",
+  "commit_title": "find-topk-similiar-chemicals task (original task: organic chemical reaction task; Same skill set but harder task to prevent knowledge base cheat) (#145)",
+  "commit_time_beijing": "2026-01-20 04:30:14",
+  "author_time_beijing": "2026-01-20 04:30:14",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v0/SKILL.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "2cd8f114521f0702cb1cdb6a2def28fe85d5bdd3",
+      "blob": "e76bb3a802972cb1045254b6823743ed09188017",
+      "sha256": "5821c6858329f0ac09a8c5eb19273406971066f8c793324521be5ef72e7b47a3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v0/references/api_reference.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/references/api_reference.md",
+      "relative_source": "references/api_reference.md",
+      "revision": "2cd8f114521f0702cb1cdb6a2def28fe85d5bdd3",
+      "blob": "16531071eeb95177adc575e64a4dd51d8a235f0c",
+      "sha256": "dc9dea9c5f5f464fcae0ed75ea9ecb90493745a3595247c9fa501a5bf6163193",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v0/scripts/bioactivity_query.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/scripts/bioactivity_query.py",
+      "relative_source": "scripts/bioactivity_query.py",
+      "revision": "2cd8f114521f0702cb1cdb6a2def28fe85d5bdd3",
+      "blob": "6fcc8d9e27aa8d05d10aef26b478c57eca861005",
+      "sha256": "a5cf060d4884731d164a8ed1fb1c63b4c36481456a4940ad6716556b642fb8ea",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v0/scripts/compound_search.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/scripts/compound_search.py",
+      "relative_source": "scripts/compound_search.py",
+      "revision": "2cd8f114521f0702cb1cdb6a2def28fe85d5bdd3",
+      "blob": "b6b8a8b8e987f136d61a48dd8be62b49138b67d7",
+      "sha256": "16af82faa526668c2297b49cff292f2c77fcfa41e4f1dd56338f85bea0e3e88c",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

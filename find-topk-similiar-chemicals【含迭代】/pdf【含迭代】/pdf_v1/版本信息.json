@@ -1,0 +1,153 @@
+{
+  "task": "find-topk-similiar-chemicals",
+  "skill": "pdf",
+  "version": "v1",
+  "directory": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "67afc970a40371c0def6e60a1d755783199c594e",
+  "source_root": "tasks/find-topk-similiar-chemicals/environment/skills/pdf",
+  "commit_title": "[fix]: pre-commit issues for find-topk-similar-chemicals, flood-risk-analysis, suricata-custom-exfil (#548)",
+  "commit_time_beijing": "2026-01-20 05:49:54",
+  "author_time_beijing": "2026-01-20 05:49:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/LICENSE.txt",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/LICENSE.txt",
+      "relative_source": "LICENSE.txt",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "c55ab42224874608473643de0a85736b7fec0730",
+      "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/SKILL.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "e61f81cd9dff4c06d75c29aa18418c9a90ff241d",
+      "sha256": "582cc779d71aa81bd1cdf5b767cd1379fce3c682ec75610bc83e1745d41ec74a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/forms.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/forms.md",
+      "relative_source": "forms.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "4e234506dcb180158eeb7e057f7c576c263a2d43",
+      "sha256": "0ab10e9095deb1c1f9f79eb04254589f55c1d16e095cb53191e03f9fc3184449",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/reference.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/reference.md",
+      "relative_source": "reference.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "4e43063340513148792134105870de990f9ca84d",
+      "sha256": "3c6e7c055461d28c2047556dcc65185f542805b0a3198d2fe24236ac07699696",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/check_bounding_boxes.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/check_bounding_boxes.py",
+      "relative_source": "scripts/check_bounding_boxes.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "7443660c07171df1a2793d2303ebd1461772696a",
+      "sha256": "eb2a5f79c8aa10c57b5867e1f0fc75b52a68b1218442ef9d838dfb4b9eedc6f4",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/check_bounding_boxes_test.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/check_bounding_boxes_test.py",
+      "relative_source": "scripts/check_bounding_boxes_test.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "56542fea44ab988baad46131affbf906febac33a",
+      "sha256": "850afad5baf232d5d0712c98cc57e09969e7e5a05cd72e339b1923a22a05d682",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/check_fillable_fields.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/check_fillable_fields.py",
+      "relative_source": "scripts/check_fillable_fields.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "dc43d18213e818844212c225eeecdd5d70e2578e",
+      "sha256": "250d5aa4e8451d6a83d17d3550c14e6c844ac347145f916ebf7980b118312b41",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/convert_pdf_to_images.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/convert_pdf_to_images.py",
+      "relative_source": "scripts/convert_pdf_to_images.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "81c94677fa06f85ff1e4ed244f7d45a4833e4e15",
+      "sha256": "734f09cf9a9dc5abb861683aa48fda5af15cb830fc8a38d39c53f4b8175fd936",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/create_validation_image.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/create_validation_image.py",
+      "relative_source": "scripts/create_validation_image.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "f0502d838f839bb510f79987f7cc1f128b4bc9cd",
+      "sha256": "a446a23e518607bb9e7849487f0e36e58ac4bc76151bb1abe3b8dc802f1dbe94",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/extract_form_field_info.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/extract_form_field_info.py",
+      "relative_source": "scripts/extract_form_field_info.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "18be21e08d4399f74633a8be4892f791ba52dacb",
+      "sha256": "25d1ca86bee72d2bdfdef790c133399088c91c85e0f4cf5a06497847b13cef97",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/fill_fillable_fields.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/fill_fillable_fields.py",
+      "relative_source": "scripts/fill_fillable_fields.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "6ec9c6628720da6881fc4ec8dbeca9fbb9762651",
+      "sha256": "eec6d7755e3a39dac09d8d81b4b197ae628658426ea1dc0c6924ada880b2d166",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pdf【含迭代】/pdf_v1/scripts/fill_pdf_form_with_annotations.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pdf/scripts/fill_pdf_form_with_annotations.py",
+      "relative_source": "scripts/fill_pdf_form_with_annotations.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "9bc0a9a56a9448c50ea9ded0278956998eb40910",
+      "sha256": "fcd6097984d8b2094ea340cb0149fb231d03a792ebf908638beba22f8fe83ecc",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

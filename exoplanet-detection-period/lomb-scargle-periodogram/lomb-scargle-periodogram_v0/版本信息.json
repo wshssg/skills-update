@@ -1,0 +1,32 @@
+{
+  "task": "exoplanet-detection-period",
+  "skill": "lomb-scargle-periodogram",
+  "version": "v0",
+  "directory": "exoplanet-detection-period/lomb-scargle-periodogram/lomb-scargle-periodogram_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+  "source_root": "tasks/exoplanet-detection-period/environment/skills/lomb-scargle-periodogram",
+  "commit_title": "[Task] exoplanet-detection-period (#131)",
+  "commit_time_beijing": "2026-01-14 10:28:06",
+  "author_time_beijing": "2026-01-14 10:28:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "exoplanet-detection-period/lomb-scargle-periodogram/lomb-scargle-periodogram_v0/SKILL.md",
+      "source": "tasks/exoplanet-detection-period/environment/skills/lomb-scargle-periodogram/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+      "blob": "da8de20f8854feebb6ab84d0bd53d7f55a21058f",
+      "sha256": "9c99004068e8b93eab3d0c389e1972d7355d6dcd0c7771a95efeef4659a706b9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

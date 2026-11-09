@@ -1,0 +1,98 @@
+{
+  "task": "find-topk-similiar-chemicals",
+  "skill": "rdkit",
+  "version": "v1",
+  "directory": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "67afc970a40371c0def6e60a1d755783199c594e",
+  "source_root": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit",
+  "commit_title": "[fix]: pre-commit issues for find-topk-similar-chemicals, flood-risk-analysis, suricata-custom-exfil (#548)",
+  "commit_time_beijing": "2026-01-20 05:49:54",
+  "author_time_beijing": "2026-01-20 05:49:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/SKILL.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "f1361cee3dd1f9d453c84105556fd3a5e6e80d15",
+      "sha256": "765c294784d94663df4974b22b11e20a5f663baf33e43bb8e22482608e88f64d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/references/api_reference.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/references/api_reference.md",
+      "relative_source": "references/api_reference.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "86fd4fce82d24c2e411d3dd1c5cd501ed29a2699",
+      "sha256": "a786cd2ea7955a253eba04f376770013decde21d88806f3d22c0ff58c84a9cc5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/references/descriptors_reference.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/references/descriptors_reference.md",
+      "relative_source": "references/descriptors_reference.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "2d35287c04dbeffe2fcfd178828b170eebbbf08d",
+      "sha256": "c89ea46820a29b21b0f44f833f0cc4712a133ea9989e9311f4ba201bd99c512a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/references/smarts_patterns.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/references/smarts_patterns.md",
+      "relative_source": "references/smarts_patterns.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "7b7caff9f41b436ac1283a7e5331411454c5f05f",
+      "sha256": "03760a7b75817ad49c97730cd89e535558b8c6a0a897142c873a3f1f94a45028",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/scripts/molecular_properties.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/scripts/molecular_properties.py",
+      "relative_source": "scripts/molecular_properties.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "4444a7d57d4d9ec3eed7341f61ae02db7836a7d6",
+      "sha256": "5d972db092b928f6f72a2499136f5631a4c039a333924b122dbd2895a8b4334e",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/scripts/similarity_search.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/scripts/similarity_search.py",
+      "relative_source": "scripts/similarity_search.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "4469ef1454ad7d7032d46971e1b892cc6470a991",
+      "sha256": "0abec11698a0c92161c2253d7e7f6dd3d2dccd4699bb07f2eabeedd455a215ad",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/rdkit【含迭代】/rdkit_v1/scripts/substructure_filter.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/rdkit/scripts/substructure_filter.py",
+      "relative_source": "scripts/substructure_filter.py",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "596cfc3ddcc38cd8d6e33b7418f0062b1807ea33",
+      "sha256": "a4a9b54faecd6ae93f4eec184fe1640c1e94185c13cf6013b81d4422d19a7ca9",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "exoplanet-detection-period",
+  "skill": "exoplanet-workflows",
+  "version": "v0",
+  "directory": "exoplanet-detection-period/exoplanet-workflows/exoplanet-workflows_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+  "source_root": "tasks/exoplanet-detection-period/environment/skills/exoplanet-workflows",
+  "commit_title": "[Task] exoplanet-detection-period (#131)",
+  "commit_time_beijing": "2026-01-14 10:28:06",
+  "author_time_beijing": "2026-01-14 10:28:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "exoplanet-detection-period/exoplanet-workflows/exoplanet-workflows_v0/SKILL.md",
+      "source": "tasks/exoplanet-detection-period/environment/skills/exoplanet-workflows/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+      "blob": "ea9b25572fadb115753b246c7fe6e8b4b2d3f1c2",
+      "sha256": "5ebc272409994a9b8289ba90e861244c1d25299e72ff49f3c40e8f95f14d027c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

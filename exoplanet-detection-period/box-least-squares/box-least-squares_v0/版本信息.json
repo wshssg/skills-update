@@ -1,0 +1,32 @@
+{
+  "task": "exoplanet-detection-period",
+  "skill": "box-least-squares",
+  "version": "v0",
+  "directory": "exoplanet-detection-period/box-least-squares/box-least-squares_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+  "source_root": "tasks/exoplanet-detection-period/environment/skills/box-least-squares",
+  "commit_title": "[Task] exoplanet-detection-period (#131)",
+  "commit_time_beijing": "2026-01-14 10:28:06",
+  "author_time_beijing": "2026-01-14 10:28:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "exoplanet-detection-period/box-least-squares/box-least-squares_v0/SKILL.md",
+      "source": "tasks/exoplanet-detection-period/environment/skills/box-least-squares/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "e5af1f49e5cfd8f27ae65a21d96c5c5a7bff13ff",
+      "blob": "c7024f00dcd4510fc16bce0a80222a730c3f3796",
+      "sha256": "211179df6fb03596447dca91ce90146237ae0cbd8b9fecd305a97187760def7c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

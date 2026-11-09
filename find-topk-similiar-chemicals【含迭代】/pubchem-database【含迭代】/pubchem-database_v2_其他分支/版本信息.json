@@ -1,0 +1,65 @@
+{
+  "task": "find-topk-similiar-chemicals",
+  "skill": "pubchem-database",
+  "version": "v2",
+  "directory": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v2_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v2"
+  ],
+  "complete_package": "B0",
+  "source_revision": "b9dada2ba428e37165d7afe8de0902ab07fab164",
+  "source_root": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database",
+  "commit_title": "Fix deprecated PubChem SMILES property names in pubchem-database skill",
+  "commit_time_beijing": "2026-06-01 05:45:36",
+  "author_time_beijing": "2026-06-01 05:45:36",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v2_其他分支/SKILL.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b9dada2ba428e37165d7afe8de0902ab07fab164",
+      "blob": "26607dc20c1e2f9e4721cf40341f39e91b6439b0",
+      "sha256": "f3dca1c5c09e14969bea2039892be5b5da1355db552ff906104a5a5ceee122b7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v2_其他分支/references/api_reference.md",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/references/api_reference.md",
+      "relative_source": "references/api_reference.md",
+      "revision": "b9dada2ba428e37165d7afe8de0902ab07fab164",
+      "blob": "9e34ca7e31503684dffc66a09b255dcee2ec198c",
+      "sha256": "9d6ed941ae610f62e5e14953ebf25a581411f69c1e21b83b40aaf8c91d062863",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v2_其他分支/scripts/bioactivity_query.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/scripts/bioactivity_query.py",
+      "relative_source": "scripts/bioactivity_query.py",
+      "revision": "b9dada2ba428e37165d7afe8de0902ab07fab164",
+      "blob": "6fcc8d9e27aa8d05d10aef26b478c57eca861005",
+      "sha256": "a5cf060d4884731d164a8ed1fb1c63b4c36481456a4940ad6716556b642fb8ea",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "find-topk-similiar-chemicals【含迭代】/pubchem-database【含迭代】/pubchem-database_v2_其他分支/scripts/compound_search.py",
+      "source": "tasks/find-topk-similiar-chemicals/environment/skills/pubchem-database/scripts/compound_search.py",
+      "relative_source": "scripts/compound_search.py",
+      "revision": "b9dada2ba428e37165d7afe8de0902ab07fab164",
+      "blob": "05439c99250aca75ec35a6c23fd947af8b6a3a01",
+      "sha256": "4a7751953624507aff7e7943ecd228e627b828897bf6773d47ed03891c1f57d0",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
