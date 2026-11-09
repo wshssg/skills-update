@@ -1,0 +1,32 @@
+{
+  "task": "fix-build-agentops",
+  "skill": "analyze-ci",
+  "version": "v0",
+  "directory": "fix-build-agentops/analyze-ci/analyze-ci_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+  "source_root": "tasks/fix-build-agentops/environment/skills/analyze-ci",
+  "commit_title": "[task] let agent fix AgentOps (#114)",
+  "commit_time_beijing": "2026-01-16 08:44:40",
+  "author_time_beijing": "2026-01-16 08:44:40",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-build-agentops/analyze-ci/analyze-ci_v0/SKILL.md",
+      "source": "tasks/fix-build-agentops/environment/skills/analyze-ci/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "baea58b14a0bcb125e92b294d572a8204667e6d9",
+      "sha256": "f59a07dcffe019f17cfa6ec211cbfb070e6292257be7119ed55ffa0b9bce7197",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

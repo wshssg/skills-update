@@ -1,0 +1,302 @@
+{
+  "task": "fix-druid-loophole-cve",
+  "skill": "senior-java",
+  "version": "v0",
+  "directory": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+  "source_root": "tasks/fix-druid-loophole-cve/environment/skills/senior-java",
+  "commit_title": "[Task] Add Druid 0.20.0 loophole fix task (#494)",
+  "commit_time_beijing": "2026-01-25 12:14:31",
+  "author_time_beijing": "2026-01-25 12:14:31",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/HOW_TO_USE.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/HOW_TO_USE.md",
+      "relative_source": "HOW_TO_USE.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "4d8b097334192b3a87e8682b86f5288dcd00bf26",
+      "sha256": "3a92a5833b2b728e893cb33d6da811ae9d02a3d266b5468671b544e3c67596c1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/SKILL.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "f89d6d0df21d42df88082fde6a96be89b0414b8a",
+      "sha256": "ae1dfe1fa34d18cae7e11ab388efc06a67e3baa765702f4d88bfd26df4a13ae3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/assets/.gitkeep",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/assets/.gitkeep",
+      "relative_source": "assets/.gitkeep",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/java-performance-tuning",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/java-performance-tuning",
+      "relative_source": "references/java-performance-tuning",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "0fad3602010303480d8159befd9694dcd67c49c5",
+      "sha256": "655209aee9bc040635d281b92bbda6cc3b38cdcb9a75eed7c31b289dfcf34474",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/java-performance-tuning.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/java-performance-tuning.md",
+      "relative_source": "references/java-performance-tuning.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "a198142af1798b5f4ab7d826e54ba0d263ecf8c2",
+      "sha256": "a77a079a93986111e38ad3569df02f3276e548742d9df2da4d8e66fb6122c491",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/jpa-hibernate-guide",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/jpa-hibernate-guide",
+      "relative_source": "references/jpa-hibernate-guide",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "97e1978f84a13bab877f363e39033ebed8e0c758",
+      "sha256": "9f37612d8ad39a220e29328eb614a1ce65705b8468b165da27902c999618cd5c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/jpa-hibernate-guide.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/jpa-hibernate-guide.md",
+      "relative_source": "references/jpa-hibernate-guide.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "ba37e226ca5821c768a9109d8186cb7bb107416b",
+      "sha256": "208fd580e39f1f621e266f3f2cc915c12e1714447440b9a0f5357e20e66c5943",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/microservices-patterns",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/microservices-patterns",
+      "relative_source": "references/microservices-patterns",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "59cb87b7914b60bfd7f194b33182d6bd4a58eaf2",
+      "sha256": "b60792961e8dc1cc195fd230ef64a12fc04b67b0b421d5fcae0a098501eea58e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/microservices-patterns.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/microservices-patterns.md",
+      "relative_source": "references/microservices-patterns.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "d7ea89afe5e9c932c7a7671b8ccab483d32ff857",
+      "sha256": "001f999b7f01419325093e321724af198ceb674ed1cbfba3e8cc1dfbf2a9a578",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/spring-boot-best-practices",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/spring-boot-best-practices",
+      "relative_source": "references/spring-boot-best-practices",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "8810eb8a3f9081f8e4b876b20a81fca3f18b2259",
+      "sha256": "3f3d4c1f57459a491ab6831dc4df4dba1fd7c41165172d107ed40341ae5feda4",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/spring-boot-best-practices.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/spring-boot-best-practices.md",
+      "relative_source": "references/spring-boot-best-practices.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "86728e99b9165f67d6db54b3a591771339166c64",
+      "sha256": "eb878292dd5d24e4eba4c457530d16ce90093bf0aa27cde09feb26287029c71f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/spring-security-reference",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/spring-security-reference",
+      "relative_source": "references/spring-security-reference",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "0944e198ecd0d60dd68e6511897fd8985c68a10e",
+      "sha256": "127ab9508b8e6f882ee6e83a87c205345bd16870b9fed49c8744d6d3229703bc",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/references/spring-security-reference.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/references/spring-security-reference.md",
+      "relative_source": "references/spring-security-reference.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "86836bbfc12ea1a8d8504fbe9325d7d62c972058",
+      "sha256": "ecae8071a5fb3a059a6c396170333b54f6c422c14233db78edd404f93afa94d7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/api_endpoint_generator",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/api_endpoint_generator",
+      "relative_source": "scripts/api_endpoint_generator",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "ceb253d377da3601948d61b9557bf1b855486fe3",
+      "sha256": "abb8d849244600996afc71c960eeb679a1c2b63789dae7811313661f31fd1602",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/api_endpoint_generator.py",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/api_endpoint_generator.py",
+      "relative_source": "scripts/api_endpoint_generator.py",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "e9b2ea4e3179e2d8c54feb15cffa092758eface7",
+      "sha256": "42e36f17aa5044886c0741d40e6dbaed9bff1dcb912561c3e64e672b677bec33",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/dependency_analyzer",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/dependency_analyzer",
+      "relative_source": "scripts/dependency_analyzer",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "772dbc123bb094c1f2d9950a0388f55ad6871ec4",
+      "sha256": "26b3f08a0cb46d3e8f1e3221aa3605cd2b57e4eba361a84f1ebf12ea5b21bf2c",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/dependency_analyzer.py",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/dependency_analyzer.py",
+      "relative_source": "scripts/dependency_analyzer.py",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "101b994c723ebf3c85de6ccc10343a4014ada9bb",
+      "sha256": "5aee34eda8d84a69f0c6f7e987a32fe478c71d75a3a3e91a825aeb6412ca0e1b",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/entity_generator",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/entity_generator",
+      "relative_source": "scripts/entity_generator",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "e0a8b6446a2b8a6c63d7fbf627e33c76cb2b56d0",
+      "sha256": "da2032cf0cb156759c81b318035563f5afa438f8fdb905309f6b14be1171c230",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/entity_generator.py",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/entity_generator.py",
+      "relative_source": "scripts/entity_generator.py",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "b7bf2c2a8b2438315e65d63dde4533f264c861be",
+      "sha256": "6275775c1b26efda9ba7b3f4875f7d7c52175878ecf878f02fc0237b31e0e28f",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/performance_profiler",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/performance_profiler",
+      "relative_source": "scripts/performance_profiler",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "279a9c86b374462ab5641e2f4d53facc7154ddcd",
+      "sha256": "d75719779d154bbdee6c8436b9b8eab0ea8f0f62ff1a375bb78d23e2b716bbc7",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/performance_profiler.py",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/performance_profiler.py",
+      "relative_source": "scripts/performance_profiler.py",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "47fdc977d7ee3ad62c58fb58bd631e5eb190c1c7",
+      "sha256": "985be975a840216e01a5a1d4f8d084af5c8a7b762b192cf6d29c165a4c9f64d6",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/security_config_generator",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/security_config_generator",
+      "relative_source": "scripts/security_config_generator",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "79ad43d414b3e931b230d179bb3a95cbd3120877",
+      "sha256": "792754415b13495e057e8a2984300329b8685c4d51ffb840dda93a5fe48cf3d5",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/security_config_generator.py",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/security_config_generator.py",
+      "relative_source": "scripts/security_config_generator.py",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "804505b6bbc232320aa4c4837b4fe551b4159a69",
+      "sha256": "41d7a04aefe2dddb714b83553f8643a66c9dac56c33343402ea951710a473d8a",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/spring_project_scaffolder",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/spring_project_scaffolder",
+      "relative_source": "scripts/spring_project_scaffolder",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "53c225d37c8c92568bea22c13dfd3bbd7e89ede9",
+      "sha256": "efe6863e17328451f3d12be70778cd7503ebe5cee33b3c64cf00c6f150cab88c",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/senior-java【含迭代】/senior-java_v0/scripts/spring_project_scaffolder.py",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/scripts/spring_project_scaffolder.py",
+      "relative_source": "scripts/spring_project_scaffolder.py",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "bb7a1385b56ae769f9a6d9277f47a3541fb5d18d",
+      "sha256": "73d419ab8dff5068462dc6161421526135d6896a368c74665343b9387a014d82",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": [
+    {
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/senior-java/SKILL.md",
+      "reference": "../CLAUDE.md",
+      "resolved": "tasks/fix-druid-loophole-cve/environment/skills/CLAUDE.md"
+    }
+  ]
+}

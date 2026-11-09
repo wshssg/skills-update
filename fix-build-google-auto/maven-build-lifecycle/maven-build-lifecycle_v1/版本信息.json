@@ -1,0 +1,32 @@
+{
+  "task": "fix-build-google-auto",
+  "skill": "maven-build-lifecycle",
+  "version": "v1",
+  "directory": "fix-build-google-auto/maven-build-lifecycle/maven-build-lifecycle_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "1e8e9bf067dd4852438d4ed39ada4428c2cebfb6",
+  "source_root": "tasks/fix-build-google-auto/environment/skills/maven-build-lifecycle",
+  "commit_title": "fix: broken tasks that lead to no skills loaded in claude code (#625)",
+  "commit_time_beijing": "2026-01-26 21:34:35",
+  "author_time_beijing": "2026-01-26 21:34:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-build-google-auto/maven-build-lifecycle/maven-build-lifecycle_v1/SKILL.md",
+      "source": "tasks/fix-build-google-auto/environment/skills/maven-build-lifecycle/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1e8e9bf067dd4852438d4ed39ada4428c2cebfb6",
+      "blob": "8c5f6715f443c9979cf107b292ac063ec18b1454",
+      "sha256": "8d65a5ace544deb6beafebe9275eaa9f0673ac1286899c7f7ddecd3dfce03974",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

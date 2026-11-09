@@ -1,0 +1,32 @@
+{
+  "task": "fix-build-agentops",
+  "skill": "uv-package-manager",
+  "version": "v0",
+  "directory": "fix-build-agentops/uv-package-manager/uv-package-manager_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+  "source_root": "tasks/fix-build-agentops/environment/skills/uv-package-manager",
+  "commit_title": "[task] let agent fix AgentOps (#114)",
+  "commit_time_beijing": "2026-01-16 08:44:40",
+  "author_time_beijing": "2026-01-16 08:44:40",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-build-agentops/uv-package-manager/uv-package-manager_v0/SKILL.md",
+      "source": "tasks/fix-build-agentops/environment/skills/uv-package-manager/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "30d17b018c6753a341859d6dc6c9c13b07439b04",
+      "sha256": "85c71e75e63966eb06a72dc0a7ed2046c45c38bb5574d748603917c4a3801878",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

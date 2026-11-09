@@ -1,0 +1,32 @@
+{
+  "task": "fix-druid-loophole-cve",
+  "skill": "jackson-security",
+  "version": "v0",
+  "directory": "fix-druid-loophole-cve【含迭代】/jackson-security/jackson-security_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+  "source_root": "tasks/fix-druid-loophole-cve/environment/skills/jackson-security",
+  "commit_title": "[Task] Add Druid 0.20.0 loophole fix task (#494)",
+  "commit_time_beijing": "2026-01-25 12:14:31",
+  "author_time_beijing": "2026-01-25 12:14:31",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-druid-loophole-cve【含迭代】/jackson-security/jackson-security_v0/SKILL.md",
+      "source": "tasks/fix-druid-loophole-cve/environment/skills/jackson-security/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "202d2eea47949fcfff2134be2c9678b3271bd082",
+      "sha256": "30227192653488b41c91c5824d0b4a62bf780e9e9040600172687ab563d21c57",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

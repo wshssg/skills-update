@@ -1,0 +1,76 @@
+{
+  "task": "fix-build-agentops",
+  "skill": "temporal-python-testing",
+  "version": "v0",
+  "directory": "fix-build-agentops/temporal-python-testing/temporal-python-testing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+  "source_root": "tasks/fix-build-agentops/environment/skills/temporal-python-testing",
+  "commit_title": "[task] let agent fix AgentOps (#114)",
+  "commit_time_beijing": "2026-01-16 08:44:40",
+  "author_time_beijing": "2026-01-16 08:44:40",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-build-agentops/temporal-python-testing/temporal-python-testing_v0/SKILL.md",
+      "source": "tasks/fix-build-agentops/environment/skills/temporal-python-testing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "369cffe87e5735ab7d9e2fba18956493ed0166da",
+      "sha256": "21e5d2382d474553eadb2771c764f4aa2b55a12bd75bc40894e68630c02db7bb",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-build-agentops/temporal-python-testing/temporal-python-testing_v0/resources/integration-testing.md",
+      "source": "tasks/fix-build-agentops/environment/skills/temporal-python-testing/resources/integration-testing.md",
+      "relative_source": "resources/integration-testing.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "63b10584b4203d82cb1c04221c1f7a85e0f53261",
+      "sha256": "91e0253dfb2c815e8be03fdf864f9a3796079718949aa8edcf25218f14e33494",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-build-agentops/temporal-python-testing/temporal-python-testing_v0/resources/local-setup.md",
+      "source": "tasks/fix-build-agentops/environment/skills/temporal-python-testing/resources/local-setup.md",
+      "relative_source": "resources/local-setup.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "593937622dfadcf8a6b85e7848b857c2a4eb45ab",
+      "sha256": "d760b4557b4393a8427e2f566374315f86f1a7fa2a7e926612a594f62c1a0e30",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-build-agentops/temporal-python-testing/temporal-python-testing_v0/resources/replay-testing.md",
+      "source": "tasks/fix-build-agentops/environment/skills/temporal-python-testing/resources/replay-testing.md",
+      "relative_source": "resources/replay-testing.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "c65d3b0840ada9b013cdae4c2592acc8f7dd315f",
+      "sha256": "9fc02f45c66324e15229047e28d5c77b3496299ca4fa83dbfaae6fb67af8bfc3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-build-agentops/temporal-python-testing/temporal-python-testing_v0/resources/unit-testing.md",
+      "source": "tasks/fix-build-agentops/environment/skills/temporal-python-testing/resources/unit-testing.md",
+      "relative_source": "resources/unit-testing.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "ad6c2f0b393241ccff4afeaef4bc2d8ae362dcc1",
+      "sha256": "1836367b98c5ee84e9ea98d1b30726bf48ef5404aaf0426f88742bdcce5712cf",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

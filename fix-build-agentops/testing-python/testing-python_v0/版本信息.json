@@ -1,0 +1,32 @@
+{
+  "task": "fix-build-agentops",
+  "skill": "testing-python",
+  "version": "v0",
+  "directory": "fix-build-agentops/testing-python/testing-python_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+  "source_root": "tasks/fix-build-agentops/environment/skills/testing-python",
+  "commit_title": "[task] let agent fix AgentOps (#114)",
+  "commit_time_beijing": "2026-01-16 08:44:40",
+  "author_time_beijing": "2026-01-16 08:44:40",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-build-agentops/testing-python/testing-python_v0/SKILL.md",
+      "source": "tasks/fix-build-agentops/environment/skills/testing-python/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "52c47e224e6a911bdb76198aae5375b8ad73b83e",
+      "blob": "4193f6144922e22665e9e4b03defdb0f44ee5fe8",
+      "sha256": "2741f4b02a7021658993213ce85095871e30ebfc1eba2bbef9d56f0bb71dea32",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

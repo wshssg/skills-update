@@ -1,0 +1,32 @@
+{
+  "task": "fix-build-google-auto",
+  "skill": "maven-dependency-management",
+  "version": "v0",
+  "directory": "fix-build-google-auto/maven-dependency-management/maven-dependency-management_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "34f43932550b7442e2760b80da13588ace35ceea",
+  "source_root": "tasks/fix-build-google-auto/environment/skills/maven-dependency-management",
+  "commit_title": "[task] fix build errors for google/auto (#88)",
+  "commit_time_beijing": "2026-01-18 15:10:02",
+  "author_time_beijing": "2026-01-18 15:10:02",
+  "entry_present": true,
+  "original_entry_name": "skill.md",
+  "files": [
+    {
+      "local": "fix-build-google-auto/maven-dependency-management/maven-dependency-management_v0/SKILL.md",
+      "source": "tasks/fix-build-google-auto/environment/skills/maven-dependency-management/skill.md",
+      "relative_source": "skill.md",
+      "revision": "34f43932550b7442e2760b80da13588ace35ceea",
+      "blob": "ca879e0407b8ec828a4097910ba3fd86047c7359",
+      "sha256": "d5a95c61cb189750beafbd7fea8e8ca8159ccf905d90974637b0a3e5495c7846",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
