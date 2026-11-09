@@ -1,0 +1,43 @@
+{
+  "task": "energy-ac-optimal-power-flow",
+  "skill": "ac-branch-pi-model",
+  "version": "v1",
+  "directory": "energy-ac-optimal-power-flow【含迭代】/ac-branch-pi-model/ac-branch-pi-model_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+  "source_root": "tasks/energy-ac-optimal-power-flow/environment/skills/ac-branch-pi-model",
+  "commit_title": "[Task] Trend anomaly causal inference (#372)",
+  "commit_time_beijing": "2026-01-24 07:01:18",
+  "author_time_beijing": "2026-01-24 07:01:18",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/ac-branch-pi-model/ac-branch-pi-model_v1/SKILL.md",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/ac-branch-pi-model/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+      "blob": "0bc8f4ae7de79099727fd8f4d1b3821c4a2bbc41",
+      "sha256": "90202c50b81adcfc4f61e5352c2d01824c4d45f849f1ad520161635f1a24da32",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/ac-branch-pi-model/ac-branch-pi-model_v1/scripts/branch_flows.py",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/ac-branch-pi-model/scripts/branch_flows.py",
+      "relative_source": "scripts/branch_flows.py",
+      "revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+      "blob": "1d13f76cb2abf18533b0cd3b899501571b27c8cc",
+      "sha256": "92b2ea533f08a3dee112ae0bf41e60951c5c481c2d158fc4d0aa175bb66a29e3",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

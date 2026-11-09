@@ -1,0 +1,43 @@
+{
+  "task": "energy-market-pricing",
+  "skill": "dc-power-flow",
+  "version": "v1",
+  "directory": "energy-market-pricing【含迭代】/dc-power-flow/dc-power-flow_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+  "source_root": "tasks/energy-market-pricing/environment/skills/dc-power-flow",
+  "commit_title": "fix: pre-commit issues (trailing whitespace, EOF newlines, TOML syntax) (#542)",
+  "commit_time_beijing": "2026-01-19 23:06:01",
+  "author_time_beijing": "2026-01-19 23:06:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-market-pricing【含迭代】/dc-power-flow/dc-power-flow_v1/SKILL.md",
+      "source": "tasks/energy-market-pricing/environment/skills/dc-power-flow/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+      "blob": "ad8f19a4f8f8b4f177ea11dfb6491eeb2975c126",
+      "sha256": "461a4a93c6baf5f84eaa16881b11d76d0542907c8bb50745eceeb21d217e480e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "energy-market-pricing【含迭代】/dc-power-flow/dc-power-flow_v1/scripts/build_b_matrix.py",
+      "source": "tasks/energy-market-pricing/environment/skills/dc-power-flow/scripts/build_b_matrix.py",
+      "relative_source": "scripts/build_b_matrix.py",
+      "revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+      "blob": "533c5f27c9f3e7ee74b1b772c89bf936bb9dfb04",
+      "sha256": "8ed65d06fe16b87b13eadf33397b3986de95afa515ec5dcb6f22df8201a44095",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

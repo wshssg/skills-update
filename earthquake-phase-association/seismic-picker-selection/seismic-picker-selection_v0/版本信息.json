@@ -1,0 +1,32 @@
+{
+  "task": "earthquake-phase-association",
+  "skill": "seismic-picker-selection",
+  "version": "v0",
+  "directory": "earthquake-phase-association/seismic-picker-selection/seismic-picker-selection_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+  "source_root": "tasks/earthquake-phase-association/environment/skills/seismic-picker-selection",
+  "commit_title": "[Task] earthquake phase association (#394)",
+  "commit_time_beijing": "2026-01-23 05:33:43",
+  "author_time_beijing": "2026-01-23 05:33:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "earthquake-phase-association/seismic-picker-selection/seismic-picker-selection_v0/SKILL.md",
+      "source": "tasks/earthquake-phase-association/environment/skills/seismic-picker-selection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+      "blob": "d5e0c6e9b1d9d75645e9457b185e6701998aa4fd",
+      "sha256": "20ff09362d2154c6424b3b533238440bcfcf6d81f1de97d6903197577a9a174a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

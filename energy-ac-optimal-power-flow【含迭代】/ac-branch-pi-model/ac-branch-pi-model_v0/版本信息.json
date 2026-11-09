@@ -1,0 +1,43 @@
+{
+  "task": "energy-ac-optimal-power-flow",
+  "skill": "ac-branch-pi-model",
+  "version": "v0",
+  "directory": "energy-ac-optimal-power-flow【含迭代】/ac-branch-pi-model/ac-branch-pi-model_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+  "source_root": "tasks/energy-ac-optimal-power-flow/environment/skills/ac-branch-pi-model",
+  "commit_title": "[Task] AC Optimal Power Flow in grid operation (#507)",
+  "commit_time_beijing": "2026-01-22 15:44:25",
+  "author_time_beijing": "2026-01-22 15:44:25",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/ac-branch-pi-model/ac-branch-pi-model_v0/SKILL.md",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/ac-branch-pi-model/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+      "blob": "0bc8f4ae7de79099727fd8f4d1b3821c4a2bbc41",
+      "sha256": "90202c50b81adcfc4f61e5352c2d01824c4d45f849f1ad520161635f1a24da32",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/ac-branch-pi-model/ac-branch-pi-model_v0/scripts/branch_flows.py",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/ac-branch-pi-model/scripts/branch_flows.py",
+      "relative_source": "scripts/branch_flows.py",
+      "revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+      "blob": "7f4e71514534f1164521e8a1174b5170cce26134",
+      "sha256": "482cd80f74acc1311efb5f5234048e7dae1dbf8e0477d8634f366d3913ce2152",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

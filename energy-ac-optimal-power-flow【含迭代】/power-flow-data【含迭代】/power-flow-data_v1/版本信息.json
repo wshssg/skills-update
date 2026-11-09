@@ -1,0 +1,32 @@
+{
+  "task": "energy-ac-optimal-power-flow",
+  "skill": "power-flow-data",
+  "version": "v1",
+  "directory": "energy-ac-optimal-power-flow【含迭代】/power-flow-data【含迭代】/power-flow-data_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+  "source_root": "tasks/energy-ac-optimal-power-flow/environment/skills/power-flow-data",
+  "commit_title": "[Task] Trend anomaly causal inference (#372)",
+  "commit_time_beijing": "2026-01-24 07:01:18",
+  "author_time_beijing": "2026-01-24 07:01:18",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/power-flow-data【含迭代】/power-flow-data_v1/SKILL.md",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/power-flow-data/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+      "blob": "ca73bfeb1f1fc235f6ad0ea1e30877b6635b159f",
+      "sha256": "7c6544423d4106746ca831e431e6725292015c768e7958a168c57db140051846",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

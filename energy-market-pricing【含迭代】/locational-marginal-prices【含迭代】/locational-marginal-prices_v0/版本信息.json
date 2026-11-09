@@ -1,0 +1,32 @@
+{
+  "task": "energy-market-pricing",
+  "skill": "locational-marginal-prices",
+  "version": "v0",
+  "directory": "energy-market-pricing【含迭代】/locational-marginal-prices【含迭代】/locational-marginal-prices_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "edd6e7e78db78f442bf184164b70749583184da5",
+  "source_root": "tasks/energy-market-pricing/environment/skills/locational-marginal-prices",
+  "commit_title": "[Task] counterfactual market pricing analysis for large-scale power grid (#163)",
+  "commit_time_beijing": "2026-01-16 14:02:01",
+  "author_time_beijing": "2026-01-16 14:02:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-market-pricing【含迭代】/locational-marginal-prices【含迭代】/locational-marginal-prices_v0/SKILL.md",
+      "source": "tasks/energy-market-pricing/environment/skills/locational-marginal-prices/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "edd6e7e78db78f442bf184164b70749583184da5",
+      "blob": "7db4cc634bf944fe94a4488be169ecbf9d1f5b55",
+      "sha256": "9485685b5945d9472651ec189f4cf3234d435b54e667dac9402d36f7797d79b5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

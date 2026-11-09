@@ -1,0 +1,32 @@
+{
+  "task": "econ-detrending-correlation",
+  "skill": "timeseries-detrending",
+  "version": "v0",
+  "directory": "econ-detrending-correlation/timeseries-detrending/timeseries-detrending_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "4a484f65215d977ddb88f9c765514391f203e884",
+  "source_root": "tasks/econ-detrending-correlation/environment/skills/timeseries-detrending",
+  "commit_title": "[Task] Add `econ-detrending-correlation` task (#49)",
+  "commit_time_beijing": "2026-01-12 10:09:16",
+  "author_time_beijing": "2026-01-12 10:09:16",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "econ-detrending-correlation/timeseries-detrending/timeseries-detrending_v0/SKILL.md",
+      "source": "tasks/econ-detrending-correlation/environment/skills/timeseries-detrending/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "4a484f65215d977ddb88f9c765514391f203e884",
+      "blob": "e88134203467a6598b90a3e65d26babf5a149813",
+      "sha256": "1169a82443b6b4571dbc37017c41e1b2b1e05e86e9d0b304af726c711111d4cd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

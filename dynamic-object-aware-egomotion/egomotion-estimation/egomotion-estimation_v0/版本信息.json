@@ -1,0 +1,32 @@
+{
+  "task": "dynamic-object-aware-egomotion",
+  "skill": "egomotion-estimation",
+  "version": "v0",
+  "directory": "dynamic-object-aware-egomotion/egomotion-estimation/egomotion-estimation_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+  "source_root": "tasks/dynamic-object-aware-egomotion/environment/skills/egomotion-estimation",
+  "commit_title": "[task] Add task: dynamic-object-aware-egomotion (#237)",
+  "commit_time_beijing": "2026-01-24 06:54:53",
+  "author_time_beijing": "2026-01-24 06:54:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dynamic-object-aware-egomotion/egomotion-estimation/egomotion-estimation_v0/SKILL.md",
+      "source": "tasks/dynamic-object-aware-egomotion/environment/skills/egomotion-estimation/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+      "blob": "50d671966af9cee33595257b907d102e566ac597",
+      "sha256": "ae9c89b1c228c3868938cd71d474e3ac20766991d2ed94a45721842a03ad4d70",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

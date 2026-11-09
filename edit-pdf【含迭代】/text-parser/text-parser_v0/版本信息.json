@@ -1,0 +1,32 @@
+{
+  "task": "edit-pdf",
+  "skill": "text-parser",
+  "version": "v0",
+  "directory": "edit-pdf【含迭代】/text-parser/text-parser_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "2dc9ed48a280e9d9f0baa1dd683f5019fd1cdbbf",
+  "source_root": "tasks/edit-pdf/environment/skills/text-parser",
+  "commit_title": "[Task] edit-pdf (#399)",
+  "commit_time_beijing": "2026-03-27 10:38:59",
+  "author_time_beijing": "2026-03-27 10:38:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "edit-pdf【含迭代】/text-parser/text-parser_v0/SKILL.md",
+      "source": "tasks/edit-pdf/environment/skills/text-parser/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "2dc9ed48a280e9d9f0baa1dd683f5019fd1cdbbf",
+      "blob": "481ef17b6c50687ccacb16277f8b88caea1ba311",
+      "sha256": "42da49f3d8f0d2ddef67fc6b7b1438fc8919b80f137f4c8efdce5f5327862123",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "earthquake-phase-association",
+  "skill": "seisbench-model-api",
+  "version": "v0",
+  "directory": "earthquake-phase-association/seisbench-model-api/seisbench-model-api_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+  "source_root": "tasks/earthquake-phase-association/environment/skills/seisbench-model-api",
+  "commit_title": "[Task] earthquake phase association (#394)",
+  "commit_time_beijing": "2026-01-23 05:33:43",
+  "author_time_beijing": "2026-01-23 05:33:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "earthquake-phase-association/seisbench-model-api/seisbench-model-api_v0/SKILL.md",
+      "source": "tasks/earthquake-phase-association/environment/skills/seisbench-model-api/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+      "blob": "a8ce4765a6f292c31fc5df00593646d919acb781",
+      "sha256": "32923bed92731f01669a29f9f3db964efc052a0ee5f4b6fc0115573fc99657e1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

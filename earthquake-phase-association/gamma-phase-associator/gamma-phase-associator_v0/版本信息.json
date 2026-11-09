@@ -1,0 +1,32 @@
+{
+  "task": "earthquake-phase-association",
+  "skill": "gamma-phase-associator",
+  "version": "v0",
+  "directory": "earthquake-phase-association/gamma-phase-associator/gamma-phase-associator_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+  "source_root": "tasks/earthquake-phase-association/environment/skills/gamma-phase-associator",
+  "commit_title": "[Task] earthquake phase association (#394)",
+  "commit_time_beijing": "2026-01-23 05:33:43",
+  "author_time_beijing": "2026-01-23 05:33:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "earthquake-phase-association/gamma-phase-associator/gamma-phase-associator_v0/SKILL.md",
+      "source": "tasks/earthquake-phase-association/environment/skills/gamma-phase-associator/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+      "blob": "3ddf640260401a58a96d72ea7b46d86afd6db0bd",
+      "sha256": "ce2c7375fccbf2e99c921e979437e77b91fb39573f6bcb2b7ce4a1136fe46526",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

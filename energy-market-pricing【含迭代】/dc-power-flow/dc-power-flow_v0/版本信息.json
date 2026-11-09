@@ -1,0 +1,43 @@
+{
+  "task": "energy-market-pricing",
+  "skill": "dc-power-flow",
+  "version": "v0",
+  "directory": "energy-market-pricing【含迭代】/dc-power-flow/dc-power-flow_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "edd6e7e78db78f442bf184164b70749583184da5",
+  "source_root": "tasks/energy-market-pricing/environment/skills/dc-power-flow",
+  "commit_title": "[Task] counterfactual market pricing analysis for large-scale power grid (#163)",
+  "commit_time_beijing": "2026-01-16 14:02:01",
+  "author_time_beijing": "2026-01-16 14:02:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-market-pricing【含迭代】/dc-power-flow/dc-power-flow_v0/SKILL.md",
+      "source": "tasks/energy-market-pricing/environment/skills/dc-power-flow/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "edd6e7e78db78f442bf184164b70749583184da5",
+      "blob": "ad8f19a4f8f8b4f177ea11dfb6491eeb2975c126",
+      "sha256": "461a4a93c6baf5f84eaa16881b11d76d0542907c8bb50745eceeb21d217e480e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "energy-market-pricing【含迭代】/dc-power-flow/dc-power-flow_v0/scripts/build_b_matrix.py",
+      "source": "tasks/energy-market-pricing/environment/skills/dc-power-flow/scripts/build_b_matrix.py",
+      "relative_source": "scripts/build_b_matrix.py",
+      "revision": "edd6e7e78db78f442bf184164b70749583184da5",
+      "blob": "f8f62e7812e069a732d53c12c751438a8eb39971",
+      "sha256": "3b07dfb22a66d7003c9a11ab94500dfa6e976316999f28f35f22ad48860acd54",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

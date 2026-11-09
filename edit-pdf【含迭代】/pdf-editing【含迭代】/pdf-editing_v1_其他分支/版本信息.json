@@ -1,0 +1,32 @@
+{
+  "task": "edit-pdf",
+  "skill": "pdf-editing",
+  "version": "v1",
+  "directory": "edit-pdf【含迭代】/pdf-editing【含迭代】/pdf-editing_v1_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "B0",
+  "source_revision": "4c56a224d1d914daccc6f17ea74208c364004868",
+  "source_root": "tasks/edit-pdf/environment/skills/pdf-editing",
+  "commit_title": "edit-pdf: remove the task's own values from the pdf-editing skill",
+  "commit_time_beijing": "2026-11-04 04:49:15",
+  "author_time_beijing": "2026-11-04 04:49:04",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "edit-pdf【含迭代】/pdf-editing【含迭代】/pdf-editing_v1_其他分支/SKILL.md",
+      "source": "tasks/edit-pdf/environment/skills/pdf-editing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "4c56a224d1d914daccc6f17ea74208c364004868",
+      "blob": "5199c8a4df5a3a1c48a5940ab266e3595bead9fb",
+      "sha256": "5526c72d98572e1e057969997cf5f5321eaadfc8139061123e67c19748ec26db",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

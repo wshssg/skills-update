@@ -1,0 +1,32 @@
+{
+  "task": "earthquake-phase-association",
+  "skill": "obspy-data-api",
+  "version": "v0",
+  "directory": "earthquake-phase-association/obspy-data-api/obspy-data-api_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+  "source_root": "tasks/earthquake-phase-association/environment/skills/obspy-data-api",
+  "commit_title": "[Task] earthquake phase association (#394)",
+  "commit_time_beijing": "2026-01-23 05:33:43",
+  "author_time_beijing": "2026-01-23 05:33:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "earthquake-phase-association/obspy-data-api/obspy-data-api_v0/SKILL.md",
+      "source": "tasks/earthquake-phase-association/environment/skills/obspy-data-api/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "cb3a222a1ee56930deec4dfd651af25404d01843",
+      "blob": "11f05ee39fafd856955d1e9ac7bc7da82727ef4f",
+      "sha256": "669584da3b2f685dc8939449b6f8c09dc9e857ed335154739aaf78f03b9a67df",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

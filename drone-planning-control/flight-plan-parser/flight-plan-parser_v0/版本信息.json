@@ -1,0 +1,32 @@
+{
+  "task": "drone-planning-control",
+  "skill": "flight-plan-parser",
+  "version": "v0",
+  "directory": "drone-planning-control/flight-plan-parser/flight-plan-parser_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c6f6a1719155c198d76fbe036f723c0184c59cc6",
+  "source_root": "tasks/drone-planning-control/environment/skills/flight-plan-parser",
+  "commit_title": "[Task] Add drone-planning-control task (#759)",
+  "commit_time_beijing": "2026-05-05 16:25:33",
+  "author_time_beijing": "2026-05-05 16:25:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "drone-planning-control/flight-plan-parser/flight-plan-parser_v0/SKILL.md",
+      "source": "tasks/drone-planning-control/environment/skills/flight-plan-parser/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c6f6a1719155c198d76fbe036f723c0184c59cc6",
+      "blob": "14805d4457717f6141e18440b020412f22acc9b6",
+      "sha256": "74acf1d6c9d8ebbebdf5509169a6bdde674faf874968ec55e383e56a11b1f127",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

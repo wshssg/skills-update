@@ -1,0 +1,32 @@
+{
+  "task": "energy-ac-optimal-power-flow",
+  "skill": "power-flow-data",
+  "version": "v0",
+  "directory": "energy-ac-optimal-power-flow【含迭代】/power-flow-data【含迭代】/power-flow-data_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+  "source_root": "tasks/energy-ac-optimal-power-flow/environment/skills/power-flow-data",
+  "commit_title": "[Task] AC Optimal Power Flow in grid operation (#507)",
+  "commit_time_beijing": "2026-01-22 15:44:25",
+  "author_time_beijing": "2026-01-22 15:44:25",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/power-flow-data【含迭代】/power-flow-data_v0/SKILL.md",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/power-flow-data/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+      "blob": "3b631dc27c516324d033229449f6e1edb5425d29",
+      "sha256": "c0cdaed3928c55a5ded553db529ab852734797ab143e0fda6d70a095daa5ae94",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

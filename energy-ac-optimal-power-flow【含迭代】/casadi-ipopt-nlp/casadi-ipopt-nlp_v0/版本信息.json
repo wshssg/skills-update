@@ -1,0 +1,32 @@
+{
+  "task": "energy-ac-optimal-power-flow",
+  "skill": "casadi-ipopt-nlp",
+  "version": "v0",
+  "directory": "energy-ac-optimal-power-flow【含迭代】/casadi-ipopt-nlp/casadi-ipopt-nlp_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+  "source_root": "tasks/energy-ac-optimal-power-flow/environment/skills/casadi-ipopt-nlp",
+  "commit_title": "[Task] AC Optimal Power Flow in grid operation (#507)",
+  "commit_time_beijing": "2026-01-22 15:44:25",
+  "author_time_beijing": "2026-01-22 15:44:25",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "energy-ac-optimal-power-flow【含迭代】/casadi-ipopt-nlp/casadi-ipopt-nlp_v0/SKILL.md",
+      "source": "tasks/energy-ac-optimal-power-flow/environment/skills/casadi-ipopt-nlp/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "7209b48a173a57cd819cc37f7b91f577276fdac1",
+      "blob": "4018f90409d819ae811a2a2c0ec3f3b043015e76",
+      "sha256": "f207a0b131e41bb3d2954038e08d491b6674d87358537c8331d6d5996622ff0c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

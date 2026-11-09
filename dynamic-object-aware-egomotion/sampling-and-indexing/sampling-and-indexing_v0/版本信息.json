@@ -1,0 +1,32 @@
+{
+  "task": "dynamic-object-aware-egomotion",
+  "skill": "sampling-and-indexing",
+  "version": "v0",
+  "directory": "dynamic-object-aware-egomotion/sampling-and-indexing/sampling-and-indexing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+  "source_root": "tasks/dynamic-object-aware-egomotion/environment/skills/sampling-and-indexing",
+  "commit_title": "[task] Add task: dynamic-object-aware-egomotion (#237)",
+  "commit_time_beijing": "2026-01-24 06:54:53",
+  "author_time_beijing": "2026-01-24 06:54:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dynamic-object-aware-egomotion/sampling-and-indexing/sampling-and-indexing_v0/SKILL.md",
+      "source": "tasks/dynamic-object-aware-egomotion/environment/skills/sampling-and-indexing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+      "blob": "4ff088da049cd2b401412c873c439fae8bc90301",
+      "sha256": "317046cac52d42837875d1d4a24d30b3597f4bcfd67ab42fde25aaf2bf4a26f9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

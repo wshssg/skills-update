@@ -1,0 +1,32 @@
+{
+  "task": "dynamic-object-aware-egomotion",
+  "skill": "output-validation",
+  "version": "v0",
+  "directory": "dynamic-object-aware-egomotion/output-validation/output-validation_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+  "source_root": "tasks/dynamic-object-aware-egomotion/environment/skills/output-validation",
+  "commit_title": "[task] Add task: dynamic-object-aware-egomotion (#237)",
+  "commit_time_beijing": "2026-01-24 06:54:53",
+  "author_time_beijing": "2026-01-24 06:54:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dynamic-object-aware-egomotion/output-validation/output-validation_v0/SKILL.md",
+      "source": "tasks/dynamic-object-aware-egomotion/environment/skills/output-validation/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+      "blob": "0754b6baa5aef7f17ee7c9ee7b60d91e5d13eb92",
+      "sha256": "fccdbde222731c06fcd34838a39b9ba4c6fe660d57a9a2b2b3f5546188545f7a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

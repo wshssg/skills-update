@@ -1,0 +1,32 @@
+{
+  "task": "dynamic-object-aware-egomotion",
+  "skill": "dyn-object-masks",
+  "version": "v0",
+  "directory": "dynamic-object-aware-egomotion/dyn-object-masks/dyn-object-masks_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+  "source_root": "tasks/dynamic-object-aware-egomotion/environment/skills/dyn-object-masks",
+  "commit_title": "[task] Add task: dynamic-object-aware-egomotion (#237)",
+  "commit_time_beijing": "2026-01-24 06:54:53",
+  "author_time_beijing": "2026-01-24 06:54:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dynamic-object-aware-egomotion/dyn-object-masks/dyn-object-masks_v0/SKILL.md",
+      "source": "tasks/dynamic-object-aware-egomotion/environment/skills/dyn-object-masks/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d5b3ddb5db34a292bd1d5fc7b4d7b682936cb26a",
+      "blob": "d40cdf166f742c0c3e7b0a9ac5f6b82b44babfe2",
+      "sha256": "f39ddb6700d3a0c4626b3764c3921fba7e0557433690294d852f9127b5c7c870",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
