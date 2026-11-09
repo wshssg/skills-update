@@ -1,0 +1,32 @@
+{
+  "task": "dapt-intrusion-detection",
+  "skill": "threat-detection",
+  "version": "v0",
+  "directory": "dapt-intrusion-detection【含迭代】/threat-detection【含迭代】/threat-detection_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "4c66ad3ea4a2db6a051da643006dc73ab9bb8d5d",
+  "source_root": "tasks/dapt-intrusion-detection/environment/skills/threat-detection",
+  "commit_title": "[task] add task dapt-intrusion-detection (#203)",
+  "commit_time_beijing": "2026-01-21 16:10:22",
+  "author_time_beijing": "2026-01-21 16:10:22",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dapt-intrusion-detection【含迭代】/threat-detection【含迭代】/threat-detection_v0/SKILL.md",
+      "source": "tasks/dapt-intrusion-detection/environment/skills/threat-detection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "4c66ad3ea4a2db6a051da643006dc73ab9bb8d5d",
+      "blob": "dd3bc517d6eefcbf4fb64ac952e64b634054440d",
+      "sha256": "456e491ca6f033a77e871005f913d04a119992ad8ea834669b145ddc66d0de86",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

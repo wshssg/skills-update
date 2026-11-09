@@ -1,0 +1,43 @@
+{
+  "task": "debug-trl-grpo",
+  "skill": "trl",
+  "version": "v0",
+  "directory": "debug-trl-grpo/trl/trl_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+  "source_root": "tasks/debug-trl-grpo/environment/skills/trl",
+  "commit_title": "[task] debug-trl-grpo (#775)",
+  "commit_time_beijing": "2026-05-05 03:25:42",
+  "author_time_beijing": "2026-05-05 03:25:42",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "debug-trl-grpo/trl/trl_v0/SKILL.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/trl/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "41158ca8356a78b8e575a3ea69da7029d1fc877e",
+      "sha256": "96e11df1379f5488435028ea9c073006917319d29540cd42baca0a97c6f2edcd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "debug-trl-grpo/trl/trl_v0/references/trl-codebase.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/trl/references/trl-codebase.md",
+      "relative_source": "references/trl-codebase.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "46af686c3acd77566a8f942ade97958ed97d7130",
+      "sha256": "c6536bb8fdf4994bea9f38049a108e883e3f5b232e4afc5d29f1ae2fb365c780",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,54 @@
+{
+  "task": "debug-trl-grpo",
+  "skill": "grpo",
+  "version": "v0",
+  "directory": "debug-trl-grpo/grpo/grpo_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+  "source_root": "tasks/debug-trl-grpo/environment/skills/grpo",
+  "commit_title": "[task] debug-trl-grpo (#775)",
+  "commit_time_beijing": "2026-05-05 03:25:42",
+  "author_time_beijing": "2026-05-05 03:25:42",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "debug-trl-grpo/grpo/grpo_v0/SKILL.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/grpo/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "54f8afac57d9ecda3a7eb4d9891860933e70b6a5",
+      "sha256": "90ef5f123f4b6107d85c69d53d6878aec29e5c08950dc52b9bd6fd872187804c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "debug-trl-grpo/grpo/grpo_v0/references/grpo-algorithm.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/grpo/references/grpo-algorithm.md",
+      "relative_source": "references/grpo-algorithm.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "6619d65b7b576ad93fa46b913c953f9a6649d46b",
+      "sha256": "6c476930413c8692ad5ea937c96347f0aa344f0c28f8a1bf8716563687024d7c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "debug-trl-grpo/grpo/grpo_v0/references/grpo-trainer-internals.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/grpo/references/grpo-trainer-internals.md",
+      "relative_source": "references/grpo-trainer-internals.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "d174ffb2e838433d9cf37aafe418f9a46c3c4db7",
+      "sha256": "6487434c2e6799bb3f7b7e4b5815afbe18c84ac09629eb68b676ac8bde566902",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

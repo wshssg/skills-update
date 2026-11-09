@@ -1,0 +1,43 @@
+{
+  "task": "dialogue-parser",
+  "skill": "dialogue-graph",
+  "version": "v1",
+  "directory": "dialogue-parser/dialogue-graph/dialogue-graph_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+  "source_root": "tasks/dialogue-parser/environment/skills/dialogue_graph",
+  "commit_title": "[Task] add taxonomy-tree-merge (#570)",
+  "commit_time_beijing": "2026-01-24 06:57:33",
+  "author_time_beijing": "2026-01-24 06:57:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dialogue-parser/dialogue-graph/dialogue-graph_v1/SKILL.md",
+      "source": "tasks/dialogue-parser/environment/skills/dialogue_graph/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "7d4b6066567b2e2f69f31c41247f11b0f6b22a93",
+      "sha256": "03d711b93219cec1cd70d823d595e7c5adffc058c5910b94886fe6cc374f08d8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "dialogue-parser/dialogue-graph/dialogue-graph_v1/scripts/dialogue_graph.py",
+      "source": "tasks/dialogue-parser/environment/skills/dialogue_graph/scripts/dialogue_graph.py",
+      "relative_source": "scripts/dialogue_graph.py",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "2eae32247d0084ae1f3b9be1cc60eac90a17994b",
+      "sha256": "e19bc0938fe03b0c122a8c2f9dabb8b2cc11c9991015d01573bb487f2087c76c",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,43 @@
+{
+  "task": "dialogue-parser",
+  "skill": "dialogue-graph",
+  "version": "v2",
+  "directory": "dialogue-parser/dialogue-graph/dialogue-graph_v2",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P2",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/dialogue-parser/environment/skills/dialogue-graph",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dialogue-parser/dialogue-graph/dialogue-graph_v2/SKILL.md",
+      "source": "tasks/dialogue-parser/environment/skills/dialogue-graph/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "7d4b6066567b2e2f69f31c41247f11b0f6b22a93",
+      "sha256": "03d711b93219cec1cd70d823d595e7c5adffc058c5910b94886fe6cc374f08d8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "dialogue-parser/dialogue-graph/dialogue-graph_v2/scripts/dialogue_graph.py",
+      "source": "tasks/dialogue-parser/environment/skills/dialogue-graph/scripts/dialogue_graph.py",
+      "relative_source": "scripts/dialogue_graph.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "d0e81b40e0970f170ca4e180fea0bc8ad277e3af",
+      "sha256": "f169725b80f5d63bddab1f2b5bbe1114643952defff760ef9e2e1096a93f53de",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

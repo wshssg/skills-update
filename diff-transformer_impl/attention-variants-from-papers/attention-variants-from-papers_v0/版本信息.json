@@ -1,0 +1,87 @@
+{
+  "task": "diff-transformer_impl",
+  "skill": "attention-variants-from-papers",
+  "version": "v0",
+  "directory": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+  "source_root": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers",
+  "commit_title": "Add diff-transformer_impl task with attention-variants-from-papers and modal-gpu skills (#697)",
+  "commit_time_beijing": "2026-04-28 02:35:19",
+  "author_time_beijing": "2026-04-28 02:35:19",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0/SKILL.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "2bd96691b932c09d7606407683380d07eb5a22b4",
+      "sha256": "d9b08a7127b674387e062fcff0caa8fbf04eb1ba77edb27a2d75d0e5ae5e4a27",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0/references/mechanism-patterns.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers/references/mechanism-patterns.md",
+      "relative_source": "references/mechanism-patterns.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "0aaa9bd69708b97890df14eb013d1908d64dc46d",
+      "sha256": "7c65f7c2676157acae989af43218c0454a8cf40bac49098d386f1f6d37c05cab",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0/references/paper-to-implementation.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers/references/paper-to-implementation.md",
+      "relative_source": "references/paper-to-implementation.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "300b68128c36b4eac6a199e4a06223f6da109102",
+      "sha256": "12e8732f0abad53acbb9b2cc2dc6111fb8c15769b4787725aa616288efceb357",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0/references/shape-ledger.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers/references/shape-ledger.md",
+      "relative_source": "references/shape-ledger.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "eff1c8f77dddac864ec0a88cda498a1395b0d4a0",
+      "sha256": "8f928a81acdce7a1726b949a78235c7c70033b3db374668dc65b10ac37e367be",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0/references/stability-and-validation.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers/references/stability-and-validation.md",
+      "relative_source": "references/stability-and-validation.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "4ebcc570e76a87cdc9c262f18faa61149eb85377",
+      "sha256": "f8f7329723d08bb3e84989b62de0e11f016631c187e545746d2bd3d3242812fe",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/attention-variants-from-papers/attention-variants-from-papers_v0/references/transformer-integration.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/attention-variants-from-papers/references/transformer-integration.md",
+      "relative_source": "references/transformer-integration.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "3dce7e3c5f14f2af4da15de3ef281e4894e3c728",
+      "sha256": "4d1e87d7505a5c8784e9f825fd27879936a6f8a605d72aa5af4200f38c774889",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

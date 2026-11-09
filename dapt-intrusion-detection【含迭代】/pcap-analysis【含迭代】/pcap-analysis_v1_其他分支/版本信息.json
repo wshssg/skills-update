@@ -1,0 +1,43 @@
+{
+  "task": "dapt-intrusion-detection",
+  "skill": "pcap-analysis",
+  "version": "v1",
+  "directory": "dapt-intrusion-detection【含迭代】/pcap-analysis【含迭代】/pcap-analysis_v1_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "B0",
+  "source_revision": "c3df262396458fa584696b4bbed3313b7621cf6c",
+  "source_root": "tasks/dapt-intrusion-detection/environment/skills/pcap-analysis",
+  "commit_title": "dapt-intrusion-detection: replace this capture's metrics in the skills",
+  "commit_time_beijing": "2026-11-04 04:55:10",
+  "author_time_beijing": "2026-11-04 04:55:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dapt-intrusion-detection【含迭代】/pcap-analysis【含迭代】/pcap-analysis_v1_其他分支/SKILL.md",
+      "source": "tasks/dapt-intrusion-detection/environment/skills/pcap-analysis/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c3df262396458fa584696b4bbed3313b7621cf6c",
+      "blob": "f511e30fc5d4cae0a0a378d12b72db66f963946c",
+      "sha256": "9ca6fdee8af8594a869edaa2234290159e1cdf16c4e88ae615335708dad16617",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "dapt-intrusion-detection【含迭代】/pcap-analysis【含迭代】/pcap-analysis_v1_其他分支/pcap_utils.py",
+      "source": "tasks/dapt-intrusion-detection/environment/skills/pcap-analysis/pcap_utils.py",
+      "relative_source": "pcap_utils.py",
+      "revision": "c3df262396458fa584696b4bbed3313b7621cf6c",
+      "blob": "c24ce3ade20d01954b1af29be38c0258d2d4003e",
+      "sha256": "6a9b8a52ff92ef0748b6f12a5553ef4866f7e179d9ff35c609378960c2990820",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

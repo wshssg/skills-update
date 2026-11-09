@@ -1,0 +1,76 @@
+{
+  "task": "data-to-d3",
+  "skill": "d3-visualization",
+  "version": "v0",
+  "directory": "data-to-d3【含迭代】/d3-visualization【含迭代】/d3-visualization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "41e185d36de81de2c5ca190940afc810e3e55780",
+  "source_root": "tasks/data-to-d3/environment/skills/d3-visualization",
+  "commit_title": "[Task] Add `D3.js data visualization` task (#205)",
+  "commit_time_beijing": "2026-01-19 04:03:20",
+  "author_time_beijing": "2026-01-19 04:03:20",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "data-to-d3【含迭代】/d3-visualization【含迭代】/d3-visualization_v0/SKILL.md",
+      "source": "tasks/data-to-d3/environment/skills/d3-visualization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "41e185d36de81de2c5ca190940afc810e3e55780",
+      "blob": "f8cd5b953508504a6c95f17e3d8ecbb4729b1edc",
+      "sha256": "a7f5eaa1da7e9e6b10b934a79e4a1cb3834e37cf0f328a4256454f41c324cde1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "data-to-d3【含迭代】/d3-visualization【含迭代】/d3-visualization_v0/scripts/bubble_chart_example.js",
+      "source": "tasks/data-to-d3/environment/skills/d3-visualization/scripts/bubble_chart_example.js",
+      "relative_source": "scripts/bubble_chart_example.js",
+      "revision": "41e185d36de81de2c5ca190940afc810e3e55780",
+      "blob": "2039f49ff7792c7d0b3659cc6f0c69bd7a350008",
+      "sha256": "763ee2d4fe89946dca996021c389ade448bd90a511a270af8b087f6b433db2ed",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "data-to-d3【含迭代】/d3-visualization【含迭代】/d3-visualization_v0/scripts/check_tooltip.js",
+      "source": "tasks/data-to-d3/environment/skills/d3-visualization/scripts/check_tooltip.js",
+      "relative_source": "scripts/check_tooltip.js",
+      "revision": "41e185d36de81de2c5ca190940afc810e3e55780",
+      "blob": "8f11b02168f5ba766c7ecbd401e42e3cd1593880",
+      "sha256": "b0bef94ec8be5bfbcb5026fe379a4405c158b2ea710f796e35ec18e1d1138e61",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "data-to-d3【含迭代】/d3-visualization【含迭代】/d3-visualization_v0/scripts/interactive_table_example.js",
+      "source": "tasks/data-to-d3/environment/skills/d3-visualization/scripts/interactive_table_example.js",
+      "relative_source": "scripts/interactive_table_example.js",
+      "revision": "41e185d36de81de2c5ca190940afc810e3e55780",
+      "blob": "00a61cadbdcebd18e1aecf15dc5910565e1b8b6a",
+      "sha256": "f329b7aa789c5dbcd5c9124561aed202ad68aa5ec7b41ed90b5666c2ae8b731d",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "data-to-d3【含迭代】/d3-visualization【含迭代】/d3-visualization_v0/scripts/tooltip_handler.js",
+      "source": "tasks/data-to-d3/environment/skills/d3-visualization/scripts/tooltip_handler.js",
+      "relative_source": "scripts/tooltip_handler.js",
+      "revision": "41e185d36de81de2c5ca190940afc810e3e55780",
+      "blob": "0007dff5b80b5f831458568fd22575554f8638ee",
+      "sha256": "cde1c3d15c8b0ed34d207bd0ecfde11ca706e062c215686de06201592cf52137",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

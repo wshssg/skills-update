@@ -1,0 +1,65 @@
+{
+  "task": "debug-trl-grpo",
+  "skill": "rl-post-training",
+  "version": "v0",
+  "directory": "debug-trl-grpo/rl-post-training/rl-post-training_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+  "source_root": "tasks/debug-trl-grpo/environment/skills/rl-post-training",
+  "commit_title": "[task] debug-trl-grpo (#775)",
+  "commit_time_beijing": "2026-05-05 03:25:42",
+  "author_time_beijing": "2026-05-05 03:25:42",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "debug-trl-grpo/rl-post-training/rl-post-training_v0/SKILL.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/rl-post-training/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "1c367604915518b49f46397457651c9f25af83f2",
+      "sha256": "3ff7177b02003bb50dc6a9783fec7a7835b3aeb184b0f161d649de498f65eb99",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "debug-trl-grpo/rl-post-training/rl-post-training_v0/references/common-pitfalls.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/rl-post-training/references/common-pitfalls.md",
+      "relative_source": "references/common-pitfalls.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "b867e9588f3a8e7cc8f14599800f27d32d6f9753",
+      "sha256": "96d082b67521c1154d2b37d46057dc05aed677695a6bef6631959ba33df6d500",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "debug-trl-grpo/rl-post-training/rl-post-training_v0/references/diagnostic-workflow.md",
+      "source": "tasks/debug-trl-grpo/environment/skills/rl-post-training/references/diagnostic-workflow.md",
+      "relative_source": "references/diagnostic-workflow.md",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "4c3c066f3793dfb549f845a3a0b986f6b1b0ea19",
+      "sha256": "c8f9260777c05ddae62782146362f034e23be7b96fbf24e6aae5345c7de694ef",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "debug-trl-grpo/rl-post-training/rl-post-training_v0/scripts/verify_pipeline.py",
+      "source": "tasks/debug-trl-grpo/environment/skills/rl-post-training/scripts/verify_pipeline.py",
+      "relative_source": "scripts/verify_pipeline.py",
+      "revision": "934ec19ba7e403c7299decce1e54ad697fd2e3ef",
+      "blob": "696605f068d95de401e24c3a3d16c417c6fa7740",
+      "sha256": "05888ee51d3e6823f7ba3680f52737574a5dd242c93e15133307e633a17e5711",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

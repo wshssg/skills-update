@@ -1,0 +1,87 @@
+{
+  "task": "diff-transformer_impl",
+  "skill": "modal-gpu",
+  "version": "v0",
+  "directory": "diff-transformer_impl/modal-gpu/modal-gpu_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+  "source_root": "tasks/diff-transformer_impl/environment/skills/modal-gpu",
+  "commit_title": "Add diff-transformer_impl task with attention-variants-from-papers and modal-gpu skills (#697)",
+  "commit_time_beijing": "2026-04-28 02:35:19",
+  "author_time_beijing": "2026-04-28 02:35:19",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "diff-transformer_impl/modal-gpu/modal-gpu_v0/SKILL.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/modal-gpu/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "f9ecc781d624123e0e3eb9e4c2416de73766bc5c",
+      "sha256": "ba362fbddbfd5b0cf4eab2ebe89c74399b21c2718a197fd28e00186a85a5420a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/modal-gpu/modal-gpu_v0/references/common-issues.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/modal-gpu/references/common-issues.md",
+      "relative_source": "references/common-issues.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "92a190bfe86a52e78eee9980e3022c71a977f6b4",
+      "sha256": "b7e152ce4e07f4d6685c33c65a6d953b2953614e823cf1d7ce3ccbe36ccbfcfd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/modal-gpu/modal-gpu_v0/references/data-download.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/modal-gpu/references/data-download.md",
+      "relative_source": "references/data-download.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "b1439612637e23cba96d1eda73d0296fdd603fad",
+      "sha256": "72d9cc7984516b62c906baf6dad5c57e9e54021c103442da6b0f6de625284274",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/modal-gpu/modal-gpu_v0/references/getting-started.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/modal-gpu/references/getting-started.md",
+      "relative_source": "references/getting-started.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "a7ca111fd3f3e3b247649e4234ec13d4cab9a2a7",
+      "sha256": "d3062db1e57412d1e0b070bf4818352006dabcfffdb6f170f68b480fc2aa97a8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/modal-gpu/modal-gpu_v0/references/gpu-selection.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/modal-gpu/references/gpu-selection.md",
+      "relative_source": "references/gpu-selection.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "823af445ce2aeef2ff4479cfc38b4e7c819c32a6",
+      "sha256": "535eb3ead9ca951a33034a11ea34df9d16a4eceb38e91f16aecd57c7239f1586",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "diff-transformer_impl/modal-gpu/modal-gpu_v0/references/results.md",
+      "source": "tasks/diff-transformer_impl/environment/skills/modal-gpu/references/results.md",
+      "relative_source": "references/results.md",
+      "revision": "77b87ea5c0dc20a1127dcc11ac7fd9c52ff98031",
+      "blob": "ed93a08739d6adbe4d048360206c71d69d3c06f6",
+      "sha256": "5c731ea4b477c6be7ba32a6eac9a6a9270ffbe5ee3864b0cfccef79a19ca892f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

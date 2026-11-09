@@ -1,0 +1,43 @@
+{
+  "task": "dialogue-parser",
+  "skill": "dialogue-graph",
+  "version": "v0",
+  "directory": "dialogue-parser/dialogue-graph/dialogue-graph_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "f5778bac70c39ae4df420b121487d958320eceef",
+  "source_root": "tasks/dialogue-parser/environment/skills/dialogue_graph",
+  "commit_title": "[Task] Dialogue-parser (#243)",
+  "commit_time_beijing": "2026-01-21 17:09:23",
+  "author_time_beijing": "2026-01-21 17:09:23",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dialogue-parser/dialogue-graph/dialogue-graph_v0/SKILL.md",
+      "source": "tasks/dialogue-parser/environment/skills/dialogue_graph/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "f5778bac70c39ae4df420b121487d958320eceef",
+      "blob": "7d4b6066567b2e2f69f31c41247f11b0f6b22a93",
+      "sha256": "03d711b93219cec1cd70d823d595e7c5adffc058c5910b94886fe6cc374f08d8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "dialogue-parser/dialogue-graph/dialogue-graph_v0/scripts/dialogue_graph.py",
+      "source": "tasks/dialogue-parser/environment/skills/dialogue_graph/scripts/dialogue_graph.py",
+      "relative_source": "scripts/dialogue_graph.py",
+      "revision": "f5778bac70c39ae4df420b121487d958320eceef",
+      "blob": "85bede0b8668d21e17ee75a184f23c46c3297b85",
+      "sha256": "4b82f20fbf7a7f28ed8b8bbfc5ff44202196f67e043800a24f51e98ee66a97ab",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

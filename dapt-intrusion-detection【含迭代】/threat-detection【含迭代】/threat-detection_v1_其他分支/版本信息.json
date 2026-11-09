@@ -1,0 +1,32 @@
+{
+  "task": "dapt-intrusion-detection",
+  "skill": "threat-detection",
+  "version": "v1",
+  "directory": "dapt-intrusion-detection【含迭代】/threat-detection【含迭代】/threat-detection_v1_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "B0",
+  "source_revision": "c3df262396458fa584696b4bbed3313b7621cf6c",
+  "source_root": "tasks/dapt-intrusion-detection/environment/skills/threat-detection",
+  "commit_title": "dapt-intrusion-detection: replace this capture's metrics in the skills",
+  "commit_time_beijing": "2026-11-04 04:55:10",
+  "author_time_beijing": "2026-11-04 04:55:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "dapt-intrusion-detection【含迭代】/threat-detection【含迭代】/threat-detection_v1_其他分支/SKILL.md",
+      "source": "tasks/dapt-intrusion-detection/environment/skills/threat-detection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c3df262396458fa584696b4bbed3313b7621cf6c",
+      "blob": "5019b0ca672bc2a154aaf784766fb7352ffefe06",
+      "sha256": "80e5955a58c7d2ee3ff9cc84df6f8432fb25d448fcdb56fb8c498ba36ef34aad",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
