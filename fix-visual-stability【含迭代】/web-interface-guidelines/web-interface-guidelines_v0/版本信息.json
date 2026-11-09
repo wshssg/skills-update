@@ -1,0 +1,43 @@
+{
+  "task": "fix-visual-stability",
+  "skill": "web-interface-guidelines",
+  "version": "v0",
+  "directory": "fix-visual-stability【含迭代】/web-interface-guidelines/web-interface-guidelines_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+  "source_root": "tasks/fix-visual-stability/environment/skills/web-interface-guidelines",
+  "commit_title": "added webapp layout tests (#464)",
+  "commit_time_beijing": "2026-01-23 07:22:35",
+  "author_time_beijing": "2026-01-23 07:22:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-visual-stability【含迭代】/web-interface-guidelines/web-interface-guidelines_v0/LICENSE",
+      "source": "tasks/fix-visual-stability/environment/skills/web-interface-guidelines/LICENSE",
+      "relative_source": "LICENSE",
+      "revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+      "blob": "b3575a3c1358eac4b9ee36a4c851872d81417760",
+      "sha256": "6cd1609c9c12233507cdd2ce0d32e9a721e3c27494951be06b90090deeeb7af2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-visual-stability【含迭代】/web-interface-guidelines/web-interface-guidelines_v0/SKILL.md",
+      "source": "tasks/fix-visual-stability/environment/skills/web-interface-guidelines/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+      "blob": "63284ed522a1aea3571fbd67ec0bd981e622d58f",
+      "sha256": "4ecd4428603ab5e53bf8c9b31a5da738a77a3bccc77db1ebd92831ef414ed795",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

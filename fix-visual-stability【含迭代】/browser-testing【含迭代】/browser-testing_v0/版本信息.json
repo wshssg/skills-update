@@ -1,0 +1,65 @@
+{
+  "task": "fix-visual-stability",
+  "skill": "browser-testing",
+  "version": "v0",
+  "directory": "fix-visual-stability【含迭代】/browser-testing【含迭代】/browser-testing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+  "source_root": "tasks/fix-visual-stability/environment/skills/browser-testing",
+  "commit_title": "added webapp layout tests (#464)",
+  "commit_time_beijing": "2026-01-23 07:22:35",
+  "author_time_beijing": "2026-01-23 07:22:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "fix-visual-stability【含迭代】/browser-testing【含迭代】/browser-testing_v0/SKILL.md",
+      "source": "tasks/fix-visual-stability/environment/skills/browser-testing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+      "blob": "0a77ceecda37ab677ac456dc2b6c9fa83c3999cc",
+      "sha256": "d2f7b6d450817281ac4ebcca130b0ca6c95fc2c7684396da0440aac7a51b27b6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "fix-visual-stability【含迭代】/browser-testing【含迭代】/browser-testing_v0/detect-flicker.ts",
+      "source": "tasks/fix-visual-stability/environment/skills/browser-testing/detect-flicker.ts",
+      "relative_source": "detect-flicker.ts",
+      "revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+      "blob": "73d26f9ea20211d860e2e4f6590f1707dfa87723",
+      "sha256": "5ba953454d8f9ce268bf9a03473d80761e9a459aaeb2d889d5670fbafdb514c9",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-visual-stability【含迭代】/browser-testing【含迭代】/browser-testing_v0/measure-cls.ts",
+      "source": "tasks/fix-visual-stability/environment/skills/browser-testing/measure-cls.ts",
+      "relative_source": "measure-cls.ts",
+      "revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+      "blob": "73d7ecd5f18c88ba10ad48260963d009be640439",
+      "sha256": "66e407b6de671d62aec733741f804ad26f789975f171dfc295252643bd7f765f",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "fix-visual-stability【含迭代】/browser-testing【含迭代】/browser-testing_v0/measure.ts",
+      "source": "tasks/fix-visual-stability/environment/skills/browser-testing/measure.ts",
+      "relative_source": "measure.ts",
+      "revision": "f3a98b9f38996553f06eeebe42fd5d6a2a83a5b2",
+      "blob": "3d57fbf6e8872a11947d6952b89b22caef3d528d",
+      "sha256": "bf41d8d0a9410f128fbce63b692c0a145c7b052b710148ad59f171a40b3cdbc8",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
