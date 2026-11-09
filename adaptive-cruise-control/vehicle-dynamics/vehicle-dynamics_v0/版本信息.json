@@ -1,0 +1,32 @@
+{
+  "task": "adaptive-cruise-control",
+  "skill": "vehicle-dynamics",
+  "version": "v0",
+  "directory": "adaptive-cruise-control/vehicle-dynamics/vehicle-dynamics_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "3e774f9fb44463115f3134edbc157d4b0a9d4a70",
+  "source_root": "tasks/adaptive-cruise-control/environment/skills/vehicle-dynamics",
+  "commit_title": "[TASK] Add adaptive-cruise-control task (#253)",
+  "commit_time_beijing": "2026-01-24 05:26:35",
+  "author_time_beijing": "2026-01-24 05:26:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "adaptive-cruise-control/vehicle-dynamics/vehicle-dynamics_v0/SKILL.md",
+      "source": "tasks/adaptive-cruise-control/environment/skills/vehicle-dynamics/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3e774f9fb44463115f3134edbc157d4b0a9d4a70",
+      "blob": "ebc4b0a9f1860969178c4ceec4eed8b31fce9e28",
+      "sha256": "bc320079e421dfea427609d9e369283a8a74c5aa520204300bd70dad1c40f1cb",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

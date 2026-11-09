@@ -1,0 +1,32 @@
+{
+  "task": "adaptive-cruise-control",
+  "skill": "simulation-metrics",
+  "version": "v0",
+  "directory": "adaptive-cruise-control/simulation-metrics/simulation-metrics_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "3e774f9fb44463115f3134edbc157d4b0a9d4a70",
+  "source_root": "tasks/adaptive-cruise-control/environment/skills/simulation-metrics",
+  "commit_title": "[TASK] Add adaptive-cruise-control task (#253)",
+  "commit_time_beijing": "2026-01-24 05:26:35",
+  "author_time_beijing": "2026-01-24 05:26:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "adaptive-cruise-control/simulation-metrics/simulation-metrics_v0/SKILL.md",
+      "source": "tasks/adaptive-cruise-control/environment/skills/simulation-metrics/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3e774f9fb44463115f3134edbc157d4b0a9d4a70",
+      "blob": "b7034fed562e45846659377e3fbbbb4ae8889836",
+      "sha256": "9e145fd19a2c4e7c20cda3343a7156caecb7b7660592c8f655de83d8e814b351",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

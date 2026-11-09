@@ -1,0 +1,32 @@
+{
+  "task": "ada-bathroom-plan-repair",
+  "skill": "ada-plan-view-accessibility",
+  "version": "v0",
+  "directory": "ada-bathroom-plan-repair/ada-plan-view-accessibility/ada-plan-view-accessibility_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "96f18546debe8a44ff6b1ac14a4d9fc1e9863f1b",
+  "source_root": "tasks/ada-bathroom-plan-repair/environment/skills/ada-plan-view-accessibility",
+  "commit_title": "[Task] ada bathroom plan repair (#765)",
+  "commit_time_beijing": "2026-05-05 15:35:32",
+  "author_time_beijing": "2026-05-05 15:35:32",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "ada-bathroom-plan-repair/ada-plan-view-accessibility/ada-plan-view-accessibility_v0/SKILL.md",
+      "source": "tasks/ada-bathroom-plan-repair/environment/skills/ada-plan-view-accessibility/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "96f18546debe8a44ff6b1ac14a4d9fc1e9863f1b",
+      "blob": "691d3bb1596d6604f5bd23abbd1c6fd8d4611f09",
+      "sha256": "d6177e0345a6b98f8d6f085a1dc8ccaad6ea4f5f3404387ece958d3c9af6ac83",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

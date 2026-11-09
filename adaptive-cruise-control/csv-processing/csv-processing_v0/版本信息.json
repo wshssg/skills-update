@@ -1,0 +1,32 @@
+{
+  "task": "adaptive-cruise-control",
+  "skill": "csv-processing",
+  "version": "v0",
+  "directory": "adaptive-cruise-control/csv-processing/csv-processing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "3e774f9fb44463115f3134edbc157d4b0a9d4a70",
+  "source_root": "tasks/adaptive-cruise-control/environment/skills/csv-processing",
+  "commit_title": "[TASK] Add adaptive-cruise-control task (#253)",
+  "commit_time_beijing": "2026-01-24 05:26:35",
+  "author_time_beijing": "2026-01-24 05:26:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "adaptive-cruise-control/csv-processing/csv-processing_v0/SKILL.md",
+      "source": "tasks/adaptive-cruise-control/environment/skills/csv-processing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3e774f9fb44463115f3134edbc157d4b0a9d4a70",
+      "blob": "8751d8b523b244492cc81743f4788ac504bcd7a2",
+      "sha256": "bba82e4a401fefe9cd040ff6ba9ccaaed6062876264e358c306089fdb7a13cee",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

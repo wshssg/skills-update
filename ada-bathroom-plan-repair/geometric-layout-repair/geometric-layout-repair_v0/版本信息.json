@@ -1,0 +1,32 @@
+{
+  "task": "ada-bathroom-plan-repair",
+  "skill": "geometric-layout-repair",
+  "version": "v0",
+  "directory": "ada-bathroom-plan-repair/geometric-layout-repair/geometric-layout-repair_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "96f18546debe8a44ff6b1ac14a4d9fc1e9863f1b",
+  "source_root": "tasks/ada-bathroom-plan-repair/environment/skills/geometric-layout-repair",
+  "commit_title": "[Task] ada bathroom plan repair (#765)",
+  "commit_time_beijing": "2026-05-05 15:35:32",
+  "author_time_beijing": "2026-05-05 15:35:32",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "ada-bathroom-plan-repair/geometric-layout-repair/geometric-layout-repair_v0/SKILL.md",
+      "source": "tasks/ada-bathroom-plan-repair/environment/skills/geometric-layout-repair/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "96f18546debe8a44ff6b1ac14a4d9fc1e9863f1b",
+      "blob": "a92d1edefb85ff54b6f59b362aea1c5d1573d379",
+      "sha256": "9fc46125c19311703f6c752ad2cffd9ad9f9cd2db6983fcb9b76800f8b7d9c8a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

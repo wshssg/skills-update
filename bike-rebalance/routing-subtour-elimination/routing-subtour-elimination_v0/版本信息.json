@@ -1,0 +1,32 @@
+{
+  "task": "bike-rebalance",
+  "skill": "routing-subtour-elimination",
+  "version": "v0",
+  "directory": "bike-rebalance/routing-subtour-elimination/routing-subtour-elimination_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+  "source_root": "tasks/bike-rebalance/environment/skills/routing-subtour-elimination",
+  "commit_title": "add bike rebalance task (#741)",
+  "commit_time_beijing": "2026-04-30 07:37:44",
+  "author_time_beijing": "2026-04-30 07:37:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "bike-rebalance/routing-subtour-elimination/routing-subtour-elimination_v0/SKILL.md",
+      "source": "tasks/bike-rebalance/environment/skills/routing-subtour-elimination/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+      "blob": "f1257204618fee320064b96616d930f1f12927e2",
+      "sha256": "211306948184411fc1f63aee8c7a59b02673a44f942a7e86cc60ebaa6ab0d12a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

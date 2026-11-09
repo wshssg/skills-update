@@ -1,0 +1,32 @@
+{
+  "task": "bike-rebalance",
+  "skill": "geospatial-routing-data",
+  "version": "v0",
+  "directory": "bike-rebalance/geospatial-routing-data/geospatial-routing-data_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+  "source_root": "tasks/bike-rebalance/environment/skills/geospatial-routing-data",
+  "commit_title": "add bike rebalance task (#741)",
+  "commit_time_beijing": "2026-04-30 07:37:44",
+  "author_time_beijing": "2026-04-30 07:37:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "bike-rebalance/geospatial-routing-data/geospatial-routing-data_v0/SKILL.md",
+      "source": "tasks/bike-rebalance/environment/skills/geospatial-routing-data/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+      "blob": "b8794a069b6b8f922b1bee0d79be794e6b730ae4",
+      "sha256": "0e278fce8dbfa2f6092826592b7eb0d740472ce5ae97bd2e05bd310933b3bda2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

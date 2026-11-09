@@ -1,0 +1,175 @@
+{
+  "task": "citation-check",
+  "skill": "citation-management",
+  "version": "v1",
+  "directory": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/citation-check/environment/skills/citation-management",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/SKILL.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "316af123c2ca94644a4f0f7ca427ced0963cae1a",
+      "sha256": "2dff78725d4952afe1cc83240649b9240a4ef3d5fb817d076ddd930d574f831d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/assets/bibtex_template.bib",
+      "source": "tasks/citation-check/environment/skills/citation-management/assets/bibtex_template.bib",
+      "relative_source": "assets/bibtex_template.bib",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "9dffc6920db3308e4e7c8c4659ccf878b1e34530",
+      "sha256": "69095a0fd392976ef402f21ae08e7a2eaffa8ce1848074123c6684956d946c03",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/assets/citation_checklist.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/assets/citation_checklist.md",
+      "relative_source": "assets/citation_checklist.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "1cdff9bf1f206a4da2d752b83aaab360ab804cf0",
+      "sha256": "27422eac274a10762d28b50c9b30f86ac4a2fef3cddab0a0a16300eb2f325461",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/references/bibtex_formatting.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/references/bibtex_formatting.md",
+      "relative_source": "references/bibtex_formatting.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "9d0e7c7444ca499f1a47ff76ca48a7869fdf80fa",
+      "sha256": "a02a65eb5aeccc15cc795e348d03bb0b749247b32eec8a8f20825da585b48157",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/references/citation_validation.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/references/citation_validation.md",
+      "relative_source": "references/citation_validation.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "1c63e377ada22407014db1dad8d046b63de8fadb",
+      "sha256": "2c5d6ddbf26d2b6db5edcf1c826020be348c1daf22ee3a271c0c441de587db2b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/references/google_scholar_search.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/references/google_scholar_search.md",
+      "relative_source": "references/google_scholar_search.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "3979e43ff090f9577a0cce6d0b8874aeffa6c688",
+      "sha256": "a16c16b4ce55cecfdce3eeb4667125b5c0fbc7041d8485aa4ec8ee9e715a475f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/references/metadata_extraction.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/references/metadata_extraction.md",
+      "relative_source": "references/metadata_extraction.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "82473343d231d0e5195bd2eaea869fa7521beeee",
+      "sha256": "71ec43daa1169f26aa2dd5bf60bf1c3406a6240a2da8ef8b80d00af3534d56c3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/references/pubmed_search.md",
+      "source": "tasks/citation-check/environment/skills/citation-management/references/pubmed_search.md",
+      "relative_source": "references/pubmed_search.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "fa5af3b8f6ecf17f1b978c8b55d666dd6a8eafb3",
+      "sha256": "2975a41117d99f524bc7784e1e4820d158782d1bd7f567cf115461631aae40c2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/scripts/doi_to_bibtex.py",
+      "source": "tasks/citation-check/environment/skills/citation-management/scripts/doi_to_bibtex.py",
+      "relative_source": "scripts/doi_to_bibtex.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "b4c7a917a3a5b58a148e138c3311be9c8a536f1a",
+      "sha256": "c23ba8bed85c562c300d8acbf20e55e9e77bc8d933f40b0f628d1fe7441a5d38",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/scripts/extract_metadata.py",
+      "source": "tasks/citation-check/environment/skills/citation-management/scripts/extract_metadata.py",
+      "relative_source": "scripts/extract_metadata.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "4985fe5db2fdd37d0098d4e561378f757ca9dbdf",
+      "sha256": "93a367f00183b90fb87816bc5b6236046ebd2be4cb06224b9023f48957de0809",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/scripts/format_bibtex.py",
+      "source": "tasks/citation-check/environment/skills/citation-management/scripts/format_bibtex.py",
+      "relative_source": "scripts/format_bibtex.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "699de36994033bff827a29512089e1e18fffb910",
+      "sha256": "831c430afcd96342dba8263c17704334addd35053f1c546cc0258cefeb5745cc",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/scripts/search_google_scholar.py",
+      "source": "tasks/citation-check/environment/skills/citation-management/scripts/search_google_scholar.py",
+      "relative_source": "scripts/search_google_scholar.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "13d9d429f6f224d59e1fab5c6ef279d265293b6d",
+      "sha256": "0ed277d4ead882c7611a0724523871a34ac200b230544794ead24110faae83c0",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/scripts/search_pubmed.py",
+      "source": "tasks/citation-check/environment/skills/citation-management/scripts/search_pubmed.py",
+      "relative_source": "scripts/search_pubmed.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "f4c0d2d21cb3117222e835c54c7bd56c4feabe8f",
+      "sha256": "3ddccbdaeac24bf5ed676c316ed39cf443ab82cb54f1c7793320a7ea75e76880",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "citation-check【含迭代】/citation-management【含迭代】/citation-management_v1/scripts/validate_citations.py",
+      "source": "tasks/citation-check/environment/skills/citation-management/scripts/validate_citations.py",
+      "relative_source": "scripts/validate_citations.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "b13d2b4842719ea8bac8ad23f31b5688ef998c11",
+      "sha256": "8cee1fc9eee4b27519c6c11a697a179ea22d830ed3a851898bed543762d70532",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

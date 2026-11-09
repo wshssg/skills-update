@@ -1,0 +1,43 @@
+{
+  "task": "3d-scan-calc",
+  "skill": "mesh-analysis",
+  "version": "v0",
+  "directory": "3d-scan-calc/mesh-analysis/mesh-analysis_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d3a6b48e634c5bf75e473a5092f45a1a7c699f19",
+  "source_root": "tasks/3d-scan-calc/environment/skills/mesh-analysis",
+  "commit_title": "[Task] Add 3d-scan-calc task (#73)",
+  "commit_time_beijing": "2026-01-21 15:41:33",
+  "author_time_beijing": "2026-01-21 15:41:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "3d-scan-calc/mesh-analysis/mesh-analysis_v0/SKILL.md",
+      "source": "tasks/3d-scan-calc/environment/skills/mesh-analysis/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d3a6b48e634c5bf75e473a5092f45a1a7c699f19",
+      "blob": "46eb75773c961172a9561dc138dc2762199b1373",
+      "sha256": "b0c908a5e74b53e73d53105526a57949b90a3e733ea35c14fe8406342b84f7fe",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "3d-scan-calc/mesh-analysis/mesh-analysis_v0/scripts/mesh_tool.py",
+      "source": "tasks/3d-scan-calc/environment/skills/mesh-analysis/scripts/mesh_tool.py",
+      "relative_source": "scripts/mesh_tool.py",
+      "revision": "d3a6b48e634c5bf75e473a5092f45a1a7c699f19",
+      "blob": "9343571d6c57bc338979eef20ba28d58a69e935c",
+      "sha256": "f8b9265f8355b89732219f455678b7474eb7c2f6cb53daed067f6d4d700a6837",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

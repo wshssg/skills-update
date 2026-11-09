@@ -1,0 +1,32 @@
+{
+  "task": "azure-bgp-oscillation-route-leak",
+  "skill": "azure-bgp",
+  "version": "v0",
+  "directory": "azure-bgp-oscillation-route-leak/azure-bgp/azure-bgp_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "dabb337dc08e785d7384f9d4d6c0436a3120a720",
+  "source_root": "tasks/azure-bgp-oscillation-route-leak/environment/skills/azure-bgp",
+  "commit_title": "[Task] Add `azure-bgp-oscillation-route-leak` task (#288)",
+  "commit_time_beijing": "2026-01-24 18:52:52",
+  "author_time_beijing": "2026-01-24 18:52:52",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "azure-bgp-oscillation-route-leak/azure-bgp/azure-bgp_v0/SKILL.md",
+      "source": "tasks/azure-bgp-oscillation-route-leak/environment/skills/azure-bgp/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "dabb337dc08e785d7384f9d4d6c0436a3120a720",
+      "blob": "ed860d1f3c211820fa5bcb499b435375e787d672",
+      "sha256": "f66f553092bf7831bf944f4d26690c8e2825b1640c5ce0993bad6f9251d3d669",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

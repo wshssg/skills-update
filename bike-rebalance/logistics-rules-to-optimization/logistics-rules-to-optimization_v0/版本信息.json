@@ -1,0 +1,32 @@
+{
+  "task": "bike-rebalance",
+  "skill": "logistics-rules-to-optimization",
+  "version": "v0",
+  "directory": "bike-rebalance/logistics-rules-to-optimization/logistics-rules-to-optimization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+  "source_root": "tasks/bike-rebalance/environment/skills/logistics-rules-to-optimization",
+  "commit_title": "add bike rebalance task (#741)",
+  "commit_time_beijing": "2026-04-30 07:37:44",
+  "author_time_beijing": "2026-04-30 07:37:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "bike-rebalance/logistics-rules-to-optimization/logistics-rules-to-optimization_v0/SKILL.md",
+      "source": "tasks/bike-rebalance/environment/skills/logistics-rules-to-optimization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+      "blob": "626b7fe1adc5e76393ed5be54745f5bf1502f679",
+      "sha256": "d7702a4eb61d1135a89824cd59e33901eb838db4412aaa0972142bcfd0174510",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

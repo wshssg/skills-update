@@ -1,0 +1,32 @@
+{
+  "task": "bike-rebalance",
+  "skill": "scip-opt",
+  "version": "v0",
+  "directory": "bike-rebalance/scip-opt/scip-opt_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+  "source_root": "tasks/bike-rebalance/environment/skills/scip-opt",
+  "commit_title": "add bike rebalance task (#741)",
+  "commit_time_beijing": "2026-04-30 07:37:44",
+  "author_time_beijing": "2026-04-30 07:37:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "bike-rebalance/scip-opt/scip-opt_v0/SKILL.md",
+      "source": "tasks/bike-rebalance/environment/skills/scip-opt/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8e53eab028d88669cd8e3722ec1200d181e35a9",
+      "blob": "8124e681a17b4ab42fd4bcbb7f0499ec406c8bce",
+      "sha256": "17f98241df7040646ec6a5ba7285aa3337b99cb5a03efa0c38f65e6ebadb3ff2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
