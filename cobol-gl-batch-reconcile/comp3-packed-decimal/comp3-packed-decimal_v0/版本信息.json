@@ -1,0 +1,32 @@
+{
+  "task": "cobol-gl-batch-reconcile",
+  "skill": "comp3-packed-decimal",
+  "version": "v0",
+  "directory": "cobol-gl-batch-reconcile/comp3-packed-decimal/comp3-packed-decimal_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+  "source_root": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/comp3-packed-decimal",
+  "commit_title": "[Task] Cobol GL Batch Reconcile → tasks-extra (#847) (#908)",
+  "commit_time_beijing": "2026-06-04 12:15:53",
+  "author_time_beijing": "2026-06-04 12:15:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "cobol-gl-batch-reconcile/comp3-packed-decimal/comp3-packed-decimal_v0/SKILL.md",
+      "source": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/comp3-packed-decimal/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+      "blob": "8c42d618112ed84404716b286541a5dbbf200860",
+      "sha256": "729203ed00474b6cc83bdda6507561b3dae1e5be6108a73521b44dc9d2d02716",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

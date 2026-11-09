@@ -1,0 +1,43 @@
+{
+  "task": "civ6-adjacency-optimizer",
+  "skill": "hex-grid-spatial",
+  "version": "v0",
+  "directory": "civ6-adjacency-optimizer【含迭代】/hex-grid-spatial/hex-grid-spatial_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "7f78491866805c244c8e6f46531a4d952e03dc2d",
+  "source_root": "tasks/civ6-adjacency-optimizer/environment/skills/hex-grid-spatial",
+  "commit_title": "[Task] Civ6 Adjacency Optimizer. Measurement for complex constraint optimization  (#392)",
+  "commit_time_beijing": "2026-01-23 05:27:19",
+  "author_time_beijing": "2026-01-23 05:27:19",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/hex-grid-spatial/hex-grid-spatial_v0/SKILL.md",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/hex-grid-spatial/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "7f78491866805c244c8e6f46531a4d952e03dc2d",
+      "blob": "a1dc3182ef72bceb32b2276a67494221941b26fa",
+      "sha256": "3370ef7f3f47f86c9ea84a336c90706da4bc8c1a95daf5801e2c4fc133e0aefc",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/hex-grid-spatial/hex-grid-spatial_v0/scripts/hex_utils.py",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/hex-grid-spatial/scripts/hex_utils.py",
+      "relative_source": "scripts/hex_utils.py",
+      "revision": "7f78491866805c244c8e6f46531a4d952e03dc2d",
+      "blob": "5a9a8cf67cea51147800bbb3e3be64d08b692d3d",
+      "sha256": "535e8110fb303b2f6d5c9b852358f15cc5849b6542b7f48439fb32d932e3e4b8",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

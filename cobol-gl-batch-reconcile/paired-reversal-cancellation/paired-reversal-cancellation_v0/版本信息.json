@@ -1,0 +1,32 @@
+{
+  "task": "cobol-gl-batch-reconcile",
+  "skill": "paired-reversal-cancellation",
+  "version": "v0",
+  "directory": "cobol-gl-batch-reconcile/paired-reversal-cancellation/paired-reversal-cancellation_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+  "source_root": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/paired-reversal-cancellation",
+  "commit_title": "[Task] Cobol GL Batch Reconcile → tasks-extra (#847) (#908)",
+  "commit_time_beijing": "2026-06-04 12:15:53",
+  "author_time_beijing": "2026-06-04 12:15:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "cobol-gl-batch-reconcile/paired-reversal-cancellation/paired-reversal-cancellation_v0/SKILL.md",
+      "source": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/paired-reversal-cancellation/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+      "blob": "1ad85eb2ee0cbd282a65b208975f5c7add3bee23",
+      "sha256": "dc2a219c6cc747c7167762ed0f0f0294822737f9c1a7a757b44ba56c6392e557",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "cobol-gl-batch-reconcile",
+  "skill": "gnucobol-mainframe-batch",
+  "version": "v0",
+  "directory": "cobol-gl-batch-reconcile/gnucobol-mainframe-batch/gnucobol-mainframe-batch_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+  "source_root": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/gnucobol-mainframe-batch",
+  "commit_title": "[Task] Cobol GL Batch Reconcile → tasks-extra (#847) (#908)",
+  "commit_time_beijing": "2026-06-04 12:15:53",
+  "author_time_beijing": "2026-06-04 12:15:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "cobol-gl-batch-reconcile/gnucobol-mainframe-batch/gnucobol-mainframe-batch_v0/SKILL.md",
+      "source": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/gnucobol-mainframe-batch/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+      "blob": "ddadb6db833b9ecdc8a9079d5514b44ad258b13d",
+      "sha256": "9c36434ae13704a011ff4e6120904e1f638449aea3664a7b9dc7105ba2358613",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,87 @@
+{
+  "task": "crystallographic-wyckoff-position-analysis",
+  "skill": "sympy",
+  "version": "v0",
+  "directory": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+  "source_root": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy",
+  "commit_title": "[Task] crystallographic-wyckoff-position-analysis task (#218)",
+  "commit_time_beijing": "2026-01-23 07:01:19",
+  "author_time_beijing": "2026-01-23 07:01:19",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0/SKILL.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+      "blob": "b66e6c86415c7540882e471c3ef24535ada9fe3d",
+      "sha256": "abe14a6dbbf9a917ce27b284975c9283545f0981ef8ef65f9c740fa61ca909c7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0/references/advanced-topics.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy/references/advanced-topics.md",
+      "relative_source": "references/advanced-topics.md",
+      "revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+      "blob": "2eba079edb23fb4bc439cc55415d4b446ca69048",
+      "sha256": "212b3d0c3b67a45160135a4ff8d9ae89e0064cf1c68adf408a6c2af5c0d82bb9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0/references/code-generation-printing.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy/references/code-generation-printing.md",
+      "relative_source": "references/code-generation-printing.md",
+      "revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+      "blob": "2387b8359f7a42c86e80984ca0df87a604accd07",
+      "sha256": "b6f5e8b820823f70878e0b4238b582215e6b6ae6f63830766e28977d58c86f94",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0/references/core-capabilities.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy/references/core-capabilities.md",
+      "relative_source": "references/core-capabilities.md",
+      "revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+      "blob": "c3acd57c86afa7d3512bb04d5d9f80b06f6288de",
+      "sha256": "faa6c94d699a241d0ccaeaf79319abc5095fc90b7746fd7a94568161336ae7ce",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0/references/matrices-linear-algebra.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy/references/matrices-linear-algebra.md",
+      "relative_source": "references/matrices-linear-algebra.md",
+      "revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+      "blob": "63ba569fa31a0dcf66761999d245c531f100e351",
+      "sha256": "f22d091d2a38957e0e820e859e172b2d535cc1eef4f98d32d4af02962bd9a73c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/sympy【含迭代】/sympy_v0/references/physics-mechanics.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/sympy/references/physics-mechanics.md",
+      "relative_source": "references/physics-mechanics.md",
+      "revision": "b959d107191bae0b5a3223faf544e40148ecf828",
+      "blob": "ecfa3655e1f08326ac78df6ad4c1795c4dd3b466",
+      "sha256": "e5853aa09e9bddc37134afd7469bc86b952edcbd9dd6d8a6ef9c2c24a2e0fbf3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

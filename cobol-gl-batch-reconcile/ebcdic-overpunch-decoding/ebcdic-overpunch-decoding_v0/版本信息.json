@@ -1,0 +1,32 @@
+{
+  "task": "cobol-gl-batch-reconcile",
+  "skill": "ebcdic-overpunch-decoding",
+  "version": "v0",
+  "directory": "cobol-gl-batch-reconcile/ebcdic-overpunch-decoding/ebcdic-overpunch-decoding_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+  "source_root": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/ebcdic-overpunch-decoding",
+  "commit_title": "[Task] Cobol GL Batch Reconcile → tasks-extra (#847) (#908)",
+  "commit_time_beijing": "2026-06-04 12:15:53",
+  "author_time_beijing": "2026-06-04 12:15:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "cobol-gl-batch-reconcile/ebcdic-overpunch-decoding/ebcdic-overpunch-decoding_v0/SKILL.md",
+      "source": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/ebcdic-overpunch-decoding/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+      "blob": "075c5e2ed8708650e9b7dd130933da8fe19380d5",
+      "sha256": "c280003fea282ad4dcfbeb33ec0bebb6dc4873f2281a8278fcd4f2042876cb3d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

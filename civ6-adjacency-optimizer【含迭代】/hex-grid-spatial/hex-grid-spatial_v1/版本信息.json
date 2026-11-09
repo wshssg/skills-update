@@ -1,0 +1,43 @@
+{
+  "task": "civ6-adjacency-optimizer",
+  "skill": "hex-grid-spatial",
+  "version": "v1",
+  "directory": "civ6-adjacency-optimizer【含迭代】/hex-grid-spatial/hex-grid-spatial_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+  "source_root": "tasks/civ6-adjacency-optimizer/environment/skills/hex-grid-spatial",
+  "commit_title": "[Task] Trend anomaly causal inference (#372)",
+  "commit_time_beijing": "2026-01-24 07:01:18",
+  "author_time_beijing": "2026-01-24 07:01:18",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/hex-grid-spatial/hex-grid-spatial_v1/SKILL.md",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/hex-grid-spatial/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+      "blob": "a1dc3182ef72bceb32b2276a67494221941b26fa",
+      "sha256": "3370ef7f3f47f86c9ea84a336c90706da4bc8c1a95daf5801e2c4fc133e0aefc",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/hex-grid-spatial/hex-grid-spatial_v1/scripts/hex_utils.py",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/hex-grid-spatial/scripts/hex_utils.py",
+      "relative_source": "scripts/hex_utils.py",
+      "revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+      "blob": "fb55bf92e43bc9856b536915bd23d9c999069648",
+      "sha256": "adb32304c24556c9a591ac5a2f78de120a92bca325624069c48dda8e51bbc8a6",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

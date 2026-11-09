@@ -1,0 +1,65 @@
+{
+  "task": "civ6-adjacency-optimizer",
+  "skill": "civ6lib",
+  "version": "v2",
+  "directory": "civ6-adjacency-optimizer【含迭代】/civ6lib【含迭代】/civ6lib_v2",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P2",
+  "source_revision": "17dec325f0f0eb7431009373387bd66de8d3eb1a",
+  "source_root": "tasks/civ6-adjacency-optimizer/environment/skills/civ6lib",
+  "commit_title": "[BUG FIX] Adjacency calcualtion should be additive in the latest version (#623)",
+  "commit_time_beijing": "2026-03-14 02:50:49",
+  "author_time_beijing": "2026-03-14 02:50:49",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/civ6lib【含迭代】/civ6lib_v2/SKILL.md",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/civ6lib/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "17dec325f0f0eb7431009373387bd66de8d3eb1a",
+      "blob": "d9f8ffb5304d07964c2f35324028b1fef7f8008a",
+      "sha256": "488097528b9dfca403fd079eb673c8303b1826514ea7b73e825df759d1ff12ee",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/civ6lib【含迭代】/civ6lib_v2/scripts/adjacency_rules.py",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/civ6lib/scripts/adjacency_rules.py",
+      "relative_source": "scripts/adjacency_rules.py",
+      "revision": "17dec325f0f0eb7431009373387bd66de8d3eb1a",
+      "blob": "d039cfeb00c76699d66974d7a50c8e49ccc90c1a",
+      "sha256": "c83be856b6368bd1521914099cd84eb22d1f6cab367fbdb43fb76c7e63831154",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/civ6lib【含迭代】/civ6lib_v2/scripts/hex_utils.py",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/civ6lib/scripts/hex_utils.py",
+      "relative_source": "scripts/hex_utils.py",
+      "revision": "17dec325f0f0eb7431009373387bd66de8d3eb1a",
+      "blob": "fb55bf92e43bc9856b536915bd23d9c999069648",
+      "sha256": "adb32304c24556c9a591ac5a2f78de120a92bca325624069c48dda8e51bbc8a6",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/civ6lib【含迭代】/civ6lib_v2/scripts/placement_rules.py",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/civ6lib/scripts/placement_rules.py",
+      "relative_source": "scripts/placement_rules.py",
+      "revision": "17dec325f0f0eb7431009373387bd66de8d3eb1a",
+      "blob": "a2f9682346fa654e8c71f2717679ca5185ba9963",
+      "sha256": "7621d0388cde321c965147ae9fe4c55e5f60d49ea10363663f774b216204ea8c",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

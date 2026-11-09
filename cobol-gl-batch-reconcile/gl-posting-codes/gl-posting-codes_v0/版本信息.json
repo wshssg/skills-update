@@ -1,0 +1,32 @@
+{
+  "task": "cobol-gl-batch-reconcile",
+  "skill": "gl-posting-codes",
+  "version": "v0",
+  "directory": "cobol-gl-batch-reconcile/gl-posting-codes/gl-posting-codes_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+  "source_root": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/gl-posting-codes",
+  "commit_title": "[Task] Cobol GL Batch Reconcile → tasks-extra (#847) (#908)",
+  "commit_time_beijing": "2026-06-04 12:15:53",
+  "author_time_beijing": "2026-06-04 12:15:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "cobol-gl-batch-reconcile/gl-posting-codes/gl-posting-codes_v0/SKILL.md",
+      "source": "tasks-extra/cobol-gl-batch-reconcile/environment/skills/gl-posting-codes/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d610034d67f0773fd484d4da36eb517def92e8ba",
+      "blob": "107eabbeac53c7717e79045fe8ee9e9011d0127f",
+      "sha256": "ea568f58e27bd1aa479945b4fadaa7b07b92478aa2e4b6d1542c10ebbce72293",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

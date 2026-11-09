@@ -1,0 +1,32 @@
+{
+  "task": "civ6-adjacency-optimizer",
+  "skill": "map-optimization-strategy",
+  "version": "v0",
+  "directory": "civ6-adjacency-optimizer【含迭代】/map-optimization-strategy/map-optimization-strategy_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "7f78491866805c244c8e6f46531a4d952e03dc2d",
+  "source_root": "tasks/civ6-adjacency-optimizer/environment/skills/map-optimization-strategy",
+  "commit_title": "[Task] Civ6 Adjacency Optimizer. Measurement for complex constraint optimization  (#392)",
+  "commit_time_beijing": "2026-01-23 05:27:19",
+  "author_time_beijing": "2026-01-23 05:27:19",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "civ6-adjacency-optimizer【含迭代】/map-optimization-strategy/map-optimization-strategy_v0/SKILL.md",
+      "source": "tasks/civ6-adjacency-optimizer/environment/skills/map-optimization-strategy/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "7f78491866805c244c8e6f46531a4d952e03dc2d",
+      "blob": "0a01d98c8b5e1de4adb465ac7b434ef283373c5f",
+      "sha256": "7d712d7dd4e6ddcf0d871ce5e93081342d2477e8f83229205a739fae8b7e46ef",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

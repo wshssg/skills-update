@@ -1,0 +1,131 @@
+{
+  "task": "crystallographic-wyckoff-position-analysis",
+  "skill": "pymatgen",
+  "version": "v2",
+  "directory": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2",
+  "scope": "main",
+  "original_body_versions": [
+    "v2"
+  ],
+  "complete_package": "P2",
+  "source_revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+  "source_root": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen",
+  "commit_title": "fix(tasks): resolve remaining feedback-doc task bugs (#838)",
+  "commit_time_beijing": "2026-05-21 10:33:16",
+  "author_time_beijing": "2026-05-21 10:33:16",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/SKILL.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "288c867cd761ddb4a02eca0dc54c37264d225aea",
+      "sha256": "eeb3616b03e293072332847795e055413becfa42d74dfaeb48ac6aa90e21654f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/references/analysis_modules.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/references/analysis_modules.md",
+      "relative_source": "references/analysis_modules.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "3fb980ddb7f9fd8de3f806b056ecf8a49f7f9d89",
+      "sha256": "5029f48a4744ed15043cfa0e46340933187a2c65e56b3d0883cae8ef5868a3e4",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/references/core_classes.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/references/core_classes.md",
+      "relative_source": "references/core_classes.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "8758c46120365ec2fe81e09a90dbb4b246606a73",
+      "sha256": "230c4a8be4467a7c712d95a0b4109af2b1427b9ea7cb191bc2ea78062d7143de",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/references/io_formats.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/references/io_formats.md",
+      "relative_source": "references/io_formats.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "2552c4cda80fc25f4e8daaed767fee4828fa86aa",
+      "sha256": "d31fab0646a5be2ceefadca786f079a6b0b62f93c502a668654548d8bae9c1d1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/references/materials_project_api.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/references/materials_project_api.md",
+      "relative_source": "references/materials_project_api.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "1dc621ccdb736cef67e03b8a69cd03a912a34c7e",
+      "sha256": "9af1daa4bc88a0774b93d238fdf203d8cf86b817ac642166e55abd5248eb5fbc",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/references/transformations_workflows.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/references/transformations_workflows.md",
+      "relative_source": "references/transformations_workflows.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "745509b57765121d83c27b59ad816740daba792e",
+      "sha256": "7c7e4cc305c4c67cbcf8d56ba7bee08170ce5264e6bba964aa0b98de44001fb9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/references/wyckoff-positions-from-cif.md",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/references/wyckoff-positions-from-cif.md",
+      "relative_source": "references/wyckoff-positions-from-cif.md",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "e332d1a5f4cf4a308ad87242a6601a8546efbf0d",
+      "sha256": "141fdaeba57f807dc8b46f859028104e0d480a1a9091e66518e5a414021b111c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/scripts/phase_diagram_generator.py",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/scripts/phase_diagram_generator.py",
+      "relative_source": "scripts/phase_diagram_generator.py",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "ba2902f1e720d56500c1b8924ba0dcd04c29455a",
+      "sha256": "be132bf108bb799d81f53e17280de05db286d85c80e1ff34efe1bb75640e947e",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/scripts/structure_analyzer.py",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/scripts/structure_analyzer.py",
+      "relative_source": "scripts/structure_analyzer.py",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "677ec197d8c8a24ec91fb1e73278c49d2de2dbe9",
+      "sha256": "efd488516026e53108af8f96872c1c30928de92efca9e083c15d620575cec76f",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "crystallographic-wyckoff-position-analysis【含迭代】/pymatgen【含迭代】/pymatgen_v2/scripts/structure_converter.py",
+      "source": "tasks/crystallographic-wyckoff-position-analysis/environment/skills/pymatgen/scripts/structure_converter.py",
+      "relative_source": "scripts/structure_converter.py",
+      "revision": "5855198010d09bdedfebce34a3447baf279e8b84",
+      "blob": "d2ec40560b63bb75e165dd8f7ee93a22cfa77cbd",
+      "sha256": "a1ee392512f3e97fa014cbe2e3f290f5d049d0431e59f4dbbd80c2dce4293935",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
