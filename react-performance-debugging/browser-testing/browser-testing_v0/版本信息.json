@@ -1,0 +1,54 @@
+{
+  "task": "react-performance-debugging",
+  "skill": "browser-testing",
+  "version": "v0",
+  "directory": "react-performance-debugging/browser-testing/browser-testing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a9444f74360fbb73450610d1d2e3c5ec79749879",
+  "source_root": "tasks/react-performance-debugging/environment/skills/browser-testing",
+  "commit_title": "Added performance task for webapp (#463)",
+  "commit_time_beijing": "2026-01-24 04:18:09",
+  "author_time_beijing": "2026-01-24 04:18:09",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "react-performance-debugging/browser-testing/browser-testing_v0/SKILL.md",
+      "source": "tasks/react-performance-debugging/environment/skills/browser-testing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a9444f74360fbb73450610d1d2e3c5ec79749879",
+      "blob": "a0fdf73736acb70bad4e7bc817220894ced6763b",
+      "sha256": "2fbcf10778c9b00e8fcefc18f2e5762a95e9d7ca7844edc4c80eb0ff49b38bde",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "react-performance-debugging/browser-testing/browser-testing_v0/measure-cls.ts",
+      "source": "tasks/react-performance-debugging/environment/skills/browser-testing/measure-cls.ts",
+      "relative_source": "measure-cls.ts",
+      "revision": "a9444f74360fbb73450610d1d2e3c5ec79749879",
+      "blob": "73d7ecd5f18c88ba10ad48260963d009be640439",
+      "sha256": "66e407b6de671d62aec733741f804ad26f789975f171dfc295252643bd7f765f",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "react-performance-debugging/browser-testing/browser-testing_v0/measure.ts",
+      "source": "tasks/react-performance-debugging/environment/skills/browser-testing/measure.ts",
+      "relative_source": "measure.ts",
+      "revision": "a9444f74360fbb73450610d1d2e3c5ec79749879",
+      "blob": "3d57fbf6e8872a11947d6952b89b22caef3d528d",
+      "sha256": "bf41d8d0a9410f128fbce63b692c0a145c7b052b710148ad59f171a40b3cdbc8",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
