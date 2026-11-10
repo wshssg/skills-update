@@ -1,0 +1,32 @@
+{
+  "task": "scheduling-email-assistant",
+  "skill": "constraint-parser",
+  "version": "v0",
+  "directory": "scheduling-email-assistant/constraint-parser/constraint-parser_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+  "source_root": "tasks/scheduling-email-assistant/environment/skills/constraint-parser",
+  "commit_title": "[task] add scheduling-email-assistant task (#99)",
+  "commit_time_beijing": "2026-01-16 08:50:44",
+  "author_time_beijing": "2026-01-16 08:50:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "scheduling-email-assistant/constraint-parser/constraint-parser_v0/SKILL.md",
+      "source": "tasks/scheduling-email-assistant/environment/skills/constraint-parser/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "efe595073805b4b6cfe7c00a6fc55969e1fdcab3",
+      "sha256": "e9a5ef0c984492477375ed42d672de2a9461a3388553cace4a4714647408783b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

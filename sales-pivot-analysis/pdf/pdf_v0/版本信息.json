@@ -1,0 +1,32 @@
+{
+  "task": "sales-pivot-analysis",
+  "skill": "pdf",
+  "version": "v0",
+  "directory": "sales-pivot-analysis/pdf/pdf_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "841e0fa410d9c5fefd8d9071f3bd34ee4831143e",
+  "source_root": "tasks/sales-pivot-analysis/environment/skills/pdf",
+  "commit_title": "Feature/pivot table pdf (#165)",
+  "commit_time_beijing": "2026-01-23 05:17:10",
+  "author_time_beijing": "2026-01-23 05:17:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "sales-pivot-analysis/pdf/pdf_v0/SKILL.md",
+      "source": "tasks/sales-pivot-analysis/environment/skills/pdf/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "841e0fa410d9c5fefd8d9071f3bd34ee4831143e",
+      "blob": "aa56c8309f9d2dfbcaefe2b2eeabdf975dce8afa",
+      "sha256": "332f39fecedcfef2fa73108937e1b2d8c6789a53067a92fed8cadd9ec9e62305",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

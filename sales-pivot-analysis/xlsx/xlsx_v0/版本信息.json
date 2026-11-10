@@ -1,0 +1,32 @@
+{
+  "task": "sales-pivot-analysis",
+  "skill": "xlsx",
+  "version": "v0",
+  "directory": "sales-pivot-analysis/xlsx/xlsx_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "841e0fa410d9c5fefd8d9071f3bd34ee4831143e",
+  "source_root": "tasks/sales-pivot-analysis/environment/skills/xlsx",
+  "commit_title": "Feature/pivot table pdf (#165)",
+  "commit_time_beijing": "2026-01-23 05:17:10",
+  "author_time_beijing": "2026-01-23 05:17:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "sales-pivot-analysis/xlsx/xlsx_v0/SKILL.md",
+      "source": "tasks/sales-pivot-analysis/environment/skills/xlsx/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "841e0fa410d9c5fefd8d9071f3bd34ee4831143e",
+      "blob": "86f78b34fb199c5612cd8d3f2627d0b95dc02e9f",
+      "sha256": "845c73412be7cb9c1fcba4236a2102e8a52f0a83732496f03b3d95a0458c1ace",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

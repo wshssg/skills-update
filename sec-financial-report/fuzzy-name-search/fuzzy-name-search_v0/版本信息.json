@@ -1,0 +1,54 @@
+{
+  "task": "sec-financial-report",
+  "skill": "fuzzy-name-search",
+  "version": "v0",
+  "directory": "sec-financial-report/fuzzy-name-search/fuzzy-name-search_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+  "source_root": "tasks/sec-financial-report/environment/skills/fuzzy-name-search",
+  "commit_title": "[Task] SEC FORM 13F financial report analytics (#264)",
+  "commit_time_beijing": "2026-01-23 05:57:04",
+  "author_time_beijing": "2026-01-23 05:57:04",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "sec-financial-report/fuzzy-name-search/fuzzy-name-search_v0/SKILL.md",
+      "source": "tasks/sec-financial-report/environment/skills/fuzzy-name-search/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+      "blob": "1e31cc712810a3a75a75b845b095d77f6adcd8c8",
+      "sha256": "d3a1180be787f8d19bc5bcb4a234b4db145ab88ba5ee1bdb1acde99bc97fef98",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "sec-financial-report/fuzzy-name-search/fuzzy-name-search_v0/scripts/search_fund.py",
+      "source": "tasks/sec-financial-report/environment/skills/fuzzy-name-search/scripts/search_fund.py",
+      "relative_source": "scripts/search_fund.py",
+      "revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+      "blob": "e6d6dfc097753935f8df33e252f3449e9580a63f",
+      "sha256": "e283c1f4e8428930941c79011615a7211f4d7e17a392f820af1d2a9f204964a3",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "sec-financial-report/fuzzy-name-search/fuzzy-name-search_v0/scripts/search_stock_cusip.py",
+      "source": "tasks/sec-financial-report/environment/skills/fuzzy-name-search/scripts/search_stock_cusip.py",
+      "relative_source": "scripts/search_stock_cusip.py",
+      "revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+      "blob": "3ec8f7db9188ec74b46f287167b300e01b8a017c",
+      "sha256": "83e4ba631d57b0d8b44e609efdc2552483687c6e90cb766eb227ea0c8a708b66",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

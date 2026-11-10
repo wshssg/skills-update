@@ -1,0 +1,54 @@
+{
+  "task": "sec-financial-report",
+  "skill": "13f-analyzer",
+  "version": "v0",
+  "directory": "sec-financial-report/13f-analyzer/13f-analyzer_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+  "source_root": "tasks/sec-financial-report/environment/skills/13f-analyzer",
+  "commit_title": "[Task] SEC FORM 13F financial report analytics (#264)",
+  "commit_time_beijing": "2026-01-23 05:57:04",
+  "author_time_beijing": "2026-01-23 05:57:04",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "sec-financial-report/13f-analyzer/13f-analyzer_v0/SKILL.md",
+      "source": "tasks/sec-financial-report/environment/skills/13f-analyzer/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+      "blob": "b7ae6e339996fffc9823f34a0ec48c9b7700867d",
+      "sha256": "fac0b5f05405e1e8631f0dcc8f34649e1eaf3252ae3dd8ef7eb9aadaf3c5290d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "sec-financial-report/13f-analyzer/13f-analyzer_v0/scripts/holding_analysis.py",
+      "source": "tasks/sec-financial-report/environment/skills/13f-analyzer/scripts/holding_analysis.py",
+      "relative_source": "scripts/holding_analysis.py",
+      "revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+      "blob": "9a5df27ebb6ef98f23ba33a54fd28d621d018d5e",
+      "sha256": "b2043afd020a32475e9a45ddb5a810082dbb4b1b967fae2153c3bb7e31b6d860",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "sec-financial-report/13f-analyzer/13f-analyzer_v0/scripts/one_fund_analysis.py",
+      "source": "tasks/sec-financial-report/environment/skills/13f-analyzer/scripts/one_fund_analysis.py",
+      "relative_source": "scripts/one_fund_analysis.py",
+      "revision": "63207d1141ad28e28eaa0d06a134b9a4163ab98f",
+      "blob": "bf22f0e9f6bddda8fe3bcebaa9d3d0ed60d3675c",
+      "sha256": "cf599cfc21d7419573641397252d0bb8f6da43deefd2aefdbb59fcae28034f15",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

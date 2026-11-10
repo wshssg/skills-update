@@ -1,0 +1,219 @@
+{
+  "task": "scheduling-email-assistant",
+  "skill": "gmail-skill",
+  "version": "v0",
+  "directory": "scheduling-email-assistant/gmail-skill/gmail-skill_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+  "source_root": "tasks/scheduling-email-assistant/environment/skills/gmail-skill",
+  "commit_title": "[task] add scheduling-email-assistant task (#99)",
+  "commit_time_beijing": "2026-01-16 08:50:44",
+  "author_time_beijing": "2026-01-16 08:50:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/.gitignore",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/.gitignore",
+      "relative_source": ".gitignore",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "5d2f9b98b0c20d68efa13e86535fade04ad93b5d",
+      "sha256": "e4bbfea22a91e759b8f7a52fc428ef2bd21f476ac7c2abc5418fc82ab1a20b1e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/README.md",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/README.md",
+      "relative_source": "README.md",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "2083b88bafb5d53e08a1d11f8eab684d8aed4876",
+      "sha256": "370f6f15bf7cb5b13e7b0830e9f0e2e8552010ce83cfc0e6ca55c0bf4e96073c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/SKILL.md",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "4ac4338c441f1d3252dbb210532ad8dafdc6cc08",
+      "sha256": "76f6e18cb7ee9f4283deff245b011e59dc49c6ace3a37d5cfbfa036a4b2ed9c5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/docs/google-cloud-setup.md",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/docs/google-cloud-setup.md",
+      "relative_source": "docs/google-cloud-setup.md",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "e793345748ec7e2bd8c5435419b72c0bdd312008",
+      "sha256": "468cb628de993935865030308d4fee9ff384e358c0fa5808ff4400f0c405ad98",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/package.json",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/package.json",
+      "relative_source": "package.json",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "91821d37bf4eae9092a2db0be167a022761b590f",
+      "sha256": "dbb85874dc4cf5b3a538985d8c15d5e1c19983aff0450fb2f4453500a1b83edc",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/action-logger.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/action-logger.js",
+      "relative_source": "scripts/action-logger.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "462b21e04c0cca30986315184b279ebb673ac150",
+      "sha256": "46401820b673e2deb447b65586f21d3fb23b4663e2474585160f0a2e4cb88c3b",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/auth/auth-utils.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/auth/auth-utils.js",
+      "relative_source": "scripts/auth/auth-utils.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "08fa0371c9259ecab6d809284bb838079482dcf5",
+      "sha256": "bf26c4f2b193099a85d227158411eb8233eb979853c64ef4b5c69f304c063cd9",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/auth/setup-oauth.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/auth/setup-oauth.js",
+      "relative_source": "scripts/auth/setup-oauth.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "87bdebee7c2e0336136bbcbb15e08f9198193039",
+      "sha256": "9daed298846784e25a2ccc9d8d11d835be586e55e3b79d8713e23f165de3db3f",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-drafts.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-drafts.js",
+      "relative_source": "scripts/gmail-drafts.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "527ae77a28a92bd1b5b290c8bfc79e0321b081b9",
+      "sha256": "044da099cd8eaa7d23ed33bf28ce1c81d25eb1b332b9d1d7f10bd3822dd8acd9",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-every-paywall-cleanup.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-every-paywall-cleanup.js",
+      "relative_source": "scripts/gmail-every-paywall-cleanup.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "4567042b2c933d2687a9524686154c33bb8ce270",
+      "sha256": "27b66b886a36686426d17b65e8755f41fbffdebfc17120c344f556755ad4f3de",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-filters.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-filters.js",
+      "relative_source": "scripts/gmail-filters.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "a7825e9be41c15d6027351684942eee40b0e08c9",
+      "sha256": "05b226da28efa6dd9dc88f1865a18d79657e2ed8f628f3eb4369534dd735c374",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-forward.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-forward.js",
+      "relative_source": "scripts/gmail-forward.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "5da59cf52103379a169ca45970ccd70e940a0313",
+      "sha256": "94d4b1d1125f8af690c0c45a3d52217c09ec1eb6b2dc1cd12c93a9193e4780be",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-labels.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-labels.js",
+      "relative_source": "scripts/gmail-labels.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "503ab2df48a59626748d7404e7ae83959fb1f537",
+      "sha256": "1f0b465757e4c73825125ca0186847cb9e456061409a02d54ff2cdfdbbb5dabb",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-read.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-read.js",
+      "relative_source": "scripts/gmail-read.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "225aabb6aa45fb4dc31d9d220c6e60fe27998ef0",
+      "sha256": "6fba8db32356db102dffe8df827ccd587965e408f0698f28ee6f0686f2ecb483",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-search.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-search.js",
+      "relative_source": "scripts/gmail-search.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "a42334f8dfd49d2b1ccd200767dbff3c0374667a",
+      "sha256": "bc00941e6588c7cff16babda53083fef5089b9b88046853f5c4295e1c6b35d1c",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/gmail-send.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/gmail-send.js",
+      "relative_source": "scripts/gmail-send.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "eb260b63a833a023cd25d417962b644649e3d7e5",
+      "sha256": "7c869ac594855b315db4c24b0e753ed8cc876afc1f53513795f2c77c1c129e4a",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/manage-accounts.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/manage-accounts.js",
+      "relative_source": "scripts/manage-accounts.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "48af9f2cd1994e3d8e251271befcf1d09db508fc",
+      "sha256": "14c264dbb196e0dcc0d5ab32b411beae8fec51bf6459b47831070e6dd09cc7fa",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "scheduling-email-assistant/gmail-skill/gmail-skill_v0/scripts/migrate-tokens.js",
+      "source": "tasks/scheduling-email-assistant/environment/skills/gmail-skill/scripts/migrate-tokens.js",
+      "relative_source": "scripts/migrate-tokens.js",
+      "revision": "b58997f329e4b125a8954b551540f6bb57f760da",
+      "blob": "fe9295ce5e2c5022dda7e00438f09267367fab06",
+      "sha256": "9439941f56023de6dc1c0960aafede46714b61e44c17525f5c418b2c4f575534",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
