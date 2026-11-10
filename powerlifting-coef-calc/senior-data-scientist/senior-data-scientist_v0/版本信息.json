@@ -1,0 +1,98 @@
+{
+  "task": "powerlifting-coef-calc",
+  "skill": "senior-data-scientist",
+  "version": "v0",
+  "directory": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+  "source_root": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist",
+  "commit_title": "[task]: calculating powerlifting coeffcients as a professional coach / judge (#133)",
+  "commit_time_beijing": "2026-01-19 04:23:43",
+  "author_time_beijing": "2026-01-19 04:23:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/SKILL.md",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "c61c186893eb0afda5d391a9d1ad70f6edad11b9",
+      "sha256": "1e6974ea60451055b3b11ff8b12d6bbb8ef90ab2bf973830718271c8ed53de06",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/references/experiment_design_frameworks.md",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/references/experiment_design_frameworks.md",
+      "relative_source": "references/experiment_design_frameworks.md",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "b9ee9d7308dc54ac7d6b8c12d96460b8d200e610",
+      "sha256": "4bb669406f3a3e2482bfc775e328643bda472a334dea7cdcb41c1b0bb87b4673",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/references/feature_engineering_patterns.md",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/references/feature_engineering_patterns.md",
+      "relative_source": "references/feature_engineering_patterns.md",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "48c8a7b7821799bf295362f5378472f842e89dae",
+      "sha256": "6657db3b24fc5fc721f4a29ce6be0ff0a6da1dae92aca67d56945ecc74858cd0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/references/statistical_methods_advanced.md",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/references/statistical_methods_advanced.md",
+      "relative_source": "references/statistical_methods_advanced.md",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "7954035cd936bd854ccccfc6c392f9258ad22e43",
+      "sha256": "2ad183277b8e57a307085ca7265258d31a08761bc5d3f5844a33dbc79a40a48b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/scripts/experiment_designer.py",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/scripts/experiment_designer.py",
+      "relative_source": "scripts/experiment_designer.py",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "76700226c9d2c389ae933717b185fa1f9610c2bd",
+      "sha256": "5d7c456612717a10d00a420eaa214e665dd89c7ed9f3f5c4e26bd7b8f140f961",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/scripts/feature_engineering_pipeline.py",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/scripts/feature_engineering_pipeline.py",
+      "relative_source": "scripts/feature_engineering_pipeline.py",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "ebac6410983f19332701f0d6e4ec2f58a305e4a0",
+      "sha256": "0d163ee74177498ab0ff86a5374ba965076edb8a5f4a273aa01dc9e87540700c",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "powerlifting-coef-calc/senior-data-scientist/senior-data-scientist_v0/scripts/model_evaluation_suite.py",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/senior-data-scientist/scripts/model_evaluation_suite.py",
+      "relative_source": "scripts/model_evaluation_suite.py",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "e2ad70602011cd82e115793df0d1b707170476af",
+      "sha256": "761843bd69e60acfd40a18c06f7e939dc7c31d63ec64ba4545c894adbb4c8313",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

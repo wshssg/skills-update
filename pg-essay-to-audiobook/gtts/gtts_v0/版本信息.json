@@ -1,0 +1,32 @@
+{
+  "task": "pg-essay-to-audiobook",
+  "skill": "gtts",
+  "version": "v0",
+  "directory": "pg-essay-to-audiobook/gtts/gtts_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "15169da9764e1767fe83b1fa83f832dd7306455b",
+  "source_root": "tasks/pg-essay-to-audiobook/environment/skills/gtts",
+  "commit_title": "[task] pg-essay-to-audiobook (#161)",
+  "commit_time_beijing": "2026-01-22 11:40:13",
+  "author_time_beijing": "2026-01-22 11:40:13",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pg-essay-to-audiobook/gtts/gtts_v0/SKILL.md",
+      "source": "tasks/pg-essay-to-audiobook/environment/skills/gtts/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "15169da9764e1767fe83b1fa83f832dd7306455b",
+      "blob": "55913a066def0c71e5fdacca52efd6cfe715e78b",
+      "sha256": "d96a286fd3faee4debabdf889abdbf5e3983c40e24cb6bf9becf317738111d5b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

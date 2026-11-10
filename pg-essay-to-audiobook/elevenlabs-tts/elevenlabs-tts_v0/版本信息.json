@@ -1,0 +1,32 @@
+{
+  "task": "pg-essay-to-audiobook",
+  "skill": "elevenlabs-tts",
+  "version": "v0",
+  "directory": "pg-essay-to-audiobook/elevenlabs-tts/elevenlabs-tts_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "15169da9764e1767fe83b1fa83f832dd7306455b",
+  "source_root": "tasks/pg-essay-to-audiobook/environment/skills/elevenlabs-tts",
+  "commit_title": "[task] pg-essay-to-audiobook (#161)",
+  "commit_time_beijing": "2026-01-22 11:40:13",
+  "author_time_beijing": "2026-01-22 11:40:13",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pg-essay-to-audiobook/elevenlabs-tts/elevenlabs-tts_v0/SKILL.md",
+      "source": "tasks/pg-essay-to-audiobook/environment/skills/elevenlabs-tts/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "15169da9764e1767fe83b1fa83f832dd7306455b",
+      "blob": "42fa20dc3de54896aed49ba28144f946a6bba323",
+      "sha256": "b06eb58aeaf4ee9116905fd2b9475ebccf54eaaa2df4adb8fb89dae95d964b28",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

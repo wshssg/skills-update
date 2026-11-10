@@ -1,0 +1,32 @@
+{
+  "task": "powerlifting-coef-calc",
+  "skill": "powerlifting",
+  "version": "v0",
+  "directory": "powerlifting-coef-calc/powerlifting/powerlifting_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+  "source_root": "tasks/powerlifting-coef-calc/environment/skills/powerlifting",
+  "commit_title": "[task]: calculating powerlifting coeffcients as a professional coach / judge (#133)",
+  "commit_time_beijing": "2026-01-19 04:23:43",
+  "author_time_beijing": "2026-01-19 04:23:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "powerlifting-coef-calc/powerlifting/powerlifting_v0/SKILL.md",
+      "source": "tasks/powerlifting-coef-calc/environment/skills/powerlifting/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "aba3afdbf4ca2fe7d3ef96689f212bed2cb39465",
+      "blob": "c8bbd3b2a1ea4cba2f9ff224297c6d198a9a0d8c",
+      "sha256": "8767b92aa10814cc7504b78c5c053d68925a1d33e1ac7c68e7f4d46f353949d6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

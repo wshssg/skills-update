@@ -1,0 +1,32 @@
+{
+  "task": "pg-essay-to-audiobook",
+  "skill": "openai-tts",
+  "version": "v0",
+  "directory": "pg-essay-to-audiobook/openai-tts/openai-tts_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "15169da9764e1767fe83b1fa83f832dd7306455b",
+  "source_root": "tasks/pg-essay-to-audiobook/environment/skills/openai-tts",
+  "commit_title": "[task] pg-essay-to-audiobook (#161)",
+  "commit_time_beijing": "2026-01-22 11:40:13",
+  "author_time_beijing": "2026-01-22 11:40:13",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pg-essay-to-audiobook/openai-tts/openai-tts_v0/SKILL.md",
+      "source": "tasks/pg-essay-to-audiobook/environment/skills/openai-tts/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "15169da9764e1767fe83b1fa83f832dd7306455b",
+      "blob": "a4faecce8592279d6c97a7910e4b17d7b1a60bf1",
+      "sha256": "8620ac884cc31b6184d254cf52e1e4d0ee830e563a15eab77db2e49861a6051f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
