@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-attractions",
+  "version": "v0",
+  "directory": "travel-planning【含迭代】/search-attractions【含迭代】/search-attractions_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+  "source_root": "tasks/travel-planning/environment/skills/search_attractions",
+  "commit_title": "Add: Travel Planning Task (#7)",
+  "commit_time_beijing": "2026-01-11 04:34:38",
+  "author_time_beijing": "2026-01-11 04:34:38",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-attractions【含迭代】/search-attractions_v0/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search_attractions/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "e6e3e731cda0d1fa4d753613388f76e69947481c",
+      "sha256": "a9b86c264e48fff4165719c49a2a3e02d7b9ee1d58a1d14afc5e02592880faaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-attractions【含迭代】/search-attractions_v0/scripts/search_attractions.py",
+      "source": "tasks/travel-planning/environment/skills/search_attractions/scripts/search_attractions.py",
+      "relative_source": "scripts/search_attractions.py",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "677b34023bcac0ddbae38f898dc7c22999676287",
+      "sha256": "c37998ec48e3852e79d96c41586a2501ca6b80daa047a40fd614e8540bec85b8",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

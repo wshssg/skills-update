@@ -1,0 +1,32 @@
+{
+  "task": "video-filler-word-remover",
+  "skill": "whisper-transcription",
+  "version": "v0",
+  "directory": "video-filler-word-remover/whisper-transcription/whisper-transcription_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1e1a1567249a6a22a6544b6b5ff38efb55218831",
+  "source_root": "tasks/video-filler-word-remover/environment/skills/whisper-transcription",
+  "commit_title": "task: video-filler-word-remover (#147)",
+  "commit_time_beijing": "2026-01-24 02:14:33",
+  "author_time_beijing": "2026-01-24 02:14:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-filler-word-remover/whisper-transcription/whisper-transcription_v0/SKILL.md",
+      "source": "tasks/video-filler-word-remover/environment/skills/whisper-transcription/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1e1a1567249a6a22a6544b6b5ff38efb55218831",
+      "blob": "557610bfe9dc9a4efa5a196dcf8fa7d8871cff4d",
+      "sha256": "3767247b1eb4a5768ea1d3c06a3edd54dfbaa23bb0abe012b88ac12268dc3699",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

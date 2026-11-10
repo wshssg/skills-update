@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "silence-detector",
+  "version": "v0",
+  "directory": "video-silence-remover【含迭代】/silence-detector/silence-detector_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+  "source_root": "tasks/video-silence-remover/environment/skills/silence-detector",
+  "commit_title": "[task] video-silence-remover (#146)",
+  "commit_time_beijing": "2026-02-18 17:11:06",
+  "author_time_beijing": "2026-02-18 17:11:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/silence-detector/silence-detector_v0/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/silence-detector/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "f6a521656c8f12f517ba4670c06a3dec42643220",
+      "sha256": "c5e4e03d8eb94edffbc0ddf09df7a07260d349041408dd12204d2d5b67a309ef",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/silence-detector/silence-detector_v0/scripts/detect_silence.py",
+      "source": "tasks/video-silence-remover/environment/skills/silence-detector/scripts/detect_silence.py",
+      "relative_source": "scripts/detect_silence.py",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "18a8bcc0e5218e50457d9255247d1c476167a092",
+      "sha256": "c35db8c1cb138be037f784726e8f11fa6d478a42a36ce591421fda8d7513e653",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

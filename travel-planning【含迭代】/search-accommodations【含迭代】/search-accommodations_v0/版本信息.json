@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-accommodations",
+  "version": "v0",
+  "directory": "travel-planning【含迭代】/search-accommodations【含迭代】/search-accommodations_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+  "source_root": "tasks/travel-planning/environment/skills/search_accommodations",
+  "commit_title": "Add: Travel Planning Task (#7)",
+  "commit_time_beijing": "2026-01-11 04:34:38",
+  "author_time_beijing": "2026-01-11 04:34:38",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-accommodations【含迭代】/search-accommodations_v0/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search_accommodations/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "e8c94363db7649652aacd0914d0de60b6717e2d9",
+      "sha256": "196a120ef2ab34bd7224ed14c5dcdf0f633f87e1a6ae817125ef1a571ed72c59",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-accommodations【含迭代】/search-accommodations_v0/scripts/search_accommodations.py",
+      "source": "tasks/travel-planning/environment/skills/search_accommodations/scripts/search_accommodations.py",
+      "relative_source": "scripts/search_accommodations.py",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "f0a01f71ca0d5e0491221c9e706a43f73a0c2b8f",
+      "sha256": "5f5f6237e62f9578883a01692dbfe836dac7f940f71595714eaa5d6e8406ed41",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

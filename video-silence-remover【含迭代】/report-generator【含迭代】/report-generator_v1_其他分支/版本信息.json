@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "report-generator",
+  "version": "v1",
+  "directory": "video-silence-remover【含迭代】/report-generator【含迭代】/report-generator_v1_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "B0",
+  "source_revision": "a86506e249a0748d1106079575984d88b0eb4af2",
+  "source_root": "tasks/video-silence-remover/environment/skills/report-generator",
+  "commit_title": "video-silence-remover: replace this video's values in the skill examples",
+  "commit_time_beijing": "2026-11-04 04:55:10",
+  "author_time_beijing": "2026-11-04 04:55:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/report-generator【含迭代】/report-generator_v1_其他分支/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/report-generator/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a86506e249a0748d1106079575984d88b0eb4af2",
+      "blob": "b26918825a0cc9138cdcf97b8c13b04f4bd3c4d7",
+      "sha256": "c604c92af28522f9b145fe7f301b19e8b3d65050be0ab013db80f7ba23f5f339",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/report-generator【含迭代】/report-generator_v1_其他分支/scripts/generate_report.py",
+      "source": "tasks/video-silence-remover/environment/skills/report-generator/scripts/generate_report.py",
+      "relative_source": "scripts/generate_report.py",
+      "revision": "a86506e249a0748d1106079575984d88b0eb4af2",
+      "blob": "41e6a11fb2415073243d0b4267a6cfc764ebecae",
+      "sha256": "2071f0245955882105e4d3d3a2a6c7af498702454d2b68e5f0c01bd738a143b9",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

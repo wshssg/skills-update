@@ -1,0 +1,32 @@
+{
+  "task": "video-filler-word-remover",
+  "skill": "filler-word-processing",
+  "version": "v0",
+  "directory": "video-filler-word-remover/filler-word-processing/filler-word-processing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1e1a1567249a6a22a6544b6b5ff38efb55218831",
+  "source_root": "tasks/video-filler-word-remover/environment/skills/filler-word-processing",
+  "commit_title": "task: video-filler-word-remover (#147)",
+  "commit_time_beijing": "2026-01-24 02:14:33",
+  "author_time_beijing": "2026-01-24 02:14:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-filler-word-remover/filler-word-processing/filler-word-processing_v0/SKILL.md",
+      "source": "tasks/video-filler-word-remover/environment/skills/filler-word-processing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1e1a1567249a6a22a6544b6b5ff38efb55218831",
+      "blob": "92a3f3e10cd0ed6e30fa8b3af3e61b666becd881",
+      "sha256": "9a22c9b28331035c4767a72f033fac1dfef102bdbfac55126c03b60211a49137",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

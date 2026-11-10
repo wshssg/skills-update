@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "audio-extractor",
+  "version": "v0",
+  "directory": "video-silence-remover【含迭代】/audio-extractor/audio-extractor_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+  "source_root": "tasks/video-silence-remover/environment/skills/audio-extractor",
+  "commit_title": "[task] video-silence-remover (#146)",
+  "commit_time_beijing": "2026-02-18 17:11:06",
+  "author_time_beijing": "2026-02-18 17:11:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/audio-extractor/audio-extractor_v0/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/audio-extractor/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "2d118fdd96ccc18e1612f9536bec1c28c48be3a8",
+      "sha256": "519c65b662030cf4e67e1babbbafad4484e9c8f4d8dd03a931e4a8f9023b1aaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/audio-extractor/audio-extractor_v0/scripts/extract_audio.py",
+      "source": "tasks/video-silence-remover/environment/skills/audio-extractor/scripts/extract_audio.py",
+      "relative_source": "scripts/extract_audio.py",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "2fdf2e1f373483a1e6db0f22453bca182479389f",
+      "sha256": "516c27f0a2eaa012ec73e300107816611be9fef8ad19136e895229fefcaed219",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

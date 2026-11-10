@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-attractions",
+  "version": "v1",
+  "directory": "travel-planning【含迭代】/search-attractions【含迭代】/search-attractions_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/travel-planning/environment/skills/search-attractions",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-attractions【含迭代】/search-attractions_v1/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search-attractions/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "ba25ce356ab6db5a87c2f2ea57563e7d4ade602a",
+      "sha256": "1a022a9c7ddfaed2f02a668535c491bd44e3196258258d5d84f00d8a26c0e7d8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-attractions【含迭代】/search-attractions_v1/scripts/search_attractions.py",
+      "source": "tasks/travel-planning/environment/skills/search-attractions/scripts/search_attractions.py",
+      "relative_source": "scripts/search_attractions.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "677b34023bcac0ddbae38f898dc7c22999676287",
+      "sha256": "c37998ec48e3852e79d96c41586a2501ca6b80daa047a40fd614e8540bec85b8",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

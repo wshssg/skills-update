@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-restaurants",
+  "version": "v1",
+  "directory": "travel-planning【含迭代】/search-restaurants【含迭代】/search-restaurants_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/travel-planning/environment/skills/search-restaurants",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-restaurants【含迭代】/search-restaurants_v1/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search-restaurants/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "d1df4c7cbdbfb098ff4fbdf06e62bd83ca622054",
+      "sha256": "6a33f2c46d214f14ad02ad0c47613d2cf4ce816a3aaf41adc1ac549c755780d6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-restaurants【含迭代】/search-restaurants_v1/scripts/search_restaurants.py",
+      "source": "tasks/travel-planning/environment/skills/search-restaurants/scripts/search_restaurants.py",
+      "relative_source": "scripts/search_restaurants.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "66a7f357304a9fdf0de655b28e4f78a78d4cdf80",
+      "sha256": "ea3ff98d87d5b0a91c200fdba6bbc0400654251450fc9ab66c2f8c096b174280",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

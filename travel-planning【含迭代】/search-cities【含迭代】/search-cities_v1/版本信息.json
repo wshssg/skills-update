@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-cities",
+  "version": "v1",
+  "directory": "travel-planning【含迭代】/search-cities【含迭代】/search-cities_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/travel-planning/environment/skills/search-cities",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-cities【含迭代】/search-cities_v1/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search-cities/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "91dfd1688ef9c053b1367db185b163f19c044a0b",
+      "sha256": "93df8526bfaa429af0770e9c8483ba4d183e6ab259dfb26c60ca4dcd5fcc0b0f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-cities【含迭代】/search-cities_v1/scripts/search_cities.py",
+      "source": "tasks/travel-planning/environment/skills/search-cities/scripts/search_cities.py",
+      "relative_source": "scripts/search_cities.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "6e803a97c9594054f183dee7dba86c4440d2137c",
+      "sha256": "44346df7b8391e00d1953d7786fcd6d2d37540947ddcbfc5ed583557fd9edd93",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

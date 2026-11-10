@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-cities",
+  "version": "v0",
+  "directory": "travel-planning【含迭代】/search-cities【含迭代】/search-cities_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+  "source_root": "tasks/travel-planning/environment/skills/search_cities",
+  "commit_title": "Add: Travel Planning Task (#7)",
+  "commit_time_beijing": "2026-01-11 04:34:38",
+  "author_time_beijing": "2026-01-11 04:34:38",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-cities【含迭代】/search-cities_v0/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search_cities/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "4af6260a89ce3f6a29ed38a99da6955a3c849f9b",
+      "sha256": "d9099021c428b462d924c4b73427d5444d3ae603e32f6ec5b49dcc18cfcd410a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-cities【含迭代】/search-cities_v0/scripts/search_cities.py",
+      "source": "tasks/travel-planning/environment/skills/search_cities/scripts/search_cities.py",
+      "relative_source": "scripts/search_cities.py",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "6e803a97c9594054f183dee7dba86c4440d2137c",
+      "sha256": "44346df7b8391e00d1953d7786fcd6d2d37540947ddcbfc5ed583557fd9edd93",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

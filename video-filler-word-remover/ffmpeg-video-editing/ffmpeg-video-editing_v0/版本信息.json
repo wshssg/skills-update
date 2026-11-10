@@ -1,0 +1,32 @@
+{
+  "task": "video-filler-word-remover",
+  "skill": "ffmpeg-video-editing",
+  "version": "v0",
+  "directory": "video-filler-word-remover/ffmpeg-video-editing/ffmpeg-video-editing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "1e1a1567249a6a22a6544b6b5ff38efb55218831",
+  "source_root": "tasks/video-filler-word-remover/environment/skills/ffmpeg-video-editing",
+  "commit_title": "task: video-filler-word-remover (#147)",
+  "commit_time_beijing": "2026-01-24 02:14:33",
+  "author_time_beijing": "2026-01-24 02:14:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-filler-word-remover/ffmpeg-video-editing/ffmpeg-video-editing_v0/SKILL.md",
+      "source": "tasks/video-filler-word-remover/environment/skills/ffmpeg-video-editing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1e1a1567249a6a22a6544b6b5ff38efb55218831",
+      "blob": "713c1199ec52191d45b79f18b5751a26a579e3a7",
+      "sha256": "4e33abec2186f1354e51315dab60123009816f37b8691af26a1d3f0b5a085bc0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "segment-combiner",
+  "version": "v0",
+  "directory": "video-silence-remover【含迭代】/segment-combiner/segment-combiner_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+  "source_root": "tasks/video-silence-remover/environment/skills/segment-combiner",
+  "commit_title": "[task] video-silence-remover (#146)",
+  "commit_time_beijing": "2026-02-18 17:11:06",
+  "author_time_beijing": "2026-02-18 17:11:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/segment-combiner/segment-combiner_v0/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/segment-combiner/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "9157b8266aca48fd7754b50f4845c14f0fd680d9",
+      "sha256": "cc716f88354c1447f71f38890ae1efeb4a5ceed9c67b545831a58ea04afc1212",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/segment-combiner/segment-combiner_v0/scripts/combine_segments.py",
+      "source": "tasks/video-silence-remover/environment/skills/segment-combiner/scripts/combine_segments.py",
+      "relative_source": "scripts/combine_segments.py",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "30e8958b24215c8a06563f62b5af8b74cd62eaa9",
+      "sha256": "02c2bd9efc7ecd616dfabf35a8b0190cff319d4f6139ddaa7aa1769f2e2169bb",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "video-processor",
+  "version": "v0",
+  "directory": "video-silence-remover【含迭代】/video-processor/video-processor_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+  "source_root": "tasks/video-silence-remover/environment/skills/video-processor",
+  "commit_title": "[task] video-silence-remover (#146)",
+  "commit_time_beijing": "2026-02-18 17:11:06",
+  "author_time_beijing": "2026-02-18 17:11:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/video-processor/video-processor_v0/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/video-processor/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "1b4488f4443f12e016c5a0cde553507ca72d5437",
+      "sha256": "33d90344f81f15d1da43d8b41231167c39c8f8d5f3a929d41ce051992b415148",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/video-processor/video-processor_v0/scripts/process_video.py",
+      "source": "tasks/video-silence-remover/environment/skills/video-processor/scripts/process_video.py",
+      "relative_source": "scripts/process_video.py",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "3799311cc483ad3e76ef90c85fb6ecc69a216506",
+      "sha256": "d2fd5bbab34e1f88eda9de3e4b7c7f1ed11db4ffa6324745845194eb6792925c",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

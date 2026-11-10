@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-driving-distance",
+  "version": "v1",
+  "directory": "travel-planning【含迭代】/search-driving-distance【含迭代】/search-driving-distance_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/travel-planning/environment/skills/search-driving-distance",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-driving-distance【含迭代】/search-driving-distance_v1/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search-driving-distance/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "10bdcae97ee36703a09a5d4a34343cdc27e3c328",
+      "sha256": "4d5c8c0b4249c47cda8d8b5c6400a085999c437c7c6837dfd81dd4ea01ec91d2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-driving-distance【含迭代】/search-driving-distance_v1/scripts/search_driving_distance.py",
+      "source": "tasks/travel-planning/environment/skills/search-driving-distance/scripts/search_driving_distance.py",
+      "relative_source": "scripts/search_driving_distance.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "c833d47d883f2daf2d7bd6b64d43e9b20d74bd02",
+      "sha256": "4a7f0bc9ce94dde62e1c2875f85ee5d0d445d10586035086e563d97a81341123",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

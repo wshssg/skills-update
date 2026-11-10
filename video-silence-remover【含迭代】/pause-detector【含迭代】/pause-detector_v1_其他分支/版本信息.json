@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "pause-detector",
+  "version": "v1",
+  "directory": "video-silence-remover【含迭代】/pause-detector【含迭代】/pause-detector_v1_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "B0",
+  "source_revision": "a86506e249a0748d1106079575984d88b0eb4af2",
+  "source_root": "tasks/video-silence-remover/environment/skills/pause-detector",
+  "commit_title": "video-silence-remover: replace this video's values in the skill examples",
+  "commit_time_beijing": "2026-11-04 04:55:10",
+  "author_time_beijing": "2026-11-04 04:55:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/pause-detector【含迭代】/pause-detector_v1_其他分支/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/pause-detector/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a86506e249a0748d1106079575984d88b0eb4af2",
+      "blob": "80a26124e80be01e36f50eec3de98b66f6e5ed55",
+      "sha256": "7c9ff88c601a556ad88d361dc8092664636e8e362e59e058c6ee74e328546db9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/pause-detector【含迭代】/pause-detector_v1_其他分支/scripts/detect_pauses.py",
+      "source": "tasks/video-silence-remover/environment/skills/pause-detector/scripts/detect_pauses.py",
+      "relative_source": "scripts/detect_pauses.py",
+      "revision": "a86506e249a0748d1106079575984d88b0eb4af2",
+      "blob": "49b5236e9f82aa2e3ed2dc962d4bac3e8ee42ae2",
+      "sha256": "6fc81b9d3045885bdfacf1521b2b41f61ac5ea6585d2d96463c1c8c19b4acffd",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

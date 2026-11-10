@@ -1,0 +1,43 @@
+{
+  "task": "video-silence-remover",
+  "skill": "energy-calculator",
+  "version": "v0",
+  "directory": "video-silence-remover【含迭代】/energy-calculator/energy-calculator_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+  "source_root": "tasks/video-silence-remover/environment/skills/energy-calculator",
+  "commit_title": "[task] video-silence-remover (#146)",
+  "commit_time_beijing": "2026-02-18 17:11:06",
+  "author_time_beijing": "2026-02-18 17:11:06",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-silence-remover【含迭代】/energy-calculator/energy-calculator_v0/SKILL.md",
+      "source": "tasks/video-silence-remover/environment/skills/energy-calculator/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "986bb678da0484743447a3edaf5a84ab46409847",
+      "sha256": "4eb4e3e82f5044b38e934dee98cf66735bb3fa54ee0896e1369188354dda349f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-silence-remover【含迭代】/energy-calculator/energy-calculator_v0/scripts/calc_energy.py",
+      "source": "tasks/video-silence-remover/environment/skills/energy-calculator/scripts/calc_energy.py",
+      "relative_source": "scripts/calc_energy.py",
+      "revision": "828bb921fb94dc065bfefd6bac4e8938be3f71e0",
+      "blob": "9a721a3cc00d9d3a63913d1a856547866a00b4a0",
+      "sha256": "0002d88a22eeb6bb0026c6bf2c84222f04272069b32afe25bdb2b0357ddef84d",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

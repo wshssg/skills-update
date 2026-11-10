@@ -1,0 +1,43 @@
+{
+  "task": "video-tutorial-indexer",
+  "skill": "speech-to-text",
+  "version": "v0",
+  "directory": "video-tutorial-indexer/speech-to-text/speech-to-text_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d804638a62c7ac0e389d57c1f8fcd56aaf2e614f",
+  "source_root": "tasks/video-tutorial-indexer/environment/skills/speech-to-text",
+  "commit_title": "feat(video-tutorial-indexer): analyze a 23-minute Blender tutorial video and extract a structured, navigable index of tutorial chapters (#222)",
+  "commit_time_beijing": "2026-01-22 15:30:09",
+  "author_time_beijing": "2026-01-22 15:30:09",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "video-tutorial-indexer/speech-to-text/speech-to-text_v0/SKILL.md",
+      "source": "tasks/video-tutorial-indexer/environment/skills/speech-to-text/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d804638a62c7ac0e389d57c1f8fcd56aaf2e614f",
+      "blob": "98161555cd64eb56647311456507c588a938488f",
+      "sha256": "88c99bf6c4388335fa881d296a5c129eb8ee30c41de57cc842df6566c6bb34a6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "video-tutorial-indexer/speech-to-text/speech-to-text_v0/scripts/transcribe.py",
+      "source": "tasks/video-tutorial-indexer/environment/skills/speech-to-text/scripts/transcribe.py",
+      "relative_source": "scripts/transcribe.py",
+      "revision": "d804638a62c7ac0e389d57c1f8fcd56aaf2e614f",
+      "blob": "6dec8430bed76857584fc954f000d0a98b432e06",
+      "sha256": "a923c890d6dafe720f31bfa6f4825372323612a42e3af0c0bcf1ebd917542d95",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

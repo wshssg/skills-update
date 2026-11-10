@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-flights",
+  "version": "v0",
+  "directory": "travel-planning【含迭代】/search-flights【含迭代】/search-flights_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+  "source_root": "tasks/travel-planning/environment/skills/search_flights",
+  "commit_title": "Add: Travel Planning Task (#7)",
+  "commit_time_beijing": "2026-01-11 04:34:38",
+  "author_time_beijing": "2026-01-11 04:34:38",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-flights【含迭代】/search-flights_v0/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search_flights/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "9a373265a1e8c79853d30f60f716828824aa63f2",
+      "sha256": "a0c77266654915a1aed348caae2a7b8f045cf620528e3f5af8b5d7dc8a6de461",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-flights【含迭代】/search-flights_v0/scripts/search_flights.py",
+      "source": "tasks/travel-planning/environment/skills/search_flights/scripts/search_flights.py",
+      "relative_source": "scripts/search_flights.py",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "c0380bb89e76fa3dd2de54797eadf17d7cda5ca7",
+      "sha256": "e78bec2bdfe3053235cc581c65f3097c9cd19d26025a17f6e7145c6997067e11",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

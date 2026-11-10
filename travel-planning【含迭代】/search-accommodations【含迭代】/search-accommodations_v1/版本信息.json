@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-accommodations",
+  "version": "v1",
+  "directory": "travel-planning【含迭代】/search-accommodations【含迭代】/search-accommodations_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/travel-planning/environment/skills/search-accommodations",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-accommodations【含迭代】/search-accommodations_v1/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search-accommodations/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "73c026be4977a9f872d0534b010b53fd04820f96",
+      "sha256": "b4d84f0d8f5ca68d6d9da711041be8208d509a8137c01cd7edcb9726b03a9e81",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-accommodations【含迭代】/search-accommodations_v1/scripts/search_accommodations.py",
+      "source": "tasks/travel-planning/environment/skills/search-accommodations/scripts/search_accommodations.py",
+      "relative_source": "scripts/search_accommodations.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "f0a01f71ca0d5e0491221c9e706a43f73a0c2b8f",
+      "sha256": "5f5f6237e62f9578883a01692dbfe836dac7f940f71595714eaa5d6e8406ed41",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

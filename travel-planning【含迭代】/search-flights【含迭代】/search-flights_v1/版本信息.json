@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-flights",
+  "version": "v1",
+  "directory": "travel-planning【含迭代】/search-flights【含迭代】/search-flights_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/travel-planning/environment/skills/search-flights",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-flights【含迭代】/search-flights_v1/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search-flights/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "9f9c5d44ede44951f2c9c0015308d308afb24cd6",
+      "sha256": "455734cb845620f57b39341a6f4372d28a084e70c741ce277a6a6f4323d46e06",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-flights【含迭代】/search-flights_v1/scripts/search_flights.py",
+      "source": "tasks/travel-planning/environment/skills/search-flights/scripts/search_flights.py",
+      "relative_source": "scripts/search_flights.py",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "c0380bb89e76fa3dd2de54797eadf17d7cda5ca7",
+      "sha256": "e78bec2bdfe3053235cc581c65f3097c9cd19d26025a17f6e7145c6997067e11",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

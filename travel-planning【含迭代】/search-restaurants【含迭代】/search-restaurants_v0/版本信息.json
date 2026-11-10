@@ -1,0 +1,43 @@
+{
+  "task": "travel-planning",
+  "skill": "search-restaurants",
+  "version": "v0",
+  "directory": "travel-planning【含迭代】/search-restaurants【含迭代】/search-restaurants_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+  "source_root": "tasks/travel-planning/environment/skills/search_restaurants",
+  "commit_title": "Add: Travel Planning Task (#7)",
+  "commit_time_beijing": "2026-01-11 04:34:38",
+  "author_time_beijing": "2026-01-11 04:34:38",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "travel-planning【含迭代】/search-restaurants【含迭代】/search-restaurants_v0/SKILL.md",
+      "source": "tasks/travel-planning/environment/skills/search_restaurants/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "9f0953f561d0a423cf3174f8eecaa96377cbdd08",
+      "sha256": "4d161799e25d68c976f7049b2811fd1cfe95669f4b91942f33579e17bef32c41",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "travel-planning【含迭代】/search-restaurants【含迭代】/search-restaurants_v0/scripts/search_restaurants.py",
+      "source": "tasks/travel-planning/environment/skills/search_restaurants/scripts/search_restaurants.py",
+      "relative_source": "scripts/search_restaurants.py",
+      "revision": "8dab5a2cf9f167f10e679611a6812ab6b514dc66",
+      "blob": "66a7f357304a9fdf0de655b28e4f78a78d4cdf80",
+      "sha256": "ea3ff98d87d5b0a91c200fdba6bbc0400654251450fc9ab66c2f8c096b174280",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
