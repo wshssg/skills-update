@@ -1,0 +1,109 @@
+{
+  "task": "organize-messy-files",
+  "skill": "planning-with-files",
+  "version": "v0",
+  "directory": "organize-messy-files/planning-with-files/planning-with-files_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+  "source_root": "tasks/organize-messy-files/environment/skills/planning-with-files",
+  "commit_title": "[Task] Add organize-messy-files task  (#157)",
+  "commit_time_beijing": "2026-01-20 06:55:46",
+  "author_time_beijing": "2026-01-20 06:55:46",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/SKILL.md",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "efe892ef07de8152e3af44b0c07185ff947da3df",
+      "sha256": "e22c50c824e6b99ac10ed311a1e7aec8944a2fdfda0708f67462c8c51897ba15",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/examples.md",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/examples.md",
+      "relative_source": "examples.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "51b5f3a48aa2da3e7924cd41eaa5dce9fbcc151c",
+      "sha256": "c71999f2838c8355092c360998253b461e9f7a334805414a0b0a1d604a2308b8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/reference.md",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/reference.md",
+      "relative_source": "reference.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "1380fbb8be36b35b51458c4ae4c3869c8e8194b7",
+      "sha256": "f8b4edf7037a19cc4119f8cdc11dcda511da2d949328786202e0434d6044b830",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/scripts/check-complete.sh",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/scripts/check-complete.sh",
+      "relative_source": "scripts/check-complete.sh",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "d17a3e450ab145761e5827591b1d4807b7c0bed6",
+      "sha256": "8cac13a594852bc00ab2c64db79d346ae651048178055b1afb49878c0faf883e",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/scripts/init-session.sh",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/scripts/init-session.sh",
+      "relative_source": "scripts/init-session.sh",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "1c60de88e6aea6b6f58b320f099073441c1204eb",
+      "sha256": "1be722d7471cc1dd58ffd136af2f2e91136559a5acd10929ec507c20a10fc895",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/templates/findings.md",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/templates/findings.md",
+      "relative_source": "templates/findings.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "3505e1d6c54c601c5631dcf22bd71ddd34cf3c8d",
+      "sha256": "036e01acb38f3ae8dab1fbf6cc1aa0da0c5e04c23a4afcc3223253b07526b6fd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/templates/progress.md",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/templates/progress.md",
+      "relative_source": "templates/progress.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "0446e58216aa3400cbf1e1c55dcd51c1cc43941c",
+      "sha256": "c305d21e7e99bdf5f5f2a1d4ee48ec744c43f393eee2100c927d757a7417e9da",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "organize-messy-files/planning-with-files/planning-with-files_v0/templates/task_plan.md",
+      "source": "tasks/organize-messy-files/environment/skills/planning-with-files/templates/task_plan.md",
+      "relative_source": "templates/task_plan.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "e1c4a628a323849d4959035b973ad8b1081280c8",
+      "sha256": "901f7dac0a790a7e66818445fa68dde29b53cde8e365a000a35b0e2eda71899c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
