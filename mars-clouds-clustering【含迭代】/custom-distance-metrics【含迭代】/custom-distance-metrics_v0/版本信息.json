@@ -1,0 +1,32 @@
+{
+  "task": "mars-clouds-clustering",
+  "skill": "custom-distance-metrics",
+  "version": "v0",
+  "directory": "mars-clouds-clustering【含迭代】/custom-distance-metrics【含迭代】/custom-distance-metrics_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ab871d17c7fde5bd83e94131a7c53a032b10616a",
+  "source_root": "tasks/mars-clouds-clustering/environment/skills/custom-distance-metrics",
+  "commit_title": "Mars clustering task (#294)",
+  "commit_time_beijing": "2026-01-19 05:34:44",
+  "author_time_beijing": "2026-01-19 05:34:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mars-clouds-clustering【含迭代】/custom-distance-metrics【含迭代】/custom-distance-metrics_v0/SKILL.md",
+      "source": "tasks/mars-clouds-clustering/environment/skills/custom-distance-metrics/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ab871d17c7fde5bd83e94131a7c53a032b10616a",
+      "blob": "bc2a4a3059cd9891b2dd7727ab88732954cdc4c3",
+      "sha256": "9b3b43280cbce23046144cc9a4bf614a2c699742f99b2cd03e7ea6559133d981",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

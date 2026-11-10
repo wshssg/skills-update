@@ -1,0 +1,32 @@
+{
+  "task": "manufacturing-codebook-normalization",
+  "skill": "manufacturing-failure-reason-codebook-normalization",
+  "version": "v1",
+  "directory": "manufacturing-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+  "source_root": "tasks/manufacturing-codebook-normalization/environment/skills/manufacturing-failure-reason-codebook-normalization",
+  "commit_title": "[Task] Trend anomaly causal inference (#372)",
+  "commit_time_beijing": "2026-01-24 07:01:18",
+  "author_time_beijing": "2026-01-24 07:01:18",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "manufacturing-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization_v1/SKILL.md",
+      "source": "tasks/manufacturing-codebook-normalization/environment/skills/manufacturing-failure-reason-codebook-normalization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3109222fb1615c106323e3f2fcffb6cb413bd08b",
+      "blob": "d040bd6e46739b6fc208c0f774d3c6201b20d891",
+      "sha256": "3aba5be4d0f33208d296198fef4bad8816d191bbdd3ec8594cda1de7aab055f0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

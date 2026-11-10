@@ -1,0 +1,32 @@
+{
+  "task": "manufacturing-fjsp-optimization",
+  "skill": "fjsp-baseline-repair-with-downtime-and-policy",
+  "version": "v0",
+  "directory": "manufacturing-fjsp-optimization【含迭代】/fjsp-baseline-repair-with-downtime-and-policy【含迭代】/fjsp-baseline-repair-with-downtime-and-policy_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "f6f7bd0b9e20626819c2720908b68cf11d7ce8b2",
+  "source_root": "tasks/manufacturing-fjsp-optimization/environment/skills/fjsp-baseline-repair-with-downtime-and-policy",
+  "commit_title": "add a manufacturing fjsp task with real data published in the paper (#47)",
+  "commit_time_beijing": "2026-01-15 15:02:10",
+  "author_time_beijing": "2026-01-15 15:02:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "manufacturing-fjsp-optimization【含迭代】/fjsp-baseline-repair-with-downtime-and-policy【含迭代】/fjsp-baseline-repair-with-downtime-and-policy_v0/SKILL.md",
+      "source": "tasks/manufacturing-fjsp-optimization/environment/skills/fjsp-baseline-repair-with-downtime-and-policy/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "f6f7bd0b9e20626819c2720908b68cf11d7ce8b2",
+      "blob": "65e1c0c9a2011a23a05bfb86ae2c573c50d8a6d7",
+      "sha256": "3d45153e30fd4807dcd40974ffd86b48fe02466432fb79bb5d11dd2f85108a45",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

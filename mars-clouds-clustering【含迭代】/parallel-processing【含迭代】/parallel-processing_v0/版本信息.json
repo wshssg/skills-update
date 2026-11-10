@@ -1,0 +1,32 @@
+{
+  "task": "mars-clouds-clustering",
+  "skill": "parallel-processing",
+  "version": "v0",
+  "directory": "mars-clouds-clustering【含迭代】/parallel-processing【含迭代】/parallel-processing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ab871d17c7fde5bd83e94131a7c53a032b10616a",
+  "source_root": "tasks/mars-clouds-clustering/environment/skills/parallel-processing",
+  "commit_title": "Mars clustering task (#294)",
+  "commit_time_beijing": "2026-01-19 05:34:44",
+  "author_time_beijing": "2026-01-19 05:34:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mars-clouds-clustering【含迭代】/parallel-processing【含迭代】/parallel-processing_v0/SKILL.md",
+      "source": "tasks/mars-clouds-clustering/environment/skills/parallel-processing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ab871d17c7fde5bd83e94131a7c53a032b10616a",
+      "blob": "b545266ea15a12185200197cfcdf2eb98cb45132",
+      "sha256": "780b8df8986ef93a2ce8a12d92e489d131f803b5f1bee8e9ecd227e57dd71c93",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

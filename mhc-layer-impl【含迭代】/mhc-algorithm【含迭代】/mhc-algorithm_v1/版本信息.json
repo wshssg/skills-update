@@ -1,0 +1,87 @@
+{
+  "task": "mhc-layer-impl",
+  "skill": "mhc-algorithm",
+  "version": "v1",
+  "directory": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+  "source_root": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm",
+  "commit_title": "[Fix][Task] mhc-layer-impl env and skills (#540)",
+  "commit_time_beijing": "2026-01-20 05:09:53",
+  "author_time_beijing": "2026-01-20 05:09:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1/SKILL.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "1d3b0ae1764cca1d20ac1080451ec5f0389a6b57",
+      "sha256": "863f869e7a94c63b4e3ae3734cc6e4bff1a8769e5aebcc87f3bd42fcecaffe9a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1/references/core-concepts.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/core-concepts.md",
+      "relative_source": "references/core-concepts.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "7f2d3344fc9c16252a6406817d78f75832f95182",
+      "sha256": "a3822a0f9a53257e027435dbedff1ac57ced7b1d8a404d40922235fe8891213b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1/references/gpt-integration.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/gpt-integration.md",
+      "relative_source": "references/gpt-integration.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "ee47ca51daa094bd95b946e45cc8562c3fb33125",
+      "sha256": "23ee856493a89530b01eeeb8374633e9f9c08b9d584036edd41e709e19da755d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1/references/module-implementation.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/module-implementation.md",
+      "relative_source": "references/module-implementation.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "ab670b227ccbb34c0ae8eb8df4be05943aea1efb",
+      "sha256": "470cf273b0bd23ce7a1339b2311487bc6c3549516712ee5afcb6f42ced2c5da1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1/references/pitfalls.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/pitfalls.md",
+      "relative_source": "references/pitfalls.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "8a574c271bb8be55813659fd9fe771d8572a0ed7",
+      "sha256": "d8fb52697d003f4885412191abe6fe4a0121f77ec49cdf313981c88a90d40ee1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v1/references/sinkhorn-knopp.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/sinkhorn-knopp.md",
+      "relative_source": "references/sinkhorn-knopp.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "981033dce2a599f48458c94cbe7fcb925687ea1a",
+      "sha256": "1509406878a9f0198bb45cece02ec86e5d3298d79de7a4a2cc4d6dc62d6e2b3c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

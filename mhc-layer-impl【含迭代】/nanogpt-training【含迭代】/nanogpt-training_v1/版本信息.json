@@ -1,0 +1,98 @@
+{
+  "task": "mhc-layer-impl",
+  "skill": "nanogpt-training",
+  "version": "v1",
+  "directory": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+  "source_root": "tasks/mhc-layer-impl/environment/skills/nanogpt-training",
+  "commit_title": "[Fix][Task] mhc-layer-impl env and skills (#540)",
+  "commit_time_beijing": "2026-01-20 05:09:53",
+  "author_time_beijing": "2026-01-20 05:09:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/SKILL.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "a2953ed3cb2a3dbc86de858bb4a92966a9302403",
+      "sha256": "c51a9d618912545c6cbe9c0bdbcc5630a723280edbea29e4653558c3aa394efe",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/references/fineweb-data.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/fineweb-data.md",
+      "relative_source": "references/fineweb-data.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "292354b527f9e713607dd57ab460abe01ebb7276",
+      "sha256": "a1c28c16dc0f05c187099ab6c9588ba379827355ce470b43e1a2a0b3ce3891df",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/references/gpt-architecture.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/gpt-architecture.md",
+      "relative_source": "references/gpt-architecture.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "2b9bb2ed81ff25cee7d6ccda107608c30987ac7e",
+      "sha256": "15bfd975762bed1f63154564dc8d2f3600d105a61e83be8964abe29de4bd40af",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/references/hyperparameters.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/hyperparameters.md",
+      "relative_source": "references/hyperparameters.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "b3c7df146b1350d0bbab75522e9d90ee9900ec9a",
+      "sha256": "f25c4e34c23105647c919d9270dfbc1153a2b324c8f1bd9a0a1b589545548243",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/references/optimizers.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/optimizers.md",
+      "relative_source": "references/optimizers.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "edd8b6612348647daf39d26c085f9ff348bc8b2f",
+      "sha256": "834a4ee7853b87f287bb0cddbe27ba30b2a63d0459750baebc98786b6b46521e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/references/tokenized-data.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/tokenized-data.md",
+      "relative_source": "references/tokenized-data.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "bb521c635d4a887a62c7583e0e35f54d51342b9a",
+      "sha256": "83ff7b2355f52f167fbd30bf2b98cd7735c88bdcf07a119271579385e0d96803",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v1/references/training-loop.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/training-loop.md",
+      "relative_source": "references/training-loop.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "213784e04381a00b21392860763c53a16c9a625d",
+      "sha256": "e68755ee1635369ce1c22385b753a2c4cfb26607257637781ca766da98e8a53c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

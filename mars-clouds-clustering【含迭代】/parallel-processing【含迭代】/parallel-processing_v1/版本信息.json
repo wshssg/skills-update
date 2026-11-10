@@ -1,0 +1,32 @@
+{
+  "task": "mars-clouds-clustering",
+  "skill": "parallel-processing",
+  "version": "v1",
+  "directory": "mars-clouds-clustering【含迭代】/parallel-processing【含迭代】/parallel-processing_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "1e8e9bf067dd4852438d4ed39ada4428c2cebfb6",
+  "source_root": "tasks/mars-clouds-clustering/environment/skills/parallel-processing",
+  "commit_title": "fix: broken tasks that lead to no skills loaded in claude code (#625)",
+  "commit_time_beijing": "2026-01-26 21:34:35",
+  "author_time_beijing": "2026-01-26 21:34:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mars-clouds-clustering【含迭代】/parallel-processing【含迭代】/parallel-processing_v1/SKILL.md",
+      "source": "tasks/mars-clouds-clustering/environment/skills/parallel-processing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1e8e9bf067dd4852438d4ed39ada4428c2cebfb6",
+      "blob": "48a409ee38f7886b9b8a9b4b0e25757d837fce7d",
+      "sha256": "28428c421676d35e1342ff2240e08ccbe54ce5df6326424b35a9fa02bc270cca",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

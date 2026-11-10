@@ -1,0 +1,32 @@
+{
+  "task": "manufacturing-codebook-normalization",
+  "skill": "manufacturing-failure-reason-codebook-normalization",
+  "version": "v0",
+  "directory": "manufacturing-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "6160be0e16eadeb1889737c3bbff728f8eb1dd9e",
+  "source_root": "tasks/manufacturing-codebook-normalization/environment/skills/manufacturing-failure-reason-codebook-normalization",
+  "commit_title": "[Task] add a manufacturing testing codebook normalization task (#370)",
+  "commit_time_beijing": "2026-01-22 16:56:10",
+  "author_time_beijing": "2026-01-22 16:56:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "manufacturing-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization【含迭代】/manufacturing-failure-reason-codebook-normalization_v0/SKILL.md",
+      "source": "tasks/manufacturing-codebook-normalization/environment/skills/manufacturing-failure-reason-codebook-normalization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "6160be0e16eadeb1889737c3bbff728f8eb1dd9e",
+      "blob": "d58c741e8b5441a7b540021058b3b397410f329d",
+      "sha256": "693ec4eb9be2a51d1de3f217237fb7b8f03fd3138577a03e0a162a541437206d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

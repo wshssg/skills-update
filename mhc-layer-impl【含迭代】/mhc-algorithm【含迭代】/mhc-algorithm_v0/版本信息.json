@@ -1,0 +1,87 @@
+{
+  "task": "mhc-layer-impl",
+  "skill": "mhc-algorithm",
+  "version": "v0",
+  "directory": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+  "source_root": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm",
+  "commit_title": "[Task] Add mhc-layer-impl: DeepSeek Manifold-Constrained Hyper-Connections with Modal A100 Training (#155)",
+  "commit_time_beijing": "2026-01-15 12:39:20",
+  "author_time_beijing": "2026-01-15 12:39:20",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0/SKILL.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "ab3c282967548bd3fa88098e20ba33c28512e532",
+      "sha256": "886a7e36cb956344a73a132d7db8132e7b58a2b1c1396b7830569e004f5a00dd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0/references/core-concepts.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/core-concepts.md",
+      "relative_source": "references/core-concepts.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "7f2d3344fc9c16252a6406817d78f75832f95182",
+      "sha256": "a3822a0f9a53257e027435dbedff1ac57ced7b1d8a404d40922235fe8891213b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0/references/gpt-integration.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/gpt-integration.md",
+      "relative_source": "references/gpt-integration.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "ee47ca51daa094bd95b946e45cc8562c3fb33125",
+      "sha256": "23ee856493a89530b01eeeb8374633e9f9c08b9d584036edd41e709e19da755d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0/references/module-implementation.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/module-implementation.md",
+      "relative_source": "references/module-implementation.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "9d278066721d25ce7d45c5f7b017f9b90076357f",
+      "sha256": "380106d852891a24284b1031487fa881ae27b40c39b5693647ce8849aecf5870",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0/references/pitfalls.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/pitfalls.md",
+      "relative_source": "references/pitfalls.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "d8445683479283ba0ebefb0922ea6b933a40de9d",
+      "sha256": "f41ab1b17e3d25b240d53fde7363f94123ea1e1b7bffbe9ad99fc212a248a827",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/mhc-algorithm【含迭代】/mhc-algorithm_v0/references/sinkhorn-knopp.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/mhc-algorithm/references/sinkhorn-knopp.md",
+      "relative_source": "references/sinkhorn-knopp.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "837647aa3bdb85f7fa898c067a6cc873eb863449",
+      "sha256": "64fe1c2c9138ba84f21034e4c99d2074b341828f508f814b1ebc3b1491faef14",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,87 @@
+{
+  "task": "mhc-layer-impl",
+  "skill": "nanogpt-training",
+  "version": "v0",
+  "directory": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+  "source_root": "tasks/mhc-layer-impl/environment/skills/nanogpt-training",
+  "commit_title": "[Task] Add mhc-layer-impl: DeepSeek Manifold-Constrained Hyper-Connections with Modal A100 Training (#155)",
+  "commit_time_beijing": "2026-01-15 12:39:20",
+  "author_time_beijing": "2026-01-15 12:39:20",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0/SKILL.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "77663ab1ce13d01c882e623a5eb738480f052c50",
+      "sha256": "ba64481c5face14f99ef8a955b36e65e574c00092a88949e380b813c6d1d6799",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0/references/fineweb-data.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/fineweb-data.md",
+      "relative_source": "references/fineweb-data.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "292354b527f9e713607dd57ab460abe01ebb7276",
+      "sha256": "a1c28c16dc0f05c187099ab6c9588ba379827355ce470b43e1a2a0b3ce3891df",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0/references/gpt-architecture.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/gpt-architecture.md",
+      "relative_source": "references/gpt-architecture.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "2b9bb2ed81ff25cee7d6ccda107608c30987ac7e",
+      "sha256": "15bfd975762bed1f63154564dc8d2f3600d105a61e83be8964abe29de4bd40af",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0/references/hyperparameters.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/hyperparameters.md",
+      "relative_source": "references/hyperparameters.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "c66fc749403ab53c97b1addb54604933f1ec99c9",
+      "sha256": "c0279451ab6d197d3cfd0a70709964e7cb4c3af3acf03ad31e113dc4b5d9c537",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0/references/optimizers.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/optimizers.md",
+      "relative_source": "references/optimizers.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "edd8b6612348647daf39d26c085f9ff348bc8b2f",
+      "sha256": "834a4ee7853b87f287bb0cddbe27ba30b2a63d0459750baebc98786b6b46521e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/nanogpt-training【含迭代】/nanogpt-training_v0/references/training-loop.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/nanogpt-training/references/training-loop.md",
+      "relative_source": "references/training-loop.md",
+      "revision": "bf118ae79ca9b918b8d27eac09d9281dd1591993",
+      "blob": "213784e04381a00b21392860763c53a16c9a625d",
+      "sha256": "e68755ee1635369ce1c22385b753a2c4cfb26607257637781ca766da98e8a53c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

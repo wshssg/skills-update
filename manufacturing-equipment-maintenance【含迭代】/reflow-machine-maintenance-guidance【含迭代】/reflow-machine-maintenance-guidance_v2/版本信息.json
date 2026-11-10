@@ -1,0 +1,32 @@
+{
+  "task": "manufacturing-equipment-maintenance",
+  "skill": "reflow-machine-maintenance-guidance",
+  "version": "v2",
+  "directory": "manufacturing-equipment-maintenance【含迭代】/reflow-machine-maintenance-guidance【含迭代】/reflow-machine-maintenance-guidance_v2",
+  "scope": "main",
+  "original_body_versions": [
+    "v2"
+  ],
+  "complete_package": "P2",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/manufacturing-equipment-maintenance/environment/skills/reflow-machine-maintenance-guidance",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "manufacturing-equipment-maintenance【含迭代】/reflow-machine-maintenance-guidance【含迭代】/reflow-machine-maintenance-guidance_v2/SKILL.md",
+      "source": "tasks/manufacturing-equipment-maintenance/environment/skills/reflow-machine-maintenance-guidance/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "9563477f2d46d75ab85cb0f852f0639ea3a044de",
+      "sha256": "133b383e8c2d573c8c834b7d4c4acfd8a6fba688356ed5ad649f6dd0c1a678fb",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

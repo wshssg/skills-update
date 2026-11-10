@@ -1,0 +1,32 @@
+{
+  "task": "manufacturing-equipment-maintenance",
+  "skill": "reflow-profile-compliance-toolkit",
+  "version": "v0",
+  "directory": "manufacturing-equipment-maintenance【含迭代】/reflow-profile-compliance-toolkit【含迭代】/reflow-profile-compliance-toolkit_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "231aa1e68ec34e4db152e7adb52cb8fa8bf945b3",
+  "source_root": "tasks/manufacturing-equipment-maintenance/environment/skills/reflow_profile_compliance_toolkit",
+  "commit_title": "add a manufacturing reflow machine maintenance instruction task (#136)",
+  "commit_time_beijing": "2026-01-15 14:29:59",
+  "author_time_beijing": "2026-01-15 14:29:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "manufacturing-equipment-maintenance【含迭代】/reflow-profile-compliance-toolkit【含迭代】/reflow-profile-compliance-toolkit_v0/SKILL.md",
+      "source": "tasks/manufacturing-equipment-maintenance/environment/skills/reflow_profile_compliance_toolkit/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "231aa1e68ec34e4db152e7adb52cb8fa8bf945b3",
+      "blob": "20028ad41b7c867ddde6f15b4abaed7129af9374",
+      "sha256": "966ea89a8e44f67d90ba27af733d7122a69a345ad7fee9329bca5cd5284bafc1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

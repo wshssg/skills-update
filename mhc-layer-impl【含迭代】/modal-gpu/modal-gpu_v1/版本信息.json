@@ -1,0 +1,87 @@
+{
+  "task": "mhc-layer-impl",
+  "skill": "modal-gpu",
+  "version": "v1",
+  "directory": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+  "source_root": "tasks/mhc-layer-impl/environment/skills/modal-gpu",
+  "commit_title": "[Fix][Task] mhc-layer-impl env and skills (#540)",
+  "commit_time_beijing": "2026-01-20 05:09:53",
+  "author_time_beijing": "2026-01-20 05:09:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1/SKILL.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/modal-gpu/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "f9ecc781d624123e0e3eb9e4c2416de73766bc5c",
+      "sha256": "ba362fbddbfd5b0cf4eab2ebe89c74399b21c2718a197fd28e00186a85a5420a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1/references/common-issues.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/modal-gpu/references/common-issues.md",
+      "relative_source": "references/common-issues.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "96b2aedb52ca16f8f76c0de99c86c45fd929c671",
+      "sha256": "3fdd5e85e7074d256ffbfd635a3446980d98fea284831ac34ad2ce12ccbaadb7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1/references/data-download.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/modal-gpu/references/data-download.md",
+      "relative_source": "references/data-download.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "c1b01dc65ee426ef1809ff25726a2abab7df7ef7",
+      "sha256": "791eca52b6ea12c6fefca2b728738d157dbc25932f45864aa31e16a6a375998e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1/references/getting-started.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/modal-gpu/references/getting-started.md",
+      "relative_source": "references/getting-started.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "a7ca111fd3f3e3b247649e4234ec13d4cab9a2a7",
+      "sha256": "d3062db1e57412d1e0b070bf4818352006dabcfffdb6f170f68b480fc2aa97a8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1/references/gpu-selection.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/modal-gpu/references/gpu-selection.md",
+      "relative_source": "references/gpu-selection.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "a663222f352b860f853500da7ba2693c8c5b5a5a",
+      "sha256": "acff43d482cd14e762bc139462df10286a16ff0ac784429033eaddbd8e2a1137",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mhc-layer-impl【含迭代】/modal-gpu/modal-gpu_v1/references/results.md",
+      "source": "tasks/mhc-layer-impl/environment/skills/modal-gpu/references/results.md",
+      "relative_source": "references/results.md",
+      "revision": "972a29d82a1817d3b98aea1988a32d8714bdd05c",
+      "blob": "3ad5e379d504e96f36fc37bc4a21db1a1a4bf9d6",
+      "sha256": "488a2306ce820516a4be5ab3015e40352bcee3ae70fe90505d3039b9287f02f1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

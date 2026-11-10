@@ -1,0 +1,32 @@
+{
+  "task": "manufacturing-equipment-maintenance",
+  "skill": "reflow-profile-compliance-toolkit",
+  "version": "v2",
+  "directory": "manufacturing-equipment-maintenance【含迭代】/reflow-profile-compliance-toolkit【含迭代】/reflow-profile-compliance-toolkit_v2",
+  "scope": "main",
+  "original_body_versions": [
+    "v2"
+  ],
+  "complete_package": "P2",
+  "source_revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+  "source_root": "tasks/manufacturing-equipment-maintenance/environment/skills/reflow-profile-compliance-toolkit",
+  "commit_title": "[Task] Add Druid 0.20.0 loophole fix task (#494)",
+  "commit_time_beijing": "2026-01-25 12:14:31",
+  "author_time_beijing": "2026-01-25 12:14:31",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "manufacturing-equipment-maintenance【含迭代】/reflow-profile-compliance-toolkit【含迭代】/reflow-profile-compliance-toolkit_v2/SKILL.md",
+      "source": "tasks/manufacturing-equipment-maintenance/environment/skills/reflow-profile-compliance-toolkit/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "6c13dacd2ae5dcb53c20da3132e19bb277cefcf6",
+      "blob": "ca1a164b2831728972e8f8db81f66bcc3f52ec6d",
+      "sha256": "b21118d8a8c8acb65e26355e97eeba06e26feb183bf02ac75d3b63097e9f5192",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

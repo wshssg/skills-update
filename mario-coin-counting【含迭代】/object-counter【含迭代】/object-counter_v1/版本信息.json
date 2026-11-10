@@ -1,0 +1,43 @@
+{
+  "task": "mario-coin-counting",
+  "skill": "object-counter",
+  "version": "v1",
+  "directory": "mario-coin-counting【含迭代】/object-counter【含迭代】/object-counter_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/mario-coin-counting/environment/skills/object-counter",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mario-coin-counting【含迭代】/object-counter【含迭代】/object-counter_v1/SKILL.md",
+      "source": "tasks/mario-coin-counting/environment/skills/object-counter/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "6ee2f138eafa027164041be4e9eab07dae10e7c6",
+      "sha256": "f2dca9d7b54d80cd7bb173f98d73db31f723e0ba800dc606d5a50da90e37a450",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mario-coin-counting【含迭代】/object-counter【含迭代】/object-counter_v1/scripts/count_objects.py",
+      "source": "tasks/mario-coin-counting/environment/skills/object-counter/scripts/count_objects.py",
+      "relative_source": "scripts/count_objects.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "7338f01a402ce3602975558c057bab1c50949a23",
+      "sha256": "a28befe13bfef4d85c764d1132f22bb9a4679d06ffcecda6fc2bc944ea097c17",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

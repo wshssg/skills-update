@@ -1,0 +1,43 @@
+{
+  "task": "mario-coin-counting",
+  "skill": "object-counter",
+  "version": "v0",
+  "directory": "mario-coin-counting【含迭代】/object-counter【含迭代】/object-counter_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "29a9a30d8624027c43d45a5655f07989368d747a",
+  "source_root": "tasks/mario-coin-counting/environment/skills/object_counter",
+  "commit_title": "[Task] add video object recognition task (#139)",
+  "commit_time_beijing": "2026-01-21 15:24:21",
+  "author_time_beijing": "2026-01-21 15:24:21",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mario-coin-counting【含迭代】/object-counter【含迭代】/object-counter_v0/SKILL.md",
+      "source": "tasks/mario-coin-counting/environment/skills/object_counter/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "29a9a30d8624027c43d45a5655f07989368d747a",
+      "blob": "4058e624f745ab7f96a3e887269d765d74501167",
+      "sha256": "90d0550e5f7785a3d1fef5262a7148d9b868381e4db771535bd947cc1d20877a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "mario-coin-counting【含迭代】/object-counter【含迭代】/object-counter_v0/scripts/count_objects.py",
+      "source": "tasks/mario-coin-counting/environment/skills/object_counter/scripts/count_objects.py",
+      "relative_source": "scripts/count_objects.py",
+      "revision": "29a9a30d8624027c43d45a5655f07989368d747a",
+      "blob": "7338f01a402ce3602975558c057bab1c50949a23",
+      "sha256": "a28befe13bfef4d85c764d1132f22bb9a4679d06ffcecda6fc2bc944ea097c17",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

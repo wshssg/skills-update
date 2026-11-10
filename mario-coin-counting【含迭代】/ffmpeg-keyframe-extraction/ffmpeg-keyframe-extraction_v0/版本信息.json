@@ -1,0 +1,32 @@
+{
+  "task": "mario-coin-counting",
+  "skill": "ffmpeg-keyframe-extraction",
+  "version": "v0",
+  "directory": "mario-coin-counting【含迭代】/ffmpeg-keyframe-extraction/ffmpeg-keyframe-extraction_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "29a9a30d8624027c43d45a5655f07989368d747a",
+  "source_root": "tasks/mario-coin-counting/environment/skills/ffmpeg",
+  "commit_title": "[Task] add video object recognition task (#139)",
+  "commit_time_beijing": "2026-01-21 15:24:21",
+  "author_time_beijing": "2026-01-21 15:24:21",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mario-coin-counting【含迭代】/ffmpeg-keyframe-extraction/ffmpeg-keyframe-extraction_v0/SKILL.md",
+      "source": "tasks/mario-coin-counting/environment/skills/ffmpeg/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "29a9a30d8624027c43d45a5655f07989368d747a",
+      "blob": "db5bd3ba87c7f539594e0a4bfb6dc5815b60e033",
+      "sha256": "67d169e60ca71c40cd3aca75b8f6ca6d9dba8ba64fa4b15eb6ef50880f84e92e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

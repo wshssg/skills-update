@@ -1,0 +1,32 @@
+{
+  "task": "mars-clouds-clustering",
+  "skill": "pareto-optimization",
+  "version": "v0",
+  "directory": "mars-clouds-clustering【含迭代】/pareto-optimization【含迭代】/pareto-optimization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ab871d17c7fde5bd83e94131a7c53a032b10616a",
+  "source_root": "tasks/mars-clouds-clustering/environment/skills/pareto-optimization",
+  "commit_title": "Mars clustering task (#294)",
+  "commit_time_beijing": "2026-01-19 05:34:44",
+  "author_time_beijing": "2026-01-19 05:34:44",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mars-clouds-clustering【含迭代】/pareto-optimization【含迭代】/pareto-optimization_v0/SKILL.md",
+      "source": "tasks/mars-clouds-clustering/environment/skills/pareto-optimization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ab871d17c7fde5bd83e94131a7c53a032b10616a",
+      "blob": "0ea3d08f61bd4e3ed0ab843bf39ba7671163ef1d",
+      "sha256": "70a5dd15ab44045a9bb6c61aeab171167c4c243097a0003705deaabb280f0bc6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

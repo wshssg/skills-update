@@ -1,0 +1,32 @@
+{
+  "task": "mars-clouds-clustering",
+  "skill": "custom-distance-metrics",
+  "version": "v1",
+  "directory": "mars-clouds-clustering【含迭代】/custom-distance-metrics【含迭代】/custom-distance-metrics_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "1e8e9bf067dd4852438d4ed39ada4428c2cebfb6",
+  "source_root": "tasks/mars-clouds-clustering/environment/skills/custom-distance-metrics",
+  "commit_title": "fix: broken tasks that lead to no skills loaded in claude code (#625)",
+  "commit_time_beijing": "2026-01-26 21:34:35",
+  "author_time_beijing": "2026-01-26 21:34:35",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "mars-clouds-clustering【含迭代】/custom-distance-metrics【含迭代】/custom-distance-metrics_v1/SKILL.md",
+      "source": "tasks/mars-clouds-clustering/environment/skills/custom-distance-metrics/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "1e8e9bf067dd4852438d4ed39ada4428c2cebfb6",
+      "blob": "97a52ffad7f842afd5920982f65543291e8121c2",
+      "sha256": "da204a3ce17e6a7e2eeb72e744346228284de017cb4d5c8a7082b0b37dd41370",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
