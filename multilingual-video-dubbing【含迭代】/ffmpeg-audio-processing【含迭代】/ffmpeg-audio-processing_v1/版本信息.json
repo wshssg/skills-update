@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-audio-processing",
+  "version": "v1",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-audio-processing【含迭代】/ffmpeg-audio-processing_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-audio-processing",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-audio-processing【含迭代】/ffmpeg-audio-processing_v1/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-audio-processing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "4d1664eaa12bc6197a47fec622a3a0818073c6df",
+      "sha256": "001943d16329f201ce46274cc4984604fd84130fc159b2bc23aa1cde2ffc074c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

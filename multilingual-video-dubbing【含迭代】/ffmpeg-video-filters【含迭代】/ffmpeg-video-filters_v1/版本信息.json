@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-video-filters",
+  "version": "v1",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-video-filters【含迭代】/ffmpeg-video-filters_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-video-filters",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-video-filters【含迭代】/ffmpeg-video-filters_v1/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-video-filters/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "99a8e2abf042121d3a64e66917903750eb68c63a",
+      "sha256": "8881bfa5b93551a93ba1658f1123bb4e564ef331b370c9fd23bd658d61db1507",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

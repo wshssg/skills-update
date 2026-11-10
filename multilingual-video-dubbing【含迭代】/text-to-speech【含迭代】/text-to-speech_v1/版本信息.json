@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "text-to-speech",
+  "version": "v1",
+  "directory": "multilingual-video-dubbing【含迭代】/text-to-speech【含迭代】/text-to-speech_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/text-to-speech",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/text-to-speech【含迭代】/text-to-speech_v1/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/text-to-speech/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "3fc8a75d542531fc38c9e9c5158af945f6f2dc5e",
+      "sha256": "91e8f7dc19ff697fbdbc57d8c1228177ad1e60731b88fd7938e4d2f44444f60d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

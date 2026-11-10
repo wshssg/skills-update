@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-media-info",
+  "version": "v0",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-media-info【含迭代】/ffmpeg-media-info_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8924fd6875d04026042acf28acb739f3c286c936",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-media-info",
+  "commit_title": "[task] Add task: multilingual-video-dubbing (#238)",
+  "commit_time_beijing": "2026-01-22 16:16:41",
+  "author_time_beijing": "2026-01-22 16:16:41",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-media-info【含迭代】/ffmpeg-media-info_v0/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-media-info/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8924fd6875d04026042acf28acb739f3c286c936",
+      "blob": "5144fe5fbaa2c6388926e17b83c75ca495005a73",
+      "sha256": "ab9d5c993e64f2bf5e4df516808edfbedb8d212f5634088073614caf7381baa8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

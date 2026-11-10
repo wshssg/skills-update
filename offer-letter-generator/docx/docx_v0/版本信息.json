@@ -1,0 +1,32 @@
+{
+  "task": "offer-letter-generator",
+  "skill": "docx",
+  "version": "v0",
+  "directory": "offer-letter-generator/docx/docx_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "637b686cba7fab71f2115db5b4f6387a2241180a",
+  "source_root": "tasks/offer-letter-generator/environment/skills/docx",
+  "commit_title": "[Task] Add offer-letter-generator task (#51)",
+  "commit_time_beijing": "2026-01-12 09:54:43",
+  "author_time_beijing": "2026-01-12 09:54:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "offer-letter-generator/docx/docx_v0/SKILL.md",
+      "source": "tasks/offer-letter-generator/environment/skills/docx/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "637b686cba7fab71f2115db5b4f6387a2241180a",
+      "blob": "3a7337c7264934659d20e01de25f8654cb66f333",
+      "sha256": "65c3442f51953a6b987e8aefa9abcb458f110344e80cc16c7c7efb931a13efea",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

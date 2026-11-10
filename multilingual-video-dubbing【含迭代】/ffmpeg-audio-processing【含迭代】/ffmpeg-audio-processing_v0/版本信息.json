@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-audio-processing",
+  "version": "v0",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-audio-processing【含迭代】/ffmpeg-audio-processing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8924fd6875d04026042acf28acb739f3c286c936",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-audio-processing",
+  "commit_title": "[task] Add task: multilingual-video-dubbing (#238)",
+  "commit_time_beijing": "2026-01-22 16:16:41",
+  "author_time_beijing": "2026-01-22 16:16:41",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-audio-processing【含迭代】/ffmpeg-audio-processing_v0/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-audio-processing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8924fd6875d04026042acf28acb739f3c286c936",
+      "blob": "c0a3b17f3d77f9c3891486b9d0c23b92802367ac",
+      "sha256": "1bd65ef4399526764494c53d5890eccdc514ca2887e12d8cbbc711506208084c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "nda-playbook-review",
+  "skill": "nda-clause-taxonomy",
+  "version": "v0",
+  "directory": "nda-playbook-review/nda-clause-taxonomy/nda-clause-taxonomy_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "5149881af40abc7bd0fc59e96fac36f5ac0474e6",
+  "source_root": "tasks-extra/nda-playbook-review/environment/skills/nda-clause-taxonomy",
+  "commit_title": "Add nda-playbook-review legal-domain task (#884)",
+  "commit_time_beijing": "2026-06-12 03:23:13",
+  "author_time_beijing": "2026-06-12 03:23:13",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "nda-playbook-review/nda-clause-taxonomy/nda-clause-taxonomy_v0/SKILL.md",
+      "source": "tasks-extra/nda-playbook-review/environment/skills/nda-clause-taxonomy/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "5149881af40abc7bd0fc59e96fac36f5ac0474e6",
+      "blob": "851206f332da96babe165eb5de7d903cd90cfc44",
+      "sha256": "549b887a54dd5d1bd4525f6eaa075a60407961a2c562639eee9903283e585628",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

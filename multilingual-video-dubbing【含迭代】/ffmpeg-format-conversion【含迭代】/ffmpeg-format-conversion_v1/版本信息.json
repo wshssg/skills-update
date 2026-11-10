@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-format-conversion",
+  "version": "v1",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-format-conversion【含迭代】/ffmpeg-format-conversion_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-format-conversion",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-format-conversion【含迭代】/ffmpeg-format-conversion_v1/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-format-conversion/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "b97bd1a0a98324d1d21c1297b2016b505db6e858",
+      "sha256": "6fcdc408c24f7de69852def7a49f9c58ad00bb9dda8ec763df44618628251f4c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

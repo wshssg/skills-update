@@ -1,0 +1,32 @@
+{
+  "task": "nda-playbook-review",
+  "skill": "xlsx-parsing",
+  "version": "v0",
+  "directory": "nda-playbook-review/xlsx-parsing/xlsx-parsing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "5149881af40abc7bd0fc59e96fac36f5ac0474e6",
+  "source_root": "tasks-extra/nda-playbook-review/environment/skills/xlsx-parsing",
+  "commit_title": "Add nda-playbook-review legal-domain task (#884)",
+  "commit_time_beijing": "2026-06-12 03:23:13",
+  "author_time_beijing": "2026-06-12 03:23:13",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "nda-playbook-review/xlsx-parsing/xlsx-parsing_v0/SKILL.md",
+      "source": "tasks-extra/nda-playbook-review/environment/skills/xlsx-parsing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "5149881af40abc7bd0fc59e96fac36f5ac0474e6",
+      "blob": "af16d4d45ae777321aa8edb5c324b35f955d9e36",
+      "sha256": "8437521d048e0b92ce60ef5aaa60e6423656013306faacd32295f0d94d9696f1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

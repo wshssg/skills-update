@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-media-info",
+  "version": "v1",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-media-info【含迭代】/ffmpeg-media-info_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-media-info",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-media-info【含迭代】/ffmpeg-media-info_v1/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-media-info/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "b488aed11117e3027fb06bac81dfdd57ca3c7890",
+      "sha256": "38f1012b7e72fbaccae2a90e66da8c8832c3b33dab59796a513974efbd8b9c0a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

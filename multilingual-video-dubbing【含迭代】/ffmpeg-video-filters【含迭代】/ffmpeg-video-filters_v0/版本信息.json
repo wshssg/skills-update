@@ -1,0 +1,32 @@
+{
+  "task": "multilingual-video-dubbing",
+  "skill": "ffmpeg-video-filters",
+  "version": "v0",
+  "directory": "multilingual-video-dubbing【含迭代】/ffmpeg-video-filters【含迭代】/ffmpeg-video-filters_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8924fd6875d04026042acf28acb739f3c286c936",
+  "source_root": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-video-filters",
+  "commit_title": "[task] Add task: multilingual-video-dubbing (#238)",
+  "commit_time_beijing": "2026-01-22 16:16:41",
+  "author_time_beijing": "2026-01-22 16:16:41",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "multilingual-video-dubbing【含迭代】/ffmpeg-video-filters【含迭代】/ffmpeg-video-filters_v0/SKILL.md",
+      "source": "tasks/multilingual-video-dubbing/environment/skills/ffmpeg-video-filters/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8924fd6875d04026042acf28acb739f3c286c936",
+      "blob": "2c2754ea206d9c3e75644fd9064a9da7b6e5dbdb",
+      "sha256": "55e9d3a099a5491c882652b49eb987cb1ce400f73e3095570656e51f7dc56ad7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
