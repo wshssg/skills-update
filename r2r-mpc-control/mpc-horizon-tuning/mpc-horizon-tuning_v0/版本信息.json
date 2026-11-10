@@ -1,0 +1,32 @@
+{
+  "task": "r2r-mpc-control",
+  "skill": "mpc-horizon-tuning",
+  "version": "v0",
+  "directory": "r2r-mpc-control/mpc-horizon-tuning/mpc-horizon-tuning_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+  "source_root": "tasks/r2r-mpc-control/environment/skills/mpc-horizon-tuning",
+  "commit_title": "[TASK] Add r2r-manufacturing-control task (#254)",
+  "commit_time_beijing": "2026-01-21 08:00:10",
+  "author_time_beijing": "2026-01-21 08:00:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "r2r-mpc-control/mpc-horizon-tuning/mpc-horizon-tuning_v0/SKILL.md",
+      "source": "tasks/r2r-mpc-control/environment/skills/mpc-horizon-tuning/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+      "blob": "5af600afb49961ec93d10a2c53a801c4ae1881ab",
+      "sha256": "fa85a6c22e728d92176f4aace0a3ad65e280bd4ecd061d1037a042b29ec47123",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

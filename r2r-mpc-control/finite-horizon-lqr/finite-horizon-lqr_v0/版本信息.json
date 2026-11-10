@@ -1,0 +1,32 @@
+{
+  "task": "r2r-mpc-control",
+  "skill": "finite-horizon-lqr",
+  "version": "v0",
+  "directory": "r2r-mpc-control/finite-horizon-lqr/finite-horizon-lqr_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+  "source_root": "tasks/r2r-mpc-control/environment/skills/finite-horizon-lqr",
+  "commit_title": "[TASK] Add r2r-manufacturing-control task (#254)",
+  "commit_time_beijing": "2026-01-21 08:00:10",
+  "author_time_beijing": "2026-01-21 08:00:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "r2r-mpc-control/finite-horizon-lqr/finite-horizon-lqr_v0/SKILL.md",
+      "source": "tasks/r2r-mpc-control/environment/skills/finite-horizon-lqr/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+      "blob": "3bd3964e18446b8c0e582cf48db0d61dfc552788",
+      "sha256": "8ce87c503270a401f9bce17518a8f11d8cc421de2f15984678ddeb0b8c27575f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

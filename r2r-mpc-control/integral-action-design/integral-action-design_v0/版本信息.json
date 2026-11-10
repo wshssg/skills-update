@@ -1,0 +1,32 @@
+{
+  "task": "r2r-mpc-control",
+  "skill": "integral-action-design",
+  "version": "v0",
+  "directory": "r2r-mpc-control/integral-action-design/integral-action-design_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+  "source_root": "tasks/r2r-mpc-control/environment/skills/integral-action-design",
+  "commit_title": "[TASK] Add r2r-manufacturing-control task (#254)",
+  "commit_time_beijing": "2026-01-21 08:00:10",
+  "author_time_beijing": "2026-01-21 08:00:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "r2r-mpc-control/integral-action-design/integral-action-design_v0/SKILL.md",
+      "source": "tasks/r2r-mpc-control/environment/skills/integral-action-design/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+      "blob": "5592a91c035665c0df30d42f5b14c73ffe093eeb",
+      "sha256": "e3368f03c7c53e47f650272a2225602b0d437ae82c825b049291b02006d43220",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

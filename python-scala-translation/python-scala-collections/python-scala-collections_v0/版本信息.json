@@ -1,0 +1,32 @@
+{
+  "task": "python-scala-translation",
+  "skill": "python-scala-collections",
+  "version": "v0",
+  "directory": "python-scala-translation/python-scala-collections/python-scala-collections_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ff144fa9c83d56edf795e512c3981b4bcf2e62f7",
+  "source_root": "tasks/python-scala-translation/environment/skills/python-scala-collections",
+  "commit_title": "[Task] Add task for python-to-scala translation (#156)",
+  "commit_time_beijing": "2026-01-21 16:46:09",
+  "author_time_beijing": "2026-01-21 16:46:09",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "python-scala-translation/python-scala-collections/python-scala-collections_v0/SKILL.md",
+      "source": "tasks/python-scala-translation/environment/skills/python-scala-collections/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ff144fa9c83d56edf795e512c3981b4bcf2e62f7",
+      "blob": "7fd296ececf8b7808c431ecfd1144fcf5f0c78f1",
+      "sha256": "bf85562526377b25585f66c85f6ac4edc40fb446bd7185a1323c9c1664e45377",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

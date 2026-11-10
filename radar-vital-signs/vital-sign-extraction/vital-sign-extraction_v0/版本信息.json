@@ -1,0 +1,54 @@
+{
+  "task": "radar-vital-signs",
+  "skill": "vital-sign-extraction",
+  "version": "v0",
+  "directory": "radar-vital-signs/vital-sign-extraction/vital-sign-extraction_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+  "source_root": "tasks/radar-vital-signs/environment/skills/vital-sign-extraction",
+  "commit_title": "Add radar-vital-signs task (#727)",
+  "commit_time_beijing": "2026-05-04 02:42:04",
+  "author_time_beijing": "2026-05-04 02:42:04",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "radar-vital-signs/vital-sign-extraction/vital-sign-extraction_v0/SKILL.md",
+      "source": "tasks/radar-vital-signs/environment/skills/vital-sign-extraction/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "cfeddedd2934b23625c11e799f0c0e549b619af8",
+      "sha256": "aff09b876c5c3069161e3b8637cb63db5b4e32904dc3671ed91e66251942c673",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/vital-sign-extraction/vital-sign-extraction_v0/references/band-rationale.md",
+      "source": "tasks/radar-vital-signs/environment/skills/vital-sign-extraction/references/band-rationale.md",
+      "relative_source": "references/band-rationale.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "3d6ab71f22e584a76f14b6bcf4f05e187774f0fa",
+      "sha256": "c4340dd078d32d7b1ce353e1d2608042b7aca4a622e1282bb32d0d4a730853ff",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/vital-sign-extraction/vital-sign-extraction_v0/references/harmonic-pitfalls.md",
+      "source": "tasks/radar-vital-signs/environment/skills/vital-sign-extraction/references/harmonic-pitfalls.md",
+      "relative_source": "references/harmonic-pitfalls.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "a25b0c4b6892fcc0622145742675e0f26673fd64",
+      "sha256": "c596d26aa87e9e040bfa594fc433161f0e443eb3d1addff2aee814c8d63f5f9b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

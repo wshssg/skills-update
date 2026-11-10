@@ -1,0 +1,32 @@
+{
+  "task": "r2r-mpc-control",
+  "skill": "state-space-linearization",
+  "version": "v0",
+  "directory": "r2r-mpc-control/state-space-linearization/state-space-linearization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+  "source_root": "tasks/r2r-mpc-control/environment/skills/state-space-linearization",
+  "commit_title": "[TASK] Add r2r-manufacturing-control task (#254)",
+  "commit_time_beijing": "2026-01-21 08:00:10",
+  "author_time_beijing": "2026-01-21 08:00:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "r2r-mpc-control/state-space-linearization/state-space-linearization_v0/SKILL.md",
+      "source": "tasks/r2r-mpc-control/environment/skills/state-space-linearization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "729b7229dd090f227b89ae0105b82ffaea2bc455",
+      "blob": "11b0480845f17ec4ffde705fae500a995b64f465",
+      "sha256": "1cd18b96f4f55ff004aa92c0acbf0cab2744032c94a42d750ce749055038835b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

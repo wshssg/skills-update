@@ -1,0 +1,87 @@
+{
+  "task": "radar-vital-signs",
+  "skill": "radar-vital-signs",
+  "version": "v0",
+  "directory": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+  "source_root": "tasks/radar-vital-signs/environment/skills/radar-vital-signs",
+  "commit_title": "Add radar-vital-signs task (#727)",
+  "commit_time_beijing": "2026-05-04 02:42:04",
+  "author_time_beijing": "2026-05-04 02:42:04",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0/SKILL.md",
+      "source": "tasks/radar-vital-signs/environment/skills/radar-vital-signs/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "def5f6dfe544d742f82a2c456a4bfd2e25c30098",
+      "sha256": "b003f824a41198da0d5d3a373646edfa231d3d6a43ef4d94cb95578f5c97551a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0/references/band-rationale.md",
+      "source": "tasks/radar-vital-signs/environment/skills/radar-vital-signs/references/band-rationale.md",
+      "relative_source": "references/band-rationale.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "3d6ab71f22e584a76f14b6bcf4f05e187774f0fa",
+      "sha256": "c4340dd078d32d7b1ce353e1d2608042b7aca4a622e1282bb32d0d4a730853ff",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0/references/debugging.md",
+      "source": "tasks/radar-vital-signs/environment/skills/radar-vital-signs/references/debugging.md",
+      "relative_source": "references/debugging.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "d2908cde18eeb53427eb3a05fc19a4995cab3810",
+      "sha256": "12cb27e3c57cf68216bcdd674118190778229b8c3312222d939d1814a91b531f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0/references/harmonic-pitfalls.md",
+      "source": "tasks/radar-vital-signs/environment/skills/radar-vital-signs/references/harmonic-pitfalls.md",
+      "relative_source": "references/harmonic-pitfalls.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "a25b0c4b6892fcc0622145742675e0f26673fd64",
+      "sha256": "c596d26aa87e9e040bfa594fc433161f0e443eb3d1addff2aee814c8d63f5f9b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0/references/iq-formats.md",
+      "source": "tasks/radar-vital-signs/environment/skills/radar-vital-signs/references/iq-formats.md",
+      "relative_source": "references/iq-formats.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "70c20c2d2e13a4f67ec9e67003a2beb73c8bb4aa",
+      "sha256": "188864d1704ac2232620bd648b00acaefd9e7ba8acc43ee2ba423c67bac36ab9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "radar-vital-signs/radar-vital-signs/radar-vital-signs_v0/references/range-bin.md",
+      "source": "tasks/radar-vital-signs/environment/skills/radar-vital-signs/references/range-bin.md",
+      "relative_source": "references/range-bin.md",
+      "revision": "4ca5b2920bf8ef607a34350364d84e737513db38",
+      "blob": "0d4b26f972b947f00ad3c07c70ee7757d83761ae",
+      "sha256": "24e183ff269a7896154792a757b7958397efb311290cfc9adc1cf7586f097f83",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

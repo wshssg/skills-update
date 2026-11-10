@@ -1,0 +1,54 @@
+{
+  "task": "protein-expression-analysis",
+  "skill": "xlsx",
+  "version": "v1",
+  "directory": "protein-expression-analysis【含迭代】/xlsx【含迭代】/xlsx_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "cda210be94e185586bf743f17eaf50752935291d",
+  "source_root": "tasks/protein-expression-analysis/environment/skills/xlsx",
+  "commit_title": "Add descriptions to test the task by yourself (#158)",
+  "commit_time_beijing": "2026-01-15 14:32:22",
+  "author_time_beijing": "2026-01-15 14:32:22",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "protein-expression-analysis【含迭代】/xlsx【含迭代】/xlsx_v1/LICENSE.txt",
+      "source": "tasks/protein-expression-analysis/environment/skills/xlsx/LICENSE.txt",
+      "relative_source": "LICENSE.txt",
+      "revision": "cda210be94e185586bf743f17eaf50752935291d",
+      "blob": "c55ab42224874608473643de0a85736b7fec0730",
+      "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "protein-expression-analysis【含迭代】/xlsx【含迭代】/xlsx_v1/SKILL.md",
+      "source": "tasks/protein-expression-analysis/environment/skills/xlsx/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "cda210be94e185586bf743f17eaf50752935291d",
+      "blob": "75ccc9efe04c50ea0920db8d215839c4aa213a85",
+      "sha256": "9bdc1fee81f3be9cb34ac49f8890c094a3855d3d0236783d10e0ea6df1515e01",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "protein-expression-analysis【含迭代】/xlsx【含迭代】/xlsx_v1/recalc.py",
+      "source": "tasks/protein-expression-analysis/environment/skills/xlsx/recalc.py",
+      "relative_source": "recalc.py",
+      "revision": "cda210be94e185586bf743f17eaf50752935291d",
+      "blob": "4f90f4356efe0d562900c2ff590187056ffc8cd9",
+      "sha256": "f0833720e26fa894c9c1ccf0bd71dfc4609f8a310360fb2de2071efb64fbd409",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

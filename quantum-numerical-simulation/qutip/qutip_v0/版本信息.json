@@ -1,0 +1,87 @@
+{
+  "task": "quantum-numerical-simulation",
+  "skill": "qutip",
+  "version": "v0",
+  "directory": "quantum-numerical-simulation/qutip/qutip_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+  "source_root": "tasks/quantum-numerical-simulation/environment/skills/qutip",
+  "commit_title": "[Task] Add quantum-numerical-simulation task (#116)",
+  "commit_time_beijing": "2026-01-14 13:45:07",
+  "author_time_beijing": "2026-01-14 13:45:07",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "quantum-numerical-simulation/qutip/qutip_v0/SKILL.md",
+      "source": "tasks/quantum-numerical-simulation/environment/skills/qutip/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+      "blob": "3fdf70e092465e5bac67e18209e61941710934bb",
+      "sha256": "25d79e95290fe27f6e7360dfb816fb0f0082b6c9c846e02d94402d93c3974673",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "quantum-numerical-simulation/qutip/qutip_v0/references/advanced.md",
+      "source": "tasks/quantum-numerical-simulation/environment/skills/qutip/references/advanced.md",
+      "relative_source": "references/advanced.md",
+      "revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+      "blob": "0fd4f74595dcb9de92406574e796be6e77c3bcdc",
+      "sha256": "afd329f6c754d8c287277db651e82fa7114d0c50824ce18f01e6fb0797bec2f3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "quantum-numerical-simulation/qutip/qutip_v0/references/analysis.md",
+      "source": "tasks/quantum-numerical-simulation/environment/skills/qutip/references/analysis.md",
+      "relative_source": "references/analysis.md",
+      "revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+      "blob": "69f81f1f16ddb8280429a0d13ac1a6399bec1b56",
+      "sha256": "87172f2a375ca9caf9daa74f58fc046bab1d77db0baca7b6aba260fb822c20bf",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "quantum-numerical-simulation/qutip/qutip_v0/references/core_concepts.md",
+      "source": "tasks/quantum-numerical-simulation/environment/skills/qutip/references/core_concepts.md",
+      "relative_source": "references/core_concepts.md",
+      "revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+      "blob": "74876ba3de8751c83e352bf1b25afe9478579e71",
+      "sha256": "313e2781add21335cb0fc00f4bde2060a4510e0c08c9a1742aeb2ac53db59c96",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "quantum-numerical-simulation/qutip/qutip_v0/references/time_evolution.md",
+      "source": "tasks/quantum-numerical-simulation/environment/skills/qutip/references/time_evolution.md",
+      "relative_source": "references/time_evolution.md",
+      "revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+      "blob": "d99d3eae45b92f6201d5de6cd6f8c9ba1a6ab466",
+      "sha256": "7c5bca95cb69a61752cc30266c1b1a6f57992a4b63b40e66926d5bf1c8a2ac52",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "quantum-numerical-simulation/qutip/qutip_v0/references/visualization.md",
+      "source": "tasks/quantum-numerical-simulation/environment/skills/qutip/references/visualization.md",
+      "relative_source": "references/visualization.md",
+      "revision": "602bd9324f4461cbaf59871625bb307c15b81830",
+      "blob": "e3f0cc85be011574588a4e7b882a193dd10a7651",
+      "sha256": "962c51c0a617be95700d251b51d140f03cc7e5d8bf1df9ee5e46580409b89564",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
