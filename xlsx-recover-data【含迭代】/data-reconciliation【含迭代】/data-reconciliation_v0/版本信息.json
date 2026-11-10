@@ -1,0 +1,32 @@
+{
+  "task": "xlsx-recover-data",
+  "skill": "data-reconciliation",
+  "version": "v0",
+  "directory": "xlsx-recover-data【含迭代】/data-reconciliation【含迭代】/data-reconciliation_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "cee8c722609a1e6b811d53ae884bcc1589f4d3ff",
+  "source_root": "tasks/xlsx-recover-data/environment/skills/data-reconciliation",
+  "commit_title": "[task] add task xlsx-recover-data (#407)",
+  "commit_time_beijing": "2026-01-19 05:58:21",
+  "author_time_beijing": "2026-01-19 05:58:21",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "xlsx-recover-data【含迭代】/data-reconciliation【含迭代】/data-reconciliation_v0/SKILL.md",
+      "source": "tasks/xlsx-recover-data/environment/skills/data-reconciliation/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "cee8c722609a1e6b811d53ae884bcc1589f4d3ff",
+      "blob": "c96ca68084faefe18006d0f2ed4d35296037882a",
+      "sha256": "59f07a0eafef525d24c3fdcdafac1851444b55a131439569a98d90273afa700c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

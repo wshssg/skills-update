@@ -1,0 +1,32 @@
+{
+  "task": "xlsx-recover-data",
+  "skill": "data-reconciliation",
+  "version": "v1",
+  "directory": "xlsx-recover-data【含迭代】/data-reconciliation【含迭代】/data-reconciliation_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/xlsx-recover-data/environment/skills/data-reconciliation",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "xlsx-recover-data【含迭代】/data-reconciliation【含迭代】/data-reconciliation_v1/SKILL.md",
+      "source": "tasks/xlsx-recover-data/environment/skills/data-reconciliation/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "5c58d2f04bef12089462bc85f2b6103ded12d666",
+      "sha256": "341dd818dfc713e5413bb74923c905f9990996c0876037a3918bce826b6a0c8d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

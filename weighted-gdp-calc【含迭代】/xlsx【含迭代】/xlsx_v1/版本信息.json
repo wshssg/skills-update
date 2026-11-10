@@ -1,0 +1,54 @@
+{
+  "task": "weighted-gdp-calc",
+  "skill": "xlsx",
+  "version": "v1",
+  "directory": "weighted-gdp-calc【含迭代】/xlsx【含迭代】/xlsx_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "2e09c7816da77566c36d101a0b5b46906385f07d",
+  "source_root": "tasks/weighted-gdp-calc/environment/skills/xlsx",
+  "commit_title": "[ci] reformat the whole repo",
+  "commit_time_beijing": "2026-01-07 20:33:52",
+  "author_time_beijing": "2026-01-07 20:33:52",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "weighted-gdp-calc【含迭代】/xlsx【含迭代】/xlsx_v1/LICENSE.txt",
+      "source": "tasks/weighted-gdp-calc/environment/skills/xlsx/LICENSE.txt",
+      "relative_source": "LICENSE.txt",
+      "revision": "2e09c7816da77566c36d101a0b5b46906385f07d",
+      "blob": "c55ab42224874608473643de0a85736b7fec0730",
+      "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "weighted-gdp-calc【含迭代】/xlsx【含迭代】/xlsx_v1/SKILL.md",
+      "source": "tasks/weighted-gdp-calc/environment/skills/xlsx/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "2e09c7816da77566c36d101a0b5b46906385f07d",
+      "blob": "75ccc9efe04c50ea0920db8d215839c4aa213a85",
+      "sha256": "9bdc1fee81f3be9cb34ac49f8890c094a3855d3d0236783d10e0ea6df1515e01",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "weighted-gdp-calc【含迭代】/xlsx【含迭代】/xlsx_v1/recalc.py",
+      "source": "tasks/weighted-gdp-calc/environment/skills/xlsx/recalc.py",
+      "relative_source": "recalc.py",
+      "revision": "2e09c7816da77566c36d101a0b5b46906385f07d",
+      "blob": "b86a89df7a6103e95a986040254e03ccf1b38963",
+      "sha256": "b6d36021e8a609a3fe67e675467fcad43319124f0a468fa991f7a6609db6d179",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
