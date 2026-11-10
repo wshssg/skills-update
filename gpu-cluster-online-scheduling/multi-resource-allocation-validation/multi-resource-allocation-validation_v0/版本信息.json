@@ -1,0 +1,32 @@
+{
+  "task": "gpu-cluster-online-scheduling",
+  "skill": "multi-resource-allocation-validation",
+  "version": "v0",
+  "directory": "gpu-cluster-online-scheduling/multi-resource-allocation-validation/multi-resource-allocation-validation_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d86a55c0c31d37785a03c029c0814341b70dd486",
+  "source_root": "tasks/gpu-cluster-online-scheduling/environment/skills/multi-resource-allocation-validation",
+  "commit_title": "Task/gpu cluster online scheduling (#786)",
+  "commit_time_beijing": "2026-05-26 14:10:26",
+  "author_time_beijing": "2026-05-26 14:10:26",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "gpu-cluster-online-scheduling/multi-resource-allocation-validation/multi-resource-allocation-validation_v0/SKILL.md",
+      "source": "tasks/gpu-cluster-online-scheduling/environment/skills/multi-resource-allocation-validation/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d86a55c0c31d37785a03c029c0814341b70dd486",
+      "blob": "e71ae510688d5e922d6b138a609932edde07a7b7",
+      "sha256": "e9f843e4d342d42cf56ee0cb74956d20b7abbdc1321f2065738b543d9a9ba2a2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

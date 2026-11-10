@@ -1,0 +1,43 @@
+{
+  "task": "grid-dispatch-operator",
+  "skill": "economic-dispatch",
+  "version": "v0",
+  "directory": "grid-dispatch-operator【含迭代】/economic-dispatch【含迭代】/economic-dispatch_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+  "source_root": "tasks/grid-dispatch-operator/environment/skills/economic-dispatch",
+  "commit_title": "[Task] large-scale grid dispatch operator on realistic power grid (#108)",
+  "commit_time_beijing": "2026-01-15 11:58:50",
+  "author_time_beijing": "2026-01-15 11:58:50",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "grid-dispatch-operator【含迭代】/economic-dispatch【含迭代】/economic-dispatch_v0/SKILL.md",
+      "source": "tasks/grid-dispatch-operator/environment/skills/economic-dispatch/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+      "blob": "1273dc672694c5399f595555db1624ab1e995b87",
+      "sha256": "f7abfc9c41c5e8d074e4244c679daa5be49318c72235600e39f05891333fdb9b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "grid-dispatch-operator【含迭代】/economic-dispatch【含迭代】/economic-dispatch_v0/references/cost-functions.md",
+      "source": "tasks/grid-dispatch-operator/environment/skills/economic-dispatch/references/cost-functions.md",
+      "relative_source": "references/cost-functions.md",
+      "revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+      "blob": "459318e58ea052da3efdb70dfa552edfae5866d0",
+      "sha256": "a9bf78f5dd90f559d50872d526c1c7bf6685f6c8147c95ec701d1628d318d0ee",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

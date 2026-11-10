@@ -1,0 +1,32 @@
+{
+  "task": "gpu-cluster-online-scheduling",
+  "skill": "online-resource-scheduling",
+  "version": "v0",
+  "directory": "gpu-cluster-online-scheduling/online-resource-scheduling/online-resource-scheduling_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d86a55c0c31d37785a03c029c0814341b70dd486",
+  "source_root": "tasks/gpu-cluster-online-scheduling/environment/skills/online-resource-scheduling",
+  "commit_title": "Task/gpu cluster online scheduling (#786)",
+  "commit_time_beijing": "2026-05-26 14:10:26",
+  "author_time_beijing": "2026-05-26 14:10:26",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "gpu-cluster-online-scheduling/online-resource-scheduling/online-resource-scheduling_v0/SKILL.md",
+      "source": "tasks/gpu-cluster-online-scheduling/environment/skills/online-resource-scheduling/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d86a55c0c31d37785a03c029c0814341b70dd486",
+      "blob": "6c891ff3880e31f5893526e3d0b3519f30ea9207",
+      "sha256": "2647b051615a039fb5dc100eff4a59c1fba5d4a45d4fbc73edd0780126fd0b16",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

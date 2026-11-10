@@ -1,0 +1,32 @@
+{
+  "task": "glm-lake-mendota",
+  "skill": "glm-calibration",
+  "version": "v0",
+  "directory": "glm-lake-mendota/glm-calibration/glm-calibration_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a3d4299bff9a00b0f6b9f30be8987c5f1d02c242",
+  "source_root": "tasks/glm-lake-mendota/environment/skills/glm-calibration",
+  "commit_title": "[task] Add glm-lake-mendota task (#427)",
+  "commit_time_beijing": "2026-01-23 05:57:53",
+  "author_time_beijing": "2026-01-23 05:57:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "glm-lake-mendota/glm-calibration/glm-calibration_v0/SKILL.md",
+      "source": "tasks/glm-lake-mendota/environment/skills/glm-calibration/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a3d4299bff9a00b0f6b9f30be8987c5f1d02c242",
+      "blob": "983e44df95df9ed267b6fcd6ceef5fd652d0b58f",
+      "sha256": "a1342ccb629765767821481333fcbf2b5fd25d93fa8f4a41ed78c62d022a4ed1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

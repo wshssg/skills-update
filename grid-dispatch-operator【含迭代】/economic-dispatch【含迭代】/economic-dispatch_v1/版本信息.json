@@ -1,0 +1,43 @@
+{
+  "task": "grid-dispatch-operator",
+  "skill": "economic-dispatch",
+  "version": "v1",
+  "directory": "grid-dispatch-operator【含迭代】/economic-dispatch【含迭代】/economic-dispatch_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+  "source_root": "tasks/grid-dispatch-operator/environment/skills/economic-dispatch",
+  "commit_title": "fix: pre-commit issues (trailing whitespace, EOF newlines, TOML syntax) (#542)",
+  "commit_time_beijing": "2026-01-19 23:06:01",
+  "author_time_beijing": "2026-01-19 23:06:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "grid-dispatch-operator【含迭代】/economic-dispatch【含迭代】/economic-dispatch_v1/SKILL.md",
+      "source": "tasks/grid-dispatch-operator/environment/skills/economic-dispatch/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+      "blob": "7efb197614ecbbd9e50591e68c0f457db654be57",
+      "sha256": "907586a8ab5d697d20efaafb190809fbe737bcbac4082c0f94458c1e6489b82f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "grid-dispatch-operator【含迭代】/economic-dispatch【含迭代】/economic-dispatch_v1/references/cost-functions.md",
+      "source": "tasks/grid-dispatch-operator/environment/skills/economic-dispatch/references/cost-functions.md",
+      "relative_source": "references/cost-functions.md",
+      "revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+      "blob": "459318e58ea052da3efdb70dfa552edfae5866d0",
+      "sha256": "a9bf78f5dd90f559d50872d526c1c7bf6685f6c8147c95ec701d1628d318d0ee",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

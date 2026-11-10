@@ -1,0 +1,32 @@
+{
+  "task": "gravitational-wave-detection",
+  "skill": "conditioning",
+  "version": "v0",
+  "directory": "gravitational-wave-detection/conditioning/conditioning_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9a33466f9dec6b08d954a6c83043908a268e126a",
+  "source_root": "tasks/gravitational-wave-detection/environment/skills/conditioning",
+  "commit_title": "Add Task: Gravitational waves task clean (#572)",
+  "commit_time_beijing": "2026-01-22 14:43:40",
+  "author_time_beijing": "2026-01-22 14:43:40",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "gravitational-wave-detection/conditioning/conditioning_v0/SKILL.md",
+      "source": "tasks/gravitational-wave-detection/environment/skills/conditioning/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9a33466f9dec6b08d954a6c83043908a268e126a",
+      "blob": "15d8c580347f63b56ed9314b908aa37c523ab359",
+      "sha256": "bf7580c93e48e3215442820bfb8e77f372450bf56182b5efe1b8b73d875b03d2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

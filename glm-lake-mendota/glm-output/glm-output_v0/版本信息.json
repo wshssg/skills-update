@@ -1,0 +1,32 @@
+{
+  "task": "glm-lake-mendota",
+  "skill": "glm-output",
+  "version": "v0",
+  "directory": "glm-lake-mendota/glm-output/glm-output_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "a3d4299bff9a00b0f6b9f30be8987c5f1d02c242",
+  "source_root": "tasks/glm-lake-mendota/environment/skills/glm-output",
+  "commit_title": "[task] Add glm-lake-mendota task (#427)",
+  "commit_time_beijing": "2026-01-23 05:57:53",
+  "author_time_beijing": "2026-01-23 05:57:53",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "glm-lake-mendota/glm-output/glm-output_v0/SKILL.md",
+      "source": "tasks/glm-lake-mendota/environment/skills/glm-output/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a3d4299bff9a00b0f6b9f30be8987c5f1d02c242",
+      "blob": "b5ddcbadb03fcfab75567536301d382eb3b23f92",
+      "sha256": "26530fb95a70059f6071734cca709db018dcc00ade4fe34011a7229d82bf1187",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

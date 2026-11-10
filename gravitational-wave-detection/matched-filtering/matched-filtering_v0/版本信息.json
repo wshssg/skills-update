@@ -1,0 +1,32 @@
+{
+  "task": "gravitational-wave-detection",
+  "skill": "matched-filtering",
+  "version": "v0",
+  "directory": "gravitational-wave-detection/matched-filtering/matched-filtering_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9a33466f9dec6b08d954a6c83043908a268e126a",
+  "source_root": "tasks/gravitational-wave-detection/environment/skills/matched-filtering",
+  "commit_title": "Add Task: Gravitational waves task clean (#572)",
+  "commit_time_beijing": "2026-01-22 14:43:40",
+  "author_time_beijing": "2026-01-22 14:43:40",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "gravitational-wave-detection/matched-filtering/matched-filtering_v0/SKILL.md",
+      "source": "tasks/gravitational-wave-detection/environment/skills/matched-filtering/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9a33466f9dec6b08d954a6c83043908a268e126a",
+      "blob": "0fa7080682a54a15c12c18b73b45074bec42ba24",
+      "sha256": "9daa057b05d878189bd5556dca8a6a18a65839ff0a5b8313fbdaa2ba10a6f4b4",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

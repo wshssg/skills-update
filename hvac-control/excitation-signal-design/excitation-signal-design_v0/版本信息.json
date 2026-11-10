@@ -1,0 +1,32 @@
+{
+  "task": "hvac-control",
+  "skill": "excitation-signal-design",
+  "version": "v0",
+  "directory": "hvac-control/excitation-signal-design/excitation-signal-design_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+  "source_root": "tasks/hvac-control/environment/skills/excitation-signal-design",
+  "commit_title": "[TASK] Add HVAC-control task (#252)",
+  "commit_time_beijing": "2026-01-20 09:16:23",
+  "author_time_beijing": "2026-01-20 09:16:23",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "hvac-control/excitation-signal-design/excitation-signal-design_v0/SKILL.md",
+      "source": "tasks/hvac-control/environment/skills/excitation-signal-design/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+      "blob": "edbaf40d7e2a1f297627d4c9f02f0b29717e6fad",
+      "sha256": "2a95543b6a10befec4f4ab98c9912d93af2c3fa54397a2a1d421db5c2e59d7c9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

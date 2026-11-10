@@ -1,0 +1,32 @@
+{
+  "task": "grid-dispatch-operator",
+  "skill": "power-flow-data",
+  "version": "v0",
+  "directory": "grid-dispatch-operator【含迭代】/power-flow-data【含迭代】/power-flow-data_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+  "source_root": "tasks/grid-dispatch-operator/environment/skills/power-flow-data",
+  "commit_title": "[Task] large-scale grid dispatch operator on realistic power grid (#108)",
+  "commit_time_beijing": "2026-01-15 11:58:50",
+  "author_time_beijing": "2026-01-15 11:58:50",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "grid-dispatch-operator【含迭代】/power-flow-data【含迭代】/power-flow-data_v0/SKILL.md",
+      "source": "tasks/grid-dispatch-operator/environment/skills/power-flow-data/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+      "blob": "3b631dc27c516324d033229449f6e1edb5425d29",
+      "sha256": "c0cdaed3928c55a5ded553db529ab852734797ab143e0fda6d70a095daa5ae94",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

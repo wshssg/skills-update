@@ -1,0 +1,32 @@
+{
+  "task": "hvac-control",
+  "skill": "first-order-model-fitting",
+  "version": "v0",
+  "directory": "hvac-control/first-order-model-fitting/first-order-model-fitting_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+  "source_root": "tasks/hvac-control/environment/skills/first-order-model-fitting",
+  "commit_title": "[TASK] Add HVAC-control task (#252)",
+  "commit_time_beijing": "2026-01-20 09:16:23",
+  "author_time_beijing": "2026-01-20 09:16:23",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "hvac-control/first-order-model-fitting/first-order-model-fitting_v0/SKILL.md",
+      "source": "tasks/hvac-control/environment/skills/first-order-model-fitting/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+      "blob": "5e9d7926c3b2a10538731ea9dd71b280961eb696",
+      "sha256": "96c792fe902e2a22ba2afb5bd0b02823fe200a4fb40197825f4e06cd49d0c865",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

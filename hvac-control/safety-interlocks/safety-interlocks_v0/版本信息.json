@@ -1,0 +1,32 @@
+{
+  "task": "hvac-control",
+  "skill": "safety-interlocks",
+  "version": "v0",
+  "directory": "hvac-control/safety-interlocks/safety-interlocks_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+  "source_root": "tasks/hvac-control/environment/skills/safety-interlocks",
+  "commit_title": "[TASK] Add HVAC-control task (#252)",
+  "commit_time_beijing": "2026-01-20 09:16:23",
+  "author_time_beijing": "2026-01-20 09:16:23",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "hvac-control/safety-interlocks/safety-interlocks_v0/SKILL.md",
+      "source": "tasks/hvac-control/environment/skills/safety-interlocks/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+      "blob": "bf217412316fcd32a40aec202299e3cfc9faa2ac",
+      "sha256": "2f655c05c1a8262b23af135f24e72fed0f0bee9634ad84efa4c3f94c2bf9da45",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

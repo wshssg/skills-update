@@ -1,0 +1,32 @@
+{
+  "task": "gh-repo-analytics",
+  "skill": "gh-cli",
+  "version": "v0",
+  "directory": "gh-repo-analytics/gh-cli/gh-cli_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8f1425de2132141049b73813c7a20c52f8dbbb31",
+  "source_root": "tasks/gh-repo-analytics/environment/skills/gh-cli",
+  "commit_title": "[task] add github repo analyse task (#42)",
+  "commit_time_beijing": "2026-01-12 12:35:10",
+  "author_time_beijing": "2026-01-12 12:35:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "gh-repo-analytics/gh-cli/gh-cli_v0/SKILL.md",
+      "source": "tasks/gh-repo-analytics/environment/skills/gh-cli/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8f1425de2132141049b73813c7a20c52f8dbbb31",
+      "blob": "40657fd9c47ae6e4ae82d538ba5d527a22a339a4",
+      "sha256": "94c4d99aa20c075de6df4dbc462b59cd6142b49ac73a196dfff9ef3c187c425f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

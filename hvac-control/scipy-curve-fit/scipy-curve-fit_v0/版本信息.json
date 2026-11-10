@@ -1,0 +1,32 @@
+{
+  "task": "hvac-control",
+  "skill": "scipy-curve-fit",
+  "version": "v0",
+  "directory": "hvac-control/scipy-curve-fit/scipy-curve-fit_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+  "source_root": "tasks/hvac-control/environment/skills/scipy-curve-fit",
+  "commit_title": "[TASK] Add HVAC-control task (#252)",
+  "commit_time_beijing": "2026-01-20 09:16:23",
+  "author_time_beijing": "2026-01-20 09:16:23",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "hvac-control/scipy-curve-fit/scipy-curve-fit_v0/SKILL.md",
+      "source": "tasks/hvac-control/environment/skills/scipy-curve-fit/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fc8d7536c1a4ffbbb27cc7a70f3b76c86c1e6d5",
+      "blob": "e46a3667c924ee5f6e6a17fee45d72bc64c9cd1e",
+      "sha256": "a250a563dcb8cd453070bc47db9e520e70bfb7253b5abb13b8b02afe0e57ef85",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

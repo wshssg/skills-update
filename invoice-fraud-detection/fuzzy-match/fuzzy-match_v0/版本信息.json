@@ -1,0 +1,32 @@
+{
+  "task": "invoice-fraud-detection",
+  "skill": "fuzzy-match",
+  "version": "v0",
+  "directory": "invoice-fraud-detection/fuzzy-match/fuzzy-match_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "65d5b6a3155aca8e5cc08cbd70377dbcd3fc3b41",
+  "source_root": "tasks/invoice-fraud-detection/environment/skills/fuzzy-match",
+  "commit_title": "[Task] Add invoice-fraud-detection task (#105)",
+  "commit_time_beijing": "2026-01-16 17:09:41",
+  "author_time_beijing": "2026-01-16 17:09:41",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "invoice-fraud-detection/fuzzy-match/fuzzy-match_v0/SKILL.md",
+      "source": "tasks/invoice-fraud-detection/environment/skills/fuzzy-match/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "65d5b6a3155aca8e5cc08cbd70377dbcd3fc3b41",
+      "blob": "378e137067a54aac77f053b43f8c74c3a367a804",
+      "sha256": "531e4f484546b24db8a2aa76143e488b487ce4619f9f331bedb5d84751da6907",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

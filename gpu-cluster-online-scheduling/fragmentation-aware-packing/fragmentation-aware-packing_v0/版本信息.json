@@ -1,0 +1,32 @@
+{
+  "task": "gpu-cluster-online-scheduling",
+  "skill": "fragmentation-aware-packing",
+  "version": "v0",
+  "directory": "gpu-cluster-online-scheduling/fragmentation-aware-packing/fragmentation-aware-packing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d86a55c0c31d37785a03c029c0814341b70dd486",
+  "source_root": "tasks/gpu-cluster-online-scheduling/environment/skills/fragmentation-aware-packing",
+  "commit_title": "Task/gpu cluster online scheduling (#786)",
+  "commit_time_beijing": "2026-05-26 14:10:26",
+  "author_time_beijing": "2026-05-26 14:10:26",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "gpu-cluster-online-scheduling/fragmentation-aware-packing/fragmentation-aware-packing_v0/SKILL.md",
+      "source": "tasks/gpu-cluster-online-scheduling/environment/skills/fragmentation-aware-packing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d86a55c0c31d37785a03c029c0814341b70dd486",
+      "blob": "7f14c967a19d44e7d8d859055d55b94a50dc17be",
+      "sha256": "867f0d3fadc5a945133cbcd711156cb7ba386fa6618052ef0a75a3d183e26a47",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

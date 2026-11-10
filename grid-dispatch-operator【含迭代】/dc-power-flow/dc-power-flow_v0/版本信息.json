@@ -1,0 +1,43 @@
+{
+  "task": "grid-dispatch-operator",
+  "skill": "dc-power-flow",
+  "version": "v0",
+  "directory": "grid-dispatch-operator【含迭代】/dc-power-flow/dc-power-flow_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+  "source_root": "tasks/grid-dispatch-operator/environment/skills/dc-power-flow",
+  "commit_title": "[Task] large-scale grid dispatch operator on realistic power grid (#108)",
+  "commit_time_beijing": "2026-01-15 11:58:50",
+  "author_time_beijing": "2026-01-15 11:58:50",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "grid-dispatch-operator【含迭代】/dc-power-flow/dc-power-flow_v0/SKILL.md",
+      "source": "tasks/grid-dispatch-operator/environment/skills/dc-power-flow/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+      "blob": "ad8f19a4f8f8b4f177ea11dfb6491eeb2975c126",
+      "sha256": "461a4a93c6baf5f84eaa16881b11d76d0542907c8bb50745eceeb21d217e480e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "grid-dispatch-operator【含迭代】/dc-power-flow/dc-power-flow_v0/scripts/build_b_matrix.py",
+      "source": "tasks/grid-dispatch-operator/environment/skills/dc-power-flow/scripts/build_b_matrix.py",
+      "relative_source": "scripts/build_b_matrix.py",
+      "revision": "3cd8c544fa2fa8571f6178b20fea60ed3149d1eb",
+      "blob": "f8f62e7812e069a732d53c12c751438a8eb39971",
+      "sha256": "3b07dfb22a66d7003c9a11ab94500dfa6e976316999f28f35f22ad48860acd54",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

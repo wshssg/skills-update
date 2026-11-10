@@ -1,0 +1,120 @@
+{
+  "task": "jax-computing-basics",
+  "skill": "jax-skills",
+  "version": "v0",
+  "directory": "jax-computing-basics/jax-skills/jax-skills_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+  "source_root": "tasks/jax-computing-basics/environment/skills/jax-skills",
+  "commit_title": "fix instruction.md problem (#530)",
+  "commit_time_beijing": "2026-01-20 01:47:14",
+  "author_time_beijing": "2026-01-20 01:47:14",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/SKILL.md",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "b3eedd678f5041b6cd5b4b73ba365cbd268cebed",
+      "sha256": "2cff1fe8e449fe60ab8009980c4e44eaf0d6bc7ca14ae03fc1e5c7f7e82eb6d1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_grad.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_grad.skill",
+      "relative_source": "jax_grad.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "8c172ec04c707dee0ae58f63b9ef1fe25cb892c1",
+      "sha256": "ec90ae70182d6fff279a08280bb204cb34d97d0e3dde3e185e629e9c9b895a48",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_jit.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_jit.skill",
+      "relative_source": "jax_jit.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "c33b706b172bfab718599a9f463ce9981db6c77b",
+      "sha256": "815531d7402c293eaefef220eddcfc32453178246f2f24aa144a2a61447865fd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_load.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_load.skill",
+      "relative_source": "jax_load.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "a0c665804a1ac5462f2977f30ccb518375379aaf",
+      "sha256": "91322ce1ebb63a63edd62a070a1f049401f627d24bd8d1b97eac4ffdf5d99a54",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_map.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_map.skill",
+      "relative_source": "jax_map.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "2aa7755873150d0196f02871d6faa081a856be8f",
+      "sha256": "c1437e3e8d454c1c20e8d6708288df358d5ae209a92b901fce448b10c66e86ec",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_reduce.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_reduce.skill",
+      "relative_source": "jax_reduce.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "590fcd525e8bd9833bb5a5c15a4722dc3060b0b8",
+      "sha256": "91815ca1ba33183dc0e9e82dbf40eba409221a8f293e97e19412298d24ea8dc5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_save.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_save.skill",
+      "relative_source": "jax_save.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "28242d5e5143d2f2d4b234f3e80944f38971124f",
+      "sha256": "f95733860dda14ffb70790ad21021a0e479350393d484344b095ff928e70bc86",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_scan.skill",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_scan.skill",
+      "relative_source": "jax_scan.skill",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "2ebd402caf8716510e80ecd712ee04280d446441",
+      "sha256": "66ab890176e0b98e87f93a695aa4141fffe0067c648c8b93683778bbf27a4e0e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jax-computing-basics/jax-skills/jax-skills_v0/jax_skills.py",
+      "source": "tasks/jax-computing-basics/environment/skills/jax-skills/jax_skills.py",
+      "relative_source": "jax_skills.py",
+      "revision": "bb74c7ad0b574f1e7f4cba7d47c46fb9b37e6c72",
+      "blob": "e4b986b02e2e5a5386728ea4f0ea3157c59e6448",
+      "sha256": "4a7972b68d85057ad0ec59aa1fc1133e7f5e4f38b5429f2fde902cffdbf8d573",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
