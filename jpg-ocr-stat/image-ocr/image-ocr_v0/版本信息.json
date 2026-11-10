@@ -1,0 +1,32 @@
+{
+  "task": "jpg-ocr-stat",
+  "skill": "image-ocr",
+  "version": "v0",
+  "directory": "jpg-ocr-stat/image-ocr/image-ocr_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "70b0bba246acf753ef516f0be94cda1a12d86ed7",
+  "source_root": "tasks/jpg-ocr-stat/environment/skills/image-ocr",
+  "commit_title": "[Task] add jpg-ocr-stat task  (#117)",
+  "commit_time_beijing": "2026-01-15 13:14:55",
+  "author_time_beijing": "2026-01-15 13:14:55",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "jpg-ocr-stat/image-ocr/image-ocr_v0/SKILL.md",
+      "source": "tasks/jpg-ocr-stat/environment/skills/image-ocr/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "70b0bba246acf753ef516f0be94cda1a12d86ed7",
+      "blob": "355caf34aa7e9301ef46e3ca1eb7dd0b7ed17d92",
+      "sha256": "69dd1065075d53f02c33d3c9c7b3f07eaab26686048675a971fb3a2f8c297359",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

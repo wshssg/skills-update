@@ -1,0 +1,175 @@
+{
+  "task": "flink-query",
+  "skill": "senior-data-engineer",
+  "version": "v2",
+  "directory": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P2",
+  "source_revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+  "source_root": "tasks/flink-query/environment/skills/senior-data-engineer",
+  "commit_title": "fix(skills): make 8 tasks' skills register in the OpenHands <available_skills> catalog (#914)",
+  "commit_time_beijing": "2026-06-06 07:46:11",
+  "author_time_beijing": "2026-06-06 07:46:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/HOW_TO_USE.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/HOW_TO_USE.md",
+      "relative_source": "HOW_TO_USE.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "d4ec994cb5b2af806e40ef49803e9434c1c5c842",
+      "sha256": "fe5adf68b27c9b6803b22045ea635448089912aa6d090ff0141f70dc0f0150e0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/SKILL.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "f99223a7727bb3b58bbbf72ba1a25991fef6892e",
+      "sha256": "ee543c63131cf0a853dff39adeb54e0d0901990f234d2891a78970de3d541fd6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/assets/.gitkeep",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/assets/.gitkeep",
+      "relative_source": "assets/.gitkeep",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/assets/data-quality-checklist.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/assets/data-quality-checklist.md",
+      "relative_source": "assets/data-quality-checklist.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/assets/pipeline-design-template.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/assets/pipeline-design-template.md",
+      "relative_source": "assets/pipeline-design-template.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/references/frameworks.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/references/frameworks.md",
+      "relative_source": "references/frameworks.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "2d40c4327dd0df563c9825b0a18bcacaaa40ff83",
+      "sha256": "58e1a18356062cc57430e2608f28a117b11e3a95ffc9e078aa1519445c474da5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/references/templates.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/references/templates.md",
+      "relative_source": "references/templates.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "e638a2809d8c0285be28454d913f588a1c7fa17a",
+      "sha256": "de6a231c47f3e1b70961de32992d0d56ebf05595cc7d5922b01d6cc7c47d1358",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/references/tools.md",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/references/tools.md",
+      "relative_source": "references/tools.md",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "2957430c05aa36a80375697fd0ca94be322c765f",
+      "sha256": "d07105974d6ac051391dac99d3909cf0876e964958935a3e6b62367c618bd733",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/scripts/data_quality_validator.py",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/scripts/data_quality_validator.py",
+      "relative_source": "scripts/data_quality_validator.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "3bcd412bc0d9af27a041eaccf186bb3e0940b074",
+      "sha256": "3bead272e3e50f33c0ca194c972cf9550f843a5238ad1fd476e8274a6f02a030",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/scripts/etl_performance_optimizer.py",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/scripts/etl_performance_optimizer.py",
+      "relative_source": "scripts/etl_performance_optimizer.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "09b695eabe4b1dc2e6a46f1508dc0310b2a74161",
+      "sha256": "f6c899ac6e46434462e22dec76c74936dc93731f39ad929cd746badec51df49b",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/scripts/kafka_config_generator.py",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/scripts/kafka_config_generator.py",
+      "relative_source": "scripts/kafka_config_generator.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "c4f46d110bd5d7a62f3876f544784c1c2b6e523e",
+      "sha256": "d99c1cbd5583964fd5df4b29e07ba9a620b596fad31c1230e0aec301c811562c",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/scripts/pipeline_orchestrator.py",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/scripts/pipeline_orchestrator.py",
+      "relative_source": "scripts/pipeline_orchestrator.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "589159e438dd1a46b972f2e7d9fb7bc8a35bd98c",
+      "sha256": "acbee613973a645f83a7abf1585dd6ee17efd2e93ac25251913384fe57b62fb0",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/scripts/stream_processor.py",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/scripts/stream_processor.py",
+      "relative_source": "scripts/stream_processor.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "01771a801c3b52855fc69c6e2f393bc1627ca4b7",
+      "sha256": "aec1796244b0a844e33589575dac83abbe2cf981b58f78398ddb39f02d41f46f",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "flink-query【含迭代】/senior-data-engineer【含迭代】/senior-data-engineer_v2/scripts/streaming_quality_validator.py",
+      "source": "tasks/flink-query/environment/skills/senior-data-engineer/scripts/streaming_quality_validator.py",
+      "relative_source": "scripts/streaming_quality_validator.py",
+      "revision": "a8eefb4fdd9122c1821bad1db9fd361a3e074ec8",
+      "blob": "a4809ad34ab11d272caea6a4c0b08b9980f25184",
+      "sha256": "aa3467837b783a6af0f0510c4b1ac30560a3d98b8b5006e1488073fb0789db2a",
+      "mode": "100755",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

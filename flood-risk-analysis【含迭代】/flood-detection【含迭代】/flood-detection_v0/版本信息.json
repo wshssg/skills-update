@@ -1,0 +1,32 @@
+{
+  "task": "flood-risk-analysis",
+  "skill": "flood-detection",
+  "version": "v0",
+  "directory": "flood-risk-analysis【含迭代】/flood-detection【含迭代】/flood-detection_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9eb5a7ab9dd5789f1d00c83791642356de4d3d5e",
+  "source_root": "tasks/flood-risk-analysis/environment/skills/flood-detection",
+  "commit_title": "[task] Add flood-risk-analysis task (#46)",
+  "commit_time_beijing": "2026-01-20 03:30:59",
+  "author_time_beijing": "2026-01-20 03:30:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "flood-risk-analysis【含迭代】/flood-detection【含迭代】/flood-detection_v0/SKILL.md",
+      "source": "tasks/flood-risk-analysis/environment/skills/flood-detection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9eb5a7ab9dd5789f1d00c83791642356de4d3d5e",
+      "blob": "dba7927cb47cbc8943ed721adafbd28eabf22ab6",
+      "sha256": "a1f31533934b407c361374e785bc2975d65bcbdd5b62f21f6328d7193a70d3f5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,54 @@
+{
+  "task": "jpg-ocr-stat",
+  "skill": "xlsx",
+  "version": "v0",
+  "directory": "jpg-ocr-stat/xlsx/xlsx_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "70b0bba246acf753ef516f0be94cda1a12d86ed7",
+  "source_root": "tasks/jpg-ocr-stat/environment/skills/xlsx",
+  "commit_title": "[Task] add jpg-ocr-stat task  (#117)",
+  "commit_time_beijing": "2026-01-15 13:14:55",
+  "author_time_beijing": "2026-01-15 13:14:55",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "jpg-ocr-stat/xlsx/xlsx_v0/LICENSE.txt",
+      "source": "tasks/jpg-ocr-stat/environment/skills/xlsx/LICENSE.txt",
+      "relative_source": "LICENSE.txt",
+      "revision": "70b0bba246acf753ef516f0be94cda1a12d86ed7",
+      "blob": "c55ab42224874608473643de0a85736b7fec0730",
+      "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jpg-ocr-stat/xlsx/xlsx_v0/SKILL.md",
+      "source": "tasks/jpg-ocr-stat/environment/skills/xlsx/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "70b0bba246acf753ef516f0be94cda1a12d86ed7",
+      "blob": "75ccc9efe04c50ea0920db8d215839c4aa213a85",
+      "sha256": "9bdc1fee81f3be9cb34ac49f8890c094a3855d3d0236783d10e0ea6df1515e01",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "jpg-ocr-stat/xlsx/xlsx_v0/recalc.py",
+      "source": "tasks/jpg-ocr-stat/environment/skills/xlsx/recalc.py",
+      "relative_source": "recalc.py",
+      "revision": "70b0bba246acf753ef516f0be94cda1a12d86ed7",
+      "blob": "4f90f4356efe0d562900c2ff590187056ffc8cd9",
+      "sha256": "f0833720e26fa894c9c1ccf0bd71dfc4609f8a310360fb2de2071efb64fbd409",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "flood-risk-analysis",
+  "skill": "nws-flood-thresholds",
+  "version": "v0",
+  "directory": "flood-risk-analysis【含迭代】/nws-flood-thresholds/nws-flood-thresholds_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9eb5a7ab9dd5789f1d00c83791642356de4d3d5e",
+  "source_root": "tasks/flood-risk-analysis/environment/skills/nws-flood-thresholds",
+  "commit_title": "[task] Add flood-risk-analysis task (#46)",
+  "commit_time_beijing": "2026-01-20 03:30:59",
+  "author_time_beijing": "2026-01-20 03:30:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "flood-risk-analysis【含迭代】/nws-flood-thresholds/nws-flood-thresholds_v0/SKILL.md",
+      "source": "tasks/flood-risk-analysis/environment/skills/nws-flood-thresholds/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9eb5a7ab9dd5789f1d00c83791642356de4d3d5e",
+      "blob": "2f6acdee3b7170af592da400f78ea10d8d959f5b",
+      "sha256": "f0a534dad20748e094e2188b2fb8078264a4c0451757827b54f921146453418f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

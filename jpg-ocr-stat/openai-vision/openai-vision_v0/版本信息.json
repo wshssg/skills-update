@@ -1,0 +1,32 @@
+{
+  "task": "jpg-ocr-stat",
+  "skill": "openai-vision",
+  "version": "v0",
+  "directory": "jpg-ocr-stat/openai-vision/openai-vision_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+  "source_root": "tasks/jpg-ocr-stat/environment/skills/openai-vision",
+  "commit_title": "[Task] add task pedestrian traffic counting (previously discussed but forget to WIP) (#586)",
+  "commit_time_beijing": "2026-01-24 05:10:43",
+  "author_time_beijing": "2026-01-24 05:10:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "jpg-ocr-stat/openai-vision/openai-vision_v0/SKILL.md",
+      "source": "tasks/jpg-ocr-stat/environment/skills/openai-vision/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+      "blob": "1fbe26c011eaf2ddeab1fd47b2eafec5d66a818b",
+      "sha256": "5023bf779904e73d82cd1a55373eedb001fff59fc97410e22671991c63a83e3c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

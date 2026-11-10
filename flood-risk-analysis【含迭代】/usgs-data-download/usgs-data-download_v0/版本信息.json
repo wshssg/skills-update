@@ -1,0 +1,32 @@
+{
+  "task": "flood-risk-analysis",
+  "skill": "usgs-data-download",
+  "version": "v0",
+  "directory": "flood-risk-analysis【含迭代】/usgs-data-download/usgs-data-download_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9eb5a7ab9dd5789f1d00c83791642356de4d3d5e",
+  "source_root": "tasks/flood-risk-analysis/environment/skills/usgs-data-download",
+  "commit_title": "[task] Add flood-risk-analysis task (#46)",
+  "commit_time_beijing": "2026-01-20 03:30:59",
+  "author_time_beijing": "2026-01-20 03:30:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "flood-risk-analysis【含迭代】/usgs-data-download/usgs-data-download_v0/SKILL.md",
+      "source": "tasks/flood-risk-analysis/environment/skills/usgs-data-download/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9eb5a7ab9dd5789f1d00c83791642356de4d3d5e",
+      "blob": "c67beebe31dc05d393b9b00058935c2b2df9ae31",
+      "sha256": "82f0ec56e7bbfdeadac0bf05a51683d3e90e183d9b27165923f70860183a825e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

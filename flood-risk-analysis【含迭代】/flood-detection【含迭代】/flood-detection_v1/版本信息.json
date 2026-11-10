@@ -1,0 +1,32 @@
+{
+  "task": "flood-risk-analysis",
+  "skill": "flood-detection",
+  "version": "v1",
+  "directory": "flood-risk-analysis【含迭代】/flood-detection【含迭代】/flood-detection_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "67afc970a40371c0def6e60a1d755783199c594e",
+  "source_root": "tasks/flood-risk-analysis/environment/skills/flood-detection",
+  "commit_title": "[fix]: pre-commit issues for find-topk-similar-chemicals, flood-risk-analysis, suricata-custom-exfil (#548)",
+  "commit_time_beijing": "2026-01-20 05:49:54",
+  "author_time_beijing": "2026-01-20 05:49:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "flood-risk-analysis【含迭代】/flood-detection【含迭代】/flood-detection_v1/SKILL.md",
+      "source": "tasks/flood-risk-analysis/environment/skills/flood-detection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "67afc970a40371c0def6e60a1d755783199c594e",
+      "blob": "661eb8c33aeff01647364ba78007a3271a69677a",
+      "sha256": "14e55948af7ac9e90e039985d116fbc2c605f12bb3996c8b49d52167ddf4696d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
