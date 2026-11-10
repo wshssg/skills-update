@@ -1,0 +1,32 @@
+{
+  "task": "threejs-structure-parser",
+  "skill": "obj-exporter",
+  "version": "v0",
+  "directory": "threejs-structure-parser【含迭代】/obj-exporter/obj-exporter_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d9ca6cbbe4b093fd4f25233d643fc69413f60b4e",
+  "source_root": "tasks/threejs-structure-parser/environment/skills/obj-exporter",
+  "commit_title": "[Task 2] [Ready to Merge] Threejs Structure Parser -- Hard (#564)",
+  "commit_time_beijing": "2026-01-24 10:11:14",
+  "author_time_beijing": "2026-01-24 10:11:14",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "threejs-structure-parser【含迭代】/obj-exporter/obj-exporter_v0/SKILL.md",
+      "source": "tasks/threejs-structure-parser/environment/skills/obj-exporter/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d9ca6cbbe4b093fd4f25233d643fc69413f60b4e",
+      "blob": "f914e35b6adf6f2b1810690a9fa010cb77b28547",
+      "sha256": "92f851fcd69db38dc72e85f789f06557fc3e82c59d33d580fb977a72f8e587aa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

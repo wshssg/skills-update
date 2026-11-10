@@ -1,0 +1,32 @@
+{
+  "task": "threejs-to-obj",
+  "skill": "obj-exporter",
+  "version": "v0",
+  "directory": "threejs-to-obj【含迭代】/obj-exporter/obj-exporter_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "f5f1b0737e33332b745535429fab6a9372718287",
+  "source_root": "tasks/threejs-to-obj/environment/skills/obj-exporter",
+  "commit_title": "[Task1] [Ready to Merge] Threejs to Obj converter -- Medium (#562)",
+  "commit_time_beijing": "2026-01-24 16:31:47",
+  "author_time_beijing": "2026-01-24 16:31:47",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "threejs-to-obj【含迭代】/obj-exporter/obj-exporter_v0/SKILL.md",
+      "source": "tasks/threejs-to-obj/environment/skills/obj-exporter/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "f5f1b0737e33332b745535429fab6a9372718287",
+      "blob": "5be7ce6b598fbe83bfde5a3d41c7fc3f0c1c1d41",
+      "sha256": "e6681249baeab46443a2ddd1ef7983099dced6851b18dba3572b3967e5548056",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,98 @@
+{
+  "task": "threejs-structure-parser",
+  "skill": "threejs",
+  "version": "v1",
+  "directory": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+  "source_root": "tasks/threejs-structure-parser/environment/skills/threejs",
+  "commit_title": "Fix website deployment build (#874)",
+  "commit_time_beijing": "2026-05-28 07:55:29",
+  "author_time_beijing": "2026-05-28 07:55:29",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/SKILL.md",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "fb3860d7231d4d6218cf7e5c379ab353b6bc1433",
+      "sha256": "ea480298751ea55effee4535b16b67ec79fd9540b971a89712e6f5b9ce8cd663",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/references/joint-type-heuristics.md",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/references/joint-type-heuristics.md",
+      "relative_source": "references/joint-type-heuristics.md",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "51c9c47753f2a2a44e08cf43ab1efd61a63d778b",
+      "sha256": "459af44b906bb2bf61a940e88b83b1cf7afe3ddb17c17d355577f987c6a6214b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/references/link-export-rules.md",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/references/link-export-rules.md",
+      "relative_source": "references/link-export-rules.md",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "3938fd01fb087fd4eb5f717cfc864f59cd1d5a03",
+      "sha256": "7c664561c879a7be8d799665f781ba8497abcdbf34ec6c369121fd57d699b835",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/references/urdf-minimal.md",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/references/urdf-minimal.md",
+      "relative_source": "references/urdf-minimal.md",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "b44b0c4b86fab4d5ec795353806586f1f0b8eb76",
+      "sha256": "204b4ae283774fe2a8181a605aa9f0d79355f6c8bf4b060c53891a2136750aee",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/scripts/build_urdf_from_scene.mjs",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/scripts/build_urdf_from_scene.mjs",
+      "relative_source": "scripts/build_urdf_from_scene.mjs",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "17d1975031651e98eff76e31c1e2d7699df05191",
+      "sha256": "db916f0930dd39a8e4a17ee2ddb4b166bdc41df57baacc46123fa65a052fe284",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/scripts/export_instanced_obj.mjs",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/scripts/export_instanced_obj.mjs",
+      "relative_source": "scripts/export_instanced_obj.mjs",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "6ff86943af2a6470b421ee8be8a7bf7819b06647",
+      "sha256": "b2d33217a6d67ecfc877bfe2d696d681409723f6ed5b5be1e12b75922a90de82",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "threejs-structure-parser【含迭代】/threejs【含迭代】/threejs_v1/scripts/export_link_objs.mjs",
+      "source": "tasks/threejs-structure-parser/environment/skills/threejs/scripts/export_link_objs.mjs",
+      "relative_source": "scripts/export_link_objs.mjs",
+      "revision": "20c7517a290157726047b30d19ab2baf2f035b54",
+      "blob": "40584d360fcd4afdc51400dedde731b0485a9b55",
+      "sha256": "95772be1810e9bea114197265a0f3094bc98607b9b871e80a34d5d7131d33494",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

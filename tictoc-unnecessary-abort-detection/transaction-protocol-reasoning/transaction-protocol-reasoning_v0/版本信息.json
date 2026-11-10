@@ -1,0 +1,109 @@
+{
+  "task": "tictoc-unnecessary-abort-detection",
+  "skill": "transaction-protocol-reasoning",
+  "version": "v0",
+  "directory": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+  "source_root": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning",
+  "commit_title": "Add task tictoc-unnecessary-abort-detection (#755)",
+  "commit_time_beijing": "2026-05-05 16:13:29",
+  "author_time_beijing": "2026-05-05 16:13:29",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/SKILL.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "b29a6082743b72b1f9c964762a7661186a2de56f",
+      "sha256": "8ce9b3a2c3b86940063505013d15bb477c2bb164fcc0fe6f0736383476da103b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/counterexample-construction.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/counterexample-construction.md",
+      "relative_source": "references/counterexample-construction.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "8dc9f2a032a2a145b514bc508dd9bbc911e9f1e4",
+      "sha256": "ac86623f92833e45a73017d571e7893353e333a8473af0092d730e35f26d7ee2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/example-construction.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/example-construction.md",
+      "relative_source": "references/example-construction.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "a563f98aac409023c2c571e5c4422ba7ce213f7d",
+      "sha256": "b33201999fdf3058d7cc1a1dffe7b9d882af739e0a37824ef703b23dd32ec4aa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/invariant-extraction.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/invariant-extraction.md",
+      "relative_source": "references/invariant-extraction.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "dfd7951f98ddc21cea0be5e9aa683540b831b1bb",
+      "sha256": "a533135ebe436822b93929521dbcc56069bf8f81d7d96f2e0b9f0779cff8c99e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/operation-rule-analysis.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/operation-rule-analysis.md",
+      "relative_source": "references/operation-rule-analysis.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "f0df0c1774a9296d3bb00d47f6227a2e14bc450d",
+      "sha256": "e2a414350d28dc6131f53108739937e01357b4739b2772ab707d8ae5a93a4ac7",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/protocol-analysis-workflow.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/protocol-analysis-workflow.md",
+      "relative_source": "references/protocol-analysis-workflow.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "90ea31c7b729116fc0c279a9f8c853d7a24b4f77",
+      "sha256": "3187b20311b299df2a0cce107e5d8b93ddcc162b7dd87d4c628be7c604db2534",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/protocol-comparison.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/protocol-comparison.md",
+      "relative_source": "references/protocol-comparison.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "b5d02349c808fe68e8939dc7264ce5417ea55514",
+      "sha256": "8f4a930ea38b552d4b49d71b806d7f7e82ee0d874863c8f400f06efb994afdd0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-protocol-reasoning/transaction-protocol-reasoning_v0/references/state-and-metadata-modeling.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-protocol-reasoning/references/state-and-metadata-modeling.md",
+      "relative_source": "references/state-and-metadata-modeling.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "fe6c4ff5f96a12482f662d03278f992b3fd68d97",
+      "sha256": "f19acbe2ba868012145870aec39ffa51fc62c16c226f884645a807fa2bc31a72",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,98 @@
+{
+  "task": "tictoc-unnecessary-abort-detection",
+  "skill": "transaction-concurrency-control-foundations",
+  "version": "v0",
+  "directory": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+  "source_root": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations",
+  "commit_title": "Add task tictoc-unnecessary-abort-detection (#755)",
+  "commit_time_beijing": "2026-05-05 16:13:29",
+  "author_time_beijing": "2026-05-05 16:13:29",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/SKILL.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "1dffc05abc383f041e41705246b574b39eb98a16",
+      "sha256": "e547c7f2b5ae65f6543d34c58d5b5db71145ee9f8dc8683a845671258937282e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/references/anomaly-and-isolation-taxonomy.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/references/anomaly-and-isolation-taxonomy.md",
+      "relative_source": "references/anomaly-and-isolation-taxonomy.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "2ba2e3dc5bafbfc0421ac47f9447c8ef3286f698",
+      "sha256": "42df4254860852f799481547fa592a2750de5a23b8f1f502c6cd115d495284fd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/references/concurrency-control-problems.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/references/concurrency-control-problems.md",
+      "relative_source": "references/concurrency-control-problems.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "185a7ada7b673e75cfd29fad541e8056787bc210",
+      "sha256": "abd17ee276a0ad7bb20e2ebb54d3276ce3b4ed576914bf753e04967ef60048ec",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/references/conflict-taxonomy.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/references/conflict-taxonomy.md",
+      "relative_source": "references/conflict-taxonomy.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "88e183ba7e39a95aa51489dc345e553e1600030b",
+      "sha256": "73fe7f517487fecb9f6b23df1f0412302303d9c613d5251e1af9fdcf904429b3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/references/protocol-family-overview.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/references/protocol-family-overview.md",
+      "relative_source": "references/protocol-family-overview.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "a154f6ea33ea92bd2e14dbef941f3054157e1e7b",
+      "sha256": "f9eb81f1c9bfd05a6a44dd7e3660cefad589454b358fa7b27643353e324abc57",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/references/representative-protocols.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/references/representative-protocols.md",
+      "relative_source": "references/representative-protocols.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "6be434b303a89680c712292b97f6ec0953ebd2d3",
+      "sha256": "ed78cd0863d5eada6669e281156c4078887856ad0fda86c79050f418026a8d70",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-concurrency-control-foundations/transaction-concurrency-control-foundations_v0/references/transaction-concepts.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-concurrency-control-foundations/references/transaction-concepts.md",
+      "relative_source": "references/transaction-concepts.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "eeab4d506f4211ed6decfd2d408c462c4e94c014",
+      "sha256": "2094aa70d95bd3631023d5722a35c5e0d1c88fad4585623e7a337e6cd28062e5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

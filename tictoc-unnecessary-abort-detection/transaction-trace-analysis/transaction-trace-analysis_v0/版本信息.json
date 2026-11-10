@@ -1,0 +1,109 @@
+{
+  "task": "tictoc-unnecessary-abort-detection",
+  "skill": "transaction-trace-analysis",
+  "version": "v0",
+  "directory": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+  "source_root": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis",
+  "commit_title": "Add task tictoc-unnecessary-abort-detection (#755)",
+  "commit_time_beijing": "2026-05-05 16:13:29",
+  "author_time_beijing": "2026-05-05 16:13:29",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/SKILL.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "ec2780d5914c9877165ffde241ab93d78b1b92b4",
+      "sha256": "c44409caad70c655144b26ec53e50d727dc2c9d0e0c244d648a0f99e5d51b929",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/evidence-quality-and-uncertainty.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/evidence-quality-and-uncertainty.md",
+      "relative_source": "references/evidence-quality-and-uncertainty.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "ed93ef5ace4ce4d3ba1437a4c215fdd67dd08c69",
+      "sha256": "9eb29255541d5fee664f7075c7edd0046ef64798cec11e5d57ef448b1171359d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/object-version-history.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/object-version-history.md",
+      "relative_source": "references/object-version-history.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "dd9346f890fa475b816d19354868c1975c92817a",
+      "sha256": "9c824500ac5d8eb9fcfb384d2c53489b3e01414c16f0465e85bfa5bb6a62063f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/output-classification-patterns.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/output-classification-patterns.md",
+      "relative_source": "references/output-classification-patterns.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "80f6ab9950944341f59152dafae03e18be9ec3a5",
+      "sha256": "e2c4b2a42ddd73af3bd8d4d9515c75c22aa7decbca76c5daa7e9b10197a34e8e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/timestamp-and-ordering-fields.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/timestamp-and-ordering-fields.md",
+      "relative_source": "references/timestamp-and-ordering-fields.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "892e0e9b7555d3962a37f13efde84825610e4dec",
+      "sha256": "eff1f012aee3a432a946aced7006641b0881335a03a7ebab2515fa19cdfb9287",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/trace-schema-normalization.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/trace-schema-normalization.md",
+      "relative_source": "references/trace-schema-normalization.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "0abde614018428e9af9da828a5b4a7ce57caa138",
+      "sha256": "8ef68880b258995c1e7d41c8fc6d425b2f8172190392a7f7accce798173586b0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/transaction-history-reconstruction.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/transaction-history-reconstruction.md",
+      "relative_source": "references/transaction-history-reconstruction.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "98e6e262e302fca804b817e3c71e401042c42d11",
+      "sha256": "3acaa1eb95f77fc058916af4f9aa8cc4e995b0629af8d200ace50eb445d85c81",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "tictoc-unnecessary-abort-detection/transaction-trace-analysis/transaction-trace-analysis_v0/references/validation-and-abort-records.md",
+      "source": "tasks/tictoc-unnecessary-abort-detection/environment/skills/transaction-trace-analysis/references/validation-and-abort-records.md",
+      "relative_source": "references/validation-and-abort-records.md",
+      "revision": "eaebe3070bd8f7ac697574894b498548eeb00e68",
+      "blob": "3e62ba18bedb3acad74607623b07f0b093167ff2",
+      "sha256": "31f7dbe0a3a43e812c999a4eb743476728730a3c6b3f4a37403b66a037f929b6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
