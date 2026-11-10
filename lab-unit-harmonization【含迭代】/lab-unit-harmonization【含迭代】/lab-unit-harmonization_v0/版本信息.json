@@ -1,0 +1,43 @@
+{
+  "task": "lab-unit-harmonization",
+  "skill": "lab-unit-harmonization",
+  "version": "v0",
+  "directory": "lab-unit-harmonization【含迭代】/lab-unit-harmonization【含迭代】/lab-unit-harmonization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c4f06607a5d0826d26539cc04da1e9b88d5a818e",
+  "source_root": "tasks/lab-unit-harmonization/environment/skills/lab-unit-harmonization",
+  "commit_title": "[task] lab-unit-harmonization (#177)",
+  "commit_time_beijing": "2026-01-17 07:03:48",
+  "author_time_beijing": "2026-01-17 07:03:48",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "lab-unit-harmonization【含迭代】/lab-unit-harmonization【含迭代】/lab-unit-harmonization_v0/SKILL.md",
+      "source": "tasks/lab-unit-harmonization/environment/skills/lab-unit-harmonization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c4f06607a5d0826d26539cc04da1e9b88d5a818e",
+      "blob": "72155b51677c4834cb55eb5b200d96fa53aaa1a4",
+      "sha256": "c786630beaa787a5de0fcb92772f9537f73f383a6fe19405778cc00307f5444a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lab-unit-harmonization【含迭代】/lab-unit-harmonization【含迭代】/lab-unit-harmonization_v0/reference/ckd_lab_features.md",
+      "source": "tasks/lab-unit-harmonization/environment/skills/lab-unit-harmonization/reference/ckd_lab_features.md",
+      "relative_source": "reference/ckd_lab_features.md",
+      "revision": "c4f06607a5d0826d26539cc04da1e9b88d5a818e",
+      "blob": "df988c5e08d0645f16d6d4755516b714437b0991",
+      "sha256": "51bdb5867b588f4231cfb201301ba2f0a033075eccf9f5598e42ba164e6d4bb3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,54 @@
+{
+  "task": "lean4-proof",
+  "skill": "lean4-memories",
+  "version": "v0",
+  "directory": "lean4-proof/lean4-memories/lean4-memories_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+  "source_root": "tasks/lean4-proof/environment/skills/lean4-memories",
+  "commit_title": "[Task] add lean4 proof task (#103)",
+  "commit_time_beijing": "2026-01-13 01:40:33",
+  "author_time_beijing": "2026-01-13 01:40:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "lean4-proof/lean4-memories/lean4-memories_v0/SKILL.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-memories/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "4e3f92497aa75d7da489fe9ed4f23f6139ca5a63",
+      "sha256": "158e14b3e8a10b5a09eecda01d3a83fe4fade2ceca0272d78e4946563b2450bd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-memories/lean4-memories_v0/references/memory-patterns.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-memories/references/memory-patterns.md",
+      "relative_source": "references/memory-patterns.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "b3dbc9bb82234b004b1418b0539906884c1ce146",
+      "sha256": "902f10dceccc914fddb384867cf96a263cbc0331cdee4a9b2090916350e0da7e",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-memories/lean4-memories_v0/scripts/memory_helper.py",
+      "source": "tasks/lean4-proof/environment/skills/lean4-memories/scripts/memory_helper.py",
+      "relative_source": "scripts/memory_helper.py",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "b1b39ac9e9fdc6979726c3635e5023b5643af37b",
+      "sha256": "365015864e5b5d83689be47144de91bb9f9a01f5ea8b109fffbb731b2cd9d17b",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

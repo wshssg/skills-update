@@ -1,0 +1,32 @@
+{
+  "task": "llm-prefix-cache-replay",
+  "skill": "prefix-cache-replay",
+  "version": "v0",
+  "directory": "llm-prefix-cache-replay/prefix-cache-replay/prefix-cache-replay_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "49d48280cb225941f5cdd6478da83bae916b001b",
+  "source_root": "tasks/llm-prefix-cache-replay/environment/skills/prefix-cache-replay",
+  "commit_title": "Add llm-prefix-cache-replay task (#723)",
+  "commit_time_beijing": "2026-05-05 07:28:01",
+  "author_time_beijing": "2026-05-05 07:28:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "llm-prefix-cache-replay/prefix-cache-replay/prefix-cache-replay_v0/SKILL.md",
+      "source": "tasks/llm-prefix-cache-replay/environment/skills/prefix-cache-replay/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "49d48280cb225941f5cdd6478da83bae916b001b",
+      "blob": "0bf5f3d114e7a268f663157fa777385b7907286a",
+      "sha256": "28ced940ec272cc01cf06519912077492d948b10e08a933acba12dd9907220cf",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

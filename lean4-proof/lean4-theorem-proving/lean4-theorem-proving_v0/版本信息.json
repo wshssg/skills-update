@@ -1,0 +1,273 @@
+{
+  "task": "lean4-proof",
+  "skill": "lean4-theorem-proving",
+  "version": "v0",
+  "directory": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+  "source_root": "tasks/lean4-proof/environment/skills/lean4-theorem-proving",
+  "commit_title": "[Task] add lean4 proof task (#103)",
+  "commit_time_beijing": "2026-01-13 01:40:33",
+  "author_time_beijing": "2026-01-13 01:40:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/SKILL.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "f0498c0b77bf4b307a4386dfd03d37d81c5247bb",
+      "sha256": "ccdf91ca8b6e496b7a484668b80f749fc81b3090393448decafd9b6468a14fd8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/axiom-elimination.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/axiom-elimination.md",
+      "relative_source": "references/axiom-elimination.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "d72fa73dc3322aaaee7731cdf84e2c17c0c1a3ff",
+      "sha256": "3a9ba8d988b4bdfad4c7e44a592895cdca5f2e691bea799a9a7316d3adf8adde",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/calc-patterns.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/calc-patterns.md",
+      "relative_source": "references/calc-patterns.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "432e1ccd5511a92d5fe5e2e34034dbd6d2ddf8df",
+      "sha256": "5b4f5292159bc7a9fd4e28b62f0e152c54c96c7280f0e0dea7bae86bff5029e0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/compilation-errors.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/compilation-errors.md",
+      "relative_source": "references/compilation-errors.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "5d818138c1d42fc3f43c8ba10b80f3a88c5bc8c4",
+      "sha256": "555ddf275bb49f75fadda8d723bdad227630f12cc925d964946cf8fe4cb22da2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/compiler-guided-repair.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/compiler-guided-repair.md",
+      "relative_source": "references/compiler-guided-repair.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "c46593ffb40ab142faa5721ffdee285139b104d9",
+      "sha256": "785cdf96352e4d2213c5d2df10f63c43c1c8029c92f31d35228200082e5fa958",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/domain-patterns.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/domain-patterns.md",
+      "relative_source": "references/domain-patterns.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "d1ec169de5ea1da839a2c5e1c5b30243425daccc",
+      "sha256": "8d78f1be1687e2c465e24e5eb5a7ad1d684562ed17eecba0183fd6303b3665c8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/instance-pollution.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/instance-pollution.md",
+      "relative_source": "references/instance-pollution.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "d9fb6ed4919eaf8ac9d56686d5850199c868c5d3",
+      "sha256": "d8a081acdb49132087398579f2ed5bec4221e22a7564d240fc37b13f65144a15",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/lean-lsp-server.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/lean-lsp-server.md",
+      "relative_source": "references/lean-lsp-server.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "988115e5f13dec616f7d28783b5dae1b8cf867d5",
+      "sha256": "6ca3b93e357cc8df1ec73b083309ed8df2ca9930ba171c8c260f0c0b73eb7d48",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/lean-lsp-tools-api.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/lean-lsp-tools-api.md",
+      "relative_source": "references/lean-lsp-tools-api.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "50567cb4569dd9febc7ff70de7cf7e70c478426d",
+      "sha256": "d41a2ee7471f3ff9a4a8e58837e2eaa6b7dba3ae929f73e7d676bbc8d5c62863",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/lean-phrasebook.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/lean-phrasebook.md",
+      "relative_source": "references/lean-phrasebook.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "d3da2de0ea34389b7012a8bf8ff85bfed3bb8c5d",
+      "sha256": "cb2087703610a9b51f84173ddf4c8931439356c6c24b464f85aac2398737e565",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/mathlib-guide.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/mathlib-guide.md",
+      "relative_source": "references/mathlib-guide.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "9f16bb8a5a7ee7cc5b48431b4665ce7914a76b32",
+      "sha256": "5be4f6d07fda6d2187389bb2853261326f1c697cd999f6be5dc96b9df3e98fc3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/mathlib-style.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/mathlib-style.md",
+      "relative_source": "references/mathlib-style.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "0a34ce2e7d3308d453f9a232048779cbce51a764",
+      "sha256": "16607b2faae5416e569e33c2c45cef37c8eefa94515dc1114bdec4e2c872b753",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/measure-theory.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/measure-theory.md",
+      "relative_source": "references/measure-theory.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "61f74068f717c02b86dc294cc273935319daa265",
+      "sha256": "efbd6be22b86af3e6ed872eb6d2b4890e52d22e4c55f15e3a2e36710577623ca",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/performance-optimization.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/performance-optimization.md",
+      "relative_source": "references/performance-optimization.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "d0fd54b8a5f85e4a49b3d1a3c963fc6cd1da7c63",
+      "sha256": "61e9db15ec8831a05fd9454a0696c2bd5cd50b979cd0b5986908cb3714d3dd4a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/proof-golfing-patterns.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/proof-golfing-patterns.md",
+      "relative_source": "references/proof-golfing-patterns.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "3e19e65f52c76f200800448e882ceb738bbf6f2a",
+      "sha256": "ae3e0ba667f591bce3e97f4743495fbfc19c743ba189109772679201bd459632",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/proof-golfing-safety.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/proof-golfing-safety.md",
+      "relative_source": "references/proof-golfing-safety.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "8430540e219770b4ed4a8ba9e032bfe0ffe961f7",
+      "sha256": "1c89ef33fb98e7a73662acf9d2a5d4cacd07d9e891b7acae8c6e43ffa51f9dd9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/proof-golfing.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/proof-golfing.md",
+      "relative_source": "references/proof-golfing.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "0a9c9fb0315153513581c6cec468e2438b7f8c9e",
+      "sha256": "c85a8660c5b6301228cd09f5a9e6b49040d97e893f683424dc4ea782b7cc504f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/proof-refactoring.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/proof-refactoring.md",
+      "relative_source": "references/proof-refactoring.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "ef900bbffcdfdbdc06e6c4199bd62a2cf0181123",
+      "sha256": "fa64a1003de831b2dad02e2ba2175f6b2ea4ab6aafb95225370d3a7f0ea18fc1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/sorry-filling.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/sorry-filling.md",
+      "relative_source": "references/sorry-filling.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "7d40e23a56148e9cff82630b420b33329f0212ef",
+      "sha256": "b2af8a81d2f4da79c9d59e7b4099a48c29548d99e825fae89ce499ca65711a3c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/subagent-workflows.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/subagent-workflows.md",
+      "relative_source": "references/subagent-workflows.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "840f9bdd167843c62b93985ec638ff3c71bbd21a",
+      "sha256": "ed221c5264dd0279cb87ec397b7b3ded094026d5abd0c6667be78efe77318b21",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lean4-proof/lean4-theorem-proving/lean4-theorem-proving_v0/references/tactics-reference.md",
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/references/tactics-reference.md",
+      "relative_source": "references/tactics-reference.md",
+      "revision": "06e40dd15b69fb04a8f161289691039243baaee3",
+      "blob": "2dacb6eb90b7d69082157fc4bfae4eb86cf68cea",
+      "sha256": "117fdcd3d052c27582a528c78975e1c4e539a4358b3195f347b0b015a59b0b17",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": [
+    {
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/SKILL.md",
+      "reference": "../../COMMANDS.md",
+      "resolved": "tasks/lean4-proof/environment/COMMANDS.md"
+    },
+    {
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/SKILL.md",
+      "reference": "../../scripts/README.md",
+      "resolved": "tasks/lean4-proof/environment/scripts/README.md"
+    },
+    {
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/SKILL.md",
+      "reference": "../../COMMANDS.md",
+      "resolved": "tasks/lean4-proof/environment/COMMANDS.md"
+    },
+    {
+      "source": "tasks/lean4-proof/environment/skills/lean4-theorem-proving/SKILL.md",
+      "reference": "../../scripts/README.md",
+      "resolved": "tasks/lean4-proof/environment/scripts/README.md"
+    }
+  ]
+}

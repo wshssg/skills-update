@@ -1,0 +1,43 @@
+{
+  "task": "lab-unit-harmonization",
+  "skill": "lab-unit-harmonization",
+  "version": "v1",
+  "directory": "lab-unit-harmonization【含迭代】/lab-unit-harmonization【含迭代】/lab-unit-harmonization_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+  "source_root": "tasks/lab-unit-harmonization/environment/skills/lab-unit-harmonization",
+  "commit_title": "fix: pre-commit issues (trailing whitespace, EOF newlines, TOML syntax) (#542)",
+  "commit_time_beijing": "2026-01-19 23:06:01",
+  "author_time_beijing": "2026-01-19 23:06:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "lab-unit-harmonization【含迭代】/lab-unit-harmonization【含迭代】/lab-unit-harmonization_v1/SKILL.md",
+      "source": "tasks/lab-unit-harmonization/environment/skills/lab-unit-harmonization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+      "blob": "755f98556133b6c39bb1abc34e7c4f4556466c4d",
+      "sha256": "60eea92e906b140bafcfb50d7c26ecac645f2a434418080fe07ee5b8af115afe",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "lab-unit-harmonization【含迭代】/lab-unit-harmonization【含迭代】/lab-unit-harmonization_v1/reference/ckd_lab_features.md",
+      "source": "tasks/lab-unit-harmonization/environment/skills/lab-unit-harmonization/reference/ckd_lab_features.md",
+      "relative_source": "reference/ckd_lab_features.md",
+      "revision": "93eb91c6e27706df7a16155f9aff20eb7baab06f",
+      "blob": "e7c0c9595092796cf88f0787ac1a17d6ec65bd4b",
+      "sha256": "07867182a882242324960bc1721fcc3f197209298c85c38d0e9e0cdec4f7e62c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

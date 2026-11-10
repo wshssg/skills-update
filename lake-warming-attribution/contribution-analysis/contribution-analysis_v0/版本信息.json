@@ -1,0 +1,32 @@
+{
+  "task": "lake-warming-attribution",
+  "skill": "contribution-analysis",
+  "version": "v0",
+  "directory": "lake-warming-attribution/contribution-analysis/contribution-analysis_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c52a7eb763f0bc62b9f4eca48e6770370e268376",
+  "source_root": "tasks/lake-warming-attribution/environment/skills/contribution-analysis",
+  "commit_title": "[task] Add lake-warming-attribution task (#428)",
+  "commit_time_beijing": "2026-01-24 05:58:12",
+  "author_time_beijing": "2026-01-24 05:58:12",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "lake-warming-attribution/contribution-analysis/contribution-analysis_v0/SKILL.md",
+      "source": "tasks/lake-warming-attribution/environment/skills/contribution-analysis/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c52a7eb763f0bc62b9f4eca48e6770370e268376",
+      "blob": "570cda5dacab6102311b20fbb0336d26a6e9267c",
+      "sha256": "ec9531b6b06a4e7a699da04bf0e86279af14cc0b7aba77476adbfc4766015c63",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

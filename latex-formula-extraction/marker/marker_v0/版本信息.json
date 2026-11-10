@@ -1,0 +1,43 @@
+{
+  "task": "latex-formula-extraction",
+  "skill": "marker",
+  "version": "v0",
+  "directory": "latex-formula-extraction/marker/marker_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b0ebf1b3ed9556c21ffcd754a88f1d65e3ef56f6",
+  "source_root": "tasks/latex-formula-extraction/environment/skills/marker",
+  "commit_title": "[Task] Add latex-formula-extraction task (#87)",
+  "commit_time_beijing": "2026-01-20 03:22:48",
+  "author_time_beijing": "2026-01-20 03:22:48",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "latex-formula-extraction/marker/marker_v0/SKILL.md",
+      "source": "tasks/latex-formula-extraction/environment/skills/marker/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b0ebf1b3ed9556c21ffcd754a88f1d65e3ef56f6",
+      "blob": "785173cea1036a657d3ace85802eb059ce1c7453",
+      "sha256": "c931b6398d4a9fe59126c8fda56e5c0d275550e907726820547ea9e84302843d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "latex-formula-extraction/marker/marker_v0/scripts/marker_to_markdown.py",
+      "source": "tasks/latex-formula-extraction/environment/skills/marker/scripts/marker_to_markdown.py",
+      "relative_source": "scripts/marker_to_markdown.py",
+      "revision": "b0ebf1b3ed9556c21ffcd754a88f1d65e3ef56f6",
+      "blob": "6937e3481c73159f2c87a15734a1f9b69782e1b8",
+      "sha256": "6d5f28e9eb2f7a4d8f8b53f1feb26443dc7cf9292d1b0bf369333b6c7c88a4df",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
