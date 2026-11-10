@@ -1,0 +1,32 @@
+{
+  "task": "organize-messy-files",
+  "skill": "file-organizer",
+  "version": "v0",
+  "directory": "organize-messy-files/file-organizer/file-organizer_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+  "source_root": "tasks/organize-messy-files/environment/skills/file-organizer",
+  "commit_title": "[Task] Add organize-messy-files task  (#157)",
+  "commit_time_beijing": "2026-01-20 06:55:46",
+  "author_time_beijing": "2026-01-20 06:55:46",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "organize-messy-files/file-organizer/file-organizer_v0/SKILL.md",
+      "source": "tasks/organize-messy-files/environment/skills/file-organizer/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "835ea257830c49fa263ae4797dfc2297f13ccc58",
+      "blob": "bda393c5ca8fb56dc92ddec025233de2496f5e0c",
+      "sha256": "bfd190964b2c4dfdd0c747d914db477bd15ffba2e136a540546a9f08cd7239a2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
