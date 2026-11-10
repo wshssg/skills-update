@@ -1,0 +1,32 @@
+{
+  "task": "simpo-code-reproduction",
+  "skill": "nlp-research-repo-package-installment",
+  "version": "v0",
+  "directory": "simpo-code-reproduction/nlp-research-repo-package-installment/nlp-research-repo-package-installment_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "245a61f9d4b9b1257e2ea64ebffb27b209b92b61",
+  "source_root": "tasks/simpo-code-reproduction/environment/skills/nlp-research-repo-package-installment",
+  "commit_title": "[task] simpo-code-reproduction (#267)",
+  "commit_time_beijing": "2026-01-24 04:34:41",
+  "author_time_beijing": "2026-01-24 04:34:41",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "simpo-code-reproduction/nlp-research-repo-package-installment/nlp-research-repo-package-installment_v0/SKILL.md",
+      "source": "tasks/simpo-code-reproduction/environment/skills/nlp-research-repo-package-installment/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "245a61f9d4b9b1257e2ea64ebffb27b209b92b61",
+      "blob": "086d7d977c21d97f14f3e45aa6a3a8b61cb19bf3",
+      "sha256": "65c77284858ffc4544dd8d85dbae5771855e6df44c37812f2877490e3afa70b2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "seismic-phase-picking",
+  "skill": "seisbench-model-api",
+  "version": "v0",
+  "directory": "seismic-phase-picking/seisbench-model-api/seisbench-model-api_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+  "source_root": "tasks/seismic-phase-picking/environment/skills/seisbench-model-api",
+  "commit_title": "[Task] seismic phase picking (#549)",
+  "commit_time_beijing": "2026-01-24 10:39:57",
+  "author_time_beijing": "2026-01-24 10:39:57",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "seismic-phase-picking/seisbench-model-api/seisbench-model-api_v0/SKILL.md",
+      "source": "tasks/seismic-phase-picking/environment/skills/seisbench-model-api/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+      "blob": "a8ce4765a6f292c31fc5df00593646d919acb781",
+      "sha256": "32923bed92731f01669a29f9f3db964efc052a0ee5f4b6fc0115573fc99657e1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

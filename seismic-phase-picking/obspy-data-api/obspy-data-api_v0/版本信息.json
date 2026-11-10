@@ -1,0 +1,32 @@
+{
+  "task": "seismic-phase-picking",
+  "skill": "obspy-data-api",
+  "version": "v0",
+  "directory": "seismic-phase-picking/obspy-data-api/obspy-data-api_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+  "source_root": "tasks/seismic-phase-picking/environment/skills/obspy-data-api",
+  "commit_title": "[Task] seismic phase picking (#549)",
+  "commit_time_beijing": "2026-01-24 10:39:57",
+  "author_time_beijing": "2026-01-24 10:39:57",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "seismic-phase-picking/obspy-data-api/obspy-data-api_v0/SKILL.md",
+      "source": "tasks/seismic-phase-picking/environment/skills/obspy-data-api/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+      "blob": "11f05ee39fafd856955d1e9ac7bc7da82727ef4f",
+      "sha256": "669584da3b2f685dc8939449b6f8c09dc9e857ed335154739aaf78f03b9a67df",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

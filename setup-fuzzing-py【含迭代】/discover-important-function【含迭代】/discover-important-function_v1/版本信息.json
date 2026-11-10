@@ -1,0 +1,32 @@
+{
+  "task": "setup-fuzzing-py",
+  "skill": "discover-important-function",
+  "version": "v1",
+  "directory": "setup-fuzzing-py【含迭代】/discover-important-function【含迭代】/discover-important-function_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/setup-fuzzing-py/environment/skills/discover-important-function",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "setup-fuzzing-py【含迭代】/discover-important-function【含迭代】/discover-important-function_v1/SKILL.md",
+      "source": "tasks/setup-fuzzing-py/environment/skills/discover-important-function/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "e944affc5e8e140c0268b04e99bda62b9a3a5a7c",
+      "sha256": "d935cc481fe8700ecfec482810dbf7fb56d0ee7e5fec7221ca5a77519d29ce29",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,53 @@
+{
+  "task": "setup-fuzzing-py",
+  "skill": "fuzzing-python",
+  "version": "v1",
+  "directory": "setup-fuzzing-py【含迭代】/fuzzing-python【含迭代】/fuzzing-python_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "setup-fuzzing-py【含迭代】/fuzzing-python【含迭代】/fuzzing-python_v1/SKILL.md",
+      "source": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "5d5f1d661a9de4004304ef0083c810254ab6daf2",
+      "sha256": "718882130de22873f00e422d1c8d4d67febd002d5ee0163f314fea8890c0b835",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": [
+    {
+      "source": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/SKILL.md",
+      "reference": "example_fuzzers/custom_mutator_example.py",
+      "resolved": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/example_fuzzers/custom_mutator_example.py"
+    },
+    {
+      "source": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/SKILL.md",
+      "reference": "src/custom_crossover_fuzz_test.py",
+      "resolved": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/src/custom_crossover_fuzz_test.py"
+    },
+    {
+      "source": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/SKILL.md",
+      "reference": "contrib/libprotobuf_mutator/README.md",
+      "resolved": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/contrib/libprotobuf_mutator/README.md"
+    },
+    {
+      "source": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/SKILL.md",
+      "reference": "./native_extension_fuzzing.md",
+      "resolved": "tasks/setup-fuzzing-py/environment/skills/fuzzing-python/native_extension_fuzzing.md"
+    }
+  ]
+}

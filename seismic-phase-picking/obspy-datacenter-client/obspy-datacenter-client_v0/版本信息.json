@@ -1,0 +1,49 @@
+{
+  "task": "seismic-phase-picking",
+  "skill": "obspy-datacenter-client",
+  "version": "v0",
+  "directory": "seismic-phase-picking/obspy-datacenter-client/obspy-datacenter-client_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+  "source_root": "tasks/seismic-phase-picking/environment/skills/obspy-datacenter-client",
+  "commit_title": "[Task] seismic phase picking (#549)",
+  "commit_time_beijing": "2026-01-24 10:39:57",
+  "author_time_beijing": "2026-01-24 10:39:57",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "seismic-phase-picking/obspy-datacenter-client/obspy-datacenter-client_v0/SKILL.md",
+      "source": "tasks/seismic-phase-picking/environment/skills/obspy-datacenter-client/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+      "blob": "57e8e4b1be15a5091c721cee8eadb3aa94af9e79",
+      "sha256": "e17630a6c637bdb9732924c2af0965061c6d78fc953c0d00023da0e8f69adf25",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "seismic-phase-picking/obspy-datacenter-client/obspy-datacenter-client_v0/obspy-clients-fdsn.md",
+      "source": "tasks/seismic-phase-picking/environment/skills/obspy-datacenter-client/obspy-clients-fdsn.md",
+      "relative_source": "obspy-clients-fdsn.md",
+      "revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+      "blob": "85e9a980f783a360f21232a964e99b8724170c1a",
+      "sha256": "3633bf2c96b734bb1726ae7005da22ee1eb7789ad658a9d623252ea4e4a194f1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": [
+    {
+      "source": "tasks/seismic-phase-picking/environment/skills/obspy-datacenter-client/SKILL.md",
+      "reference": "obspy-client-fdsn.md",
+      "resolved": "tasks/seismic-phase-picking/environment/skills/obspy-datacenter-client/obspy-client-fdsn.md"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "task": "seismic-phase-picking",
+  "skill": "seismic-picker-selection",
+  "version": "v0",
+  "directory": "seismic-phase-picking/seismic-picker-selection/seismic-picker-selection_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+  "source_root": "tasks/seismic-phase-picking/environment/skills/seismic-picker-selection",
+  "commit_title": "[Task] seismic phase picking (#549)",
+  "commit_time_beijing": "2026-01-24 10:39:57",
+  "author_time_beijing": "2026-01-24 10:39:57",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "seismic-phase-picking/seismic-picker-selection/seismic-picker-selection_v0/SKILL.md",
+      "source": "tasks/seismic-phase-picking/environment/skills/seismic-picker-selection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "8fd4d6deacad272f59c8d90f4cc5095a6afaa48f",
+      "blob": "d5e0c6e9b1d9d75645e9457b185e6701998aa4fd",
+      "sha256": "20ff09362d2154c6424b3b533238440bcfcf6d81f1de97d6903197577a9a174a",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

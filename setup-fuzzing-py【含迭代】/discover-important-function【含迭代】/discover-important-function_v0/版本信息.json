@@ -1,0 +1,32 @@
+{
+  "task": "setup-fuzzing-py",
+  "skill": "discover-important-function",
+  "version": "v0",
+  "directory": "setup-fuzzing-py【含迭代】/discover-important-function【含迭代】/discover-important-function_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c50f6fd86fd12e7a8a2f19030b37399b2d5584c8",
+  "source_root": "tasks/setup-fuzzing-py/environment/skills/discover_important_function",
+  "commit_title": "[task] add setting up continuous fuzzing for Python task (#50)",
+  "commit_time_beijing": "2026-01-12 09:02:43",
+  "author_time_beijing": "2026-01-12 09:02:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "setup-fuzzing-py【含迭代】/discover-important-function【含迭代】/discover-important-function_v0/SKILL.md",
+      "source": "tasks/setup-fuzzing-py/environment/skills/discover_important_function/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c50f6fd86fd12e7a8a2f19030b37399b2d5584c8",
+      "blob": "01735f57746b51bf32a94095737b38d6cc273526",
+      "sha256": "64a24118310e1701bb1304f0da4e1ebcab4b4f4499f60989fd5057a0b43f16d6",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

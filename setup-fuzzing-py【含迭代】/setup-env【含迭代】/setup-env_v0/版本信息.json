@@ -1,0 +1,32 @@
+{
+  "task": "setup-fuzzing-py",
+  "skill": "setup-env",
+  "version": "v0",
+  "directory": "setup-fuzzing-py【含迭代】/setup-env【含迭代】/setup-env_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c50f6fd86fd12e7a8a2f19030b37399b2d5584c8",
+  "source_root": "tasks/setup-fuzzing-py/environment/skills/setup_env",
+  "commit_title": "[task] add setting up continuous fuzzing for Python task (#50)",
+  "commit_time_beijing": "2026-01-12 09:02:43",
+  "author_time_beijing": "2026-01-12 09:02:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "setup-fuzzing-py【含迭代】/setup-env【含迭代】/setup-env_v0/SKILL.md",
+      "source": "tasks/setup-fuzzing-py/environment/skills/setup_env/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c50f6fd86fd12e7a8a2f19030b37399b2d5584c8",
+      "blob": "24213df197d625d58ae304416cc500a2d28c3501",
+      "sha256": "4821e4f54749247623ac9282cf5644bd90ab05d95a14b5beedd7c91aa9bddb15",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "software-dependency-audit",
+  "skill": "cvss-score-extraction",
+  "version": "v0",
+  "directory": "software-dependency-audit/cvss-score-extraction/cvss-score-extraction_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "358e01e1e1f8a0343fd228d01a93de6e68c1b913",
+  "source_root": "tasks/software-dependency-audit/environment/skills/cvss-score-extraction",
+  "commit_title": "[task] Add `software-dependency-audit` (#560)",
+  "commit_time_beijing": "2026-01-24 07:54:42",
+  "author_time_beijing": "2026-01-24 07:54:42",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "software-dependency-audit/cvss-score-extraction/cvss-score-extraction_v0/SKILL.md",
+      "source": "tasks/software-dependency-audit/environment/skills/cvss-score-extraction/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "358e01e1e1f8a0343fd228d01a93de6e68c1b913",
+      "blob": "27d3d4db4d0106eaa35b8bcc8cd92b247298d59b",
+      "sha256": "5f9e2a22ec2a8230c9d6ed234fb7c48742e257631d397eb9bcabd5d12b7798d2",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

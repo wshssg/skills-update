@@ -1,0 +1,32 @@
+{
+  "task": "setup-fuzzing-py",
+  "skill": "setup-env",
+  "version": "v1",
+  "directory": "setup-fuzzing-py【含迭代】/setup-env【含迭代】/setup-env_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "P1",
+  "source_revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+  "source_root": "tasks/setup-fuzzing-py/environment/skills/setup-env",
+  "commit_title": "[ci] feat: add SKILL.md validation to pre-commit using skills-ref (#115)",
+  "commit_time_beijing": "2026-01-14 10:44:17",
+  "author_time_beijing": "2026-01-14 10:44:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "setup-fuzzing-py【含迭代】/setup-env【含迭代】/setup-env_v1/SKILL.md",
+      "source": "tasks/setup-fuzzing-py/environment/skills/setup-env/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "03be45865bc57ba09b2bf8c447926618619fb0bc",
+      "blob": "2ec95a364291bbbaa0a3de9bd0d9fd416f58d908",
+      "sha256": "7b95dc92985ab21b131c5f1d14ec05cf27d145c5384e28bbf3022c7ea89f4202",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
