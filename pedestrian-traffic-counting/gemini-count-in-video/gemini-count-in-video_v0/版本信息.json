@@ -1,0 +1,32 @@
+{
+  "task": "pedestrian-traffic-counting",
+  "skill": "gemini-count-in-video",
+  "version": "v0",
+  "directory": "pedestrian-traffic-counting/gemini-count-in-video/gemini-count-in-video_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+  "source_root": "tasks/pedestrian-traffic-counting/environment/skills/gemini-count-in-video",
+  "commit_title": "[Task] add task pedestrian traffic counting (previously discussed but forget to WIP) (#586)",
+  "commit_time_beijing": "2026-01-24 05:10:43",
+  "author_time_beijing": "2026-01-24 05:10:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pedestrian-traffic-counting/gemini-count-in-video/gemini-count-in-video_v0/SKILL.md",
+      "source": "tasks/pedestrian-traffic-counting/environment/skills/gemini-count-in-video/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+      "blob": "6a68fca8179aa055d2a2acec003e0abfe9ea5143",
+      "sha256": "dce0cf602137062a38cbe0f699035cbe78d0e7f27370c5fc77070bc5f7f20ea3",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

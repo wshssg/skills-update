@@ -1,0 +1,32 @@
+{
+  "task": "pedestrian-traffic-counting",
+  "skill": "video-frame-extraction",
+  "version": "v0",
+  "directory": "pedestrian-traffic-counting/video-frame-extraction/video-frame-extraction_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+  "source_root": "tasks/pedestrian-traffic-counting/environment/skills/video-frame-extraction",
+  "commit_title": "[Task] add task pedestrian traffic counting (previously discussed but forget to WIP) (#586)",
+  "commit_time_beijing": "2026-01-24 05:10:43",
+  "author_time_beijing": "2026-01-24 05:10:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pedestrian-traffic-counting/video-frame-extraction/video-frame-extraction_v0/SKILL.md",
+      "source": "tasks/pedestrian-traffic-counting/environment/skills/video-frame-extraction/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+      "blob": "d8eb36336e4d59973199a42edd2eea8b438b4ad2",
+      "sha256": "b8109889c9b72953b52c55d17d0fa1d6f1083f6a6d1d378cdda6b6509c38fa18",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

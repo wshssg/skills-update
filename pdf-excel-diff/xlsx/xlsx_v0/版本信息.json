@@ -1,0 +1,54 @@
+{
+  "task": "pdf-excel-diff",
+  "skill": "xlsx",
+  "version": "v0",
+  "directory": "pdf-excel-diff/xlsx/xlsx_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+  "source_root": "tasks/pdf-excel-diff/environment/skills/xlsx",
+  "commit_title": "Add task pdf-excel-diff",
+  "commit_time_beijing": "2026-01-08 10:29:59",
+  "author_time_beijing": "2026-01-08 10:29:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pdf-excel-diff/xlsx/xlsx_v0/LICENSE.txt",
+      "source": "tasks/pdf-excel-diff/environment/skills/xlsx/LICENSE.txt",
+      "relative_source": "LICENSE.txt",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "c55ab42224874608473643de0a85736b7fec0730",
+      "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/xlsx/xlsx_v0/SKILL.md",
+      "source": "tasks/pdf-excel-diff/environment/skills/xlsx/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "75ccc9efe04c50ea0920db8d215839c4aa213a85",
+      "sha256": "9bdc1fee81f3be9cb34ac49f8890c094a3855d3d0236783d10e0ea6df1515e01",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/xlsx/xlsx_v0/recalc.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/xlsx/recalc.py",
+      "relative_source": "recalc.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "4f90f4356efe0d562900c2ff590187056ffc8cd9",
+      "sha256": "f0833720e26fa894c9c1ccf0bd71dfc4609f8a310360fb2de2071efb64fbd409",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "paper-anonymizer",
+  "skill": "academic-pdf-redaction",
+  "version": "v0",
+  "directory": "paper-anonymizer/academic-pdf-redaction/academic-pdf-redaction_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "6234cf1b709bc9aa30801e039f96af4cacd8a0ae",
+  "source_root": "tasks/paper-anonymizer/environment/skills/academic-pdf-redaction",
+  "commit_title": "[task] paper-anonymizer (#235)",
+  "commit_time_beijing": "2026-01-22 06:02:30",
+  "author_time_beijing": "2026-01-22 06:02:30",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "paper-anonymizer/academic-pdf-redaction/academic-pdf-redaction_v0/SKILL.md",
+      "source": "tasks/paper-anonymizer/environment/skills/academic-pdf-redaction/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "6234cf1b709bc9aa30801e039f96af4cacd8a0ae",
+      "blob": "25b1d4455deaf065bf03a5d70583e39d78b3f3f8",
+      "sha256": "587dbb503749a037f1f51983a1c7bca4177f8f647be82b25e5751b5408a52a8c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

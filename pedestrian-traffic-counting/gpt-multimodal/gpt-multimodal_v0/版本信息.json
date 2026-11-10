@@ -1,0 +1,32 @@
+{
+  "task": "pedestrian-traffic-counting",
+  "skill": "gpt-multimodal",
+  "version": "v0",
+  "directory": "pedestrian-traffic-counting/gpt-multimodal/gpt-multimodal_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+  "source_root": "tasks/pedestrian-traffic-counting/environment/skills/gpt-multimodal",
+  "commit_title": "[Task] add task pedestrian traffic counting (previously discussed but forget to WIP) (#586)",
+  "commit_time_beijing": "2026-01-24 05:10:43",
+  "author_time_beijing": "2026-01-24 05:10:43",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pedestrian-traffic-counting/gpt-multimodal/gpt-multimodal_v0/SKILL.md",
+      "source": "tasks/pedestrian-traffic-counting/environment/skills/gpt-multimodal/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "312edc408b97e93f66f4b0676b7c5a183a9afa96",
+      "blob": "f2a02eadb305cbf83817a341f6d9dad1ad5dabab",
+      "sha256": "faf77d38e4ed663c94f6bd6126b7fa464f8f455c80c63633e81335181dbda983",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,153 @@
+{
+  "task": "pdf-excel-diff",
+  "skill": "pdf",
+  "version": "v0",
+  "directory": "pdf-excel-diff/pdf/pdf_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+  "source_root": "tasks/pdf-excel-diff/environment/skills/pdf",
+  "commit_title": "Add task pdf-excel-diff",
+  "commit_time_beijing": "2026-01-08 10:29:59",
+  "author_time_beijing": "2026-01-08 10:29:59",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/LICENSE.txt",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/LICENSE.txt",
+      "relative_source": "LICENSE.txt",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "c55ab42224874608473643de0a85736b7fec0730",
+      "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/SKILL.md",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "f6a22ddf88fdc7e7b7603f4c9064cc51bd930ad9",
+      "sha256": "38d8559d4899602f82f3560052132aa0c40cfca80203037729756bdb4fb8e0cb",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/forms.md",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/forms.md",
+      "relative_source": "forms.md",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "4e234506dcb180158eeb7e057f7c576c263a2d43",
+      "sha256": "0ab10e9095deb1c1f9f79eb04254589f55c1d16e095cb53191e03f9fc3184449",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/reference.md",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/reference.md",
+      "relative_source": "reference.md",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "4e43063340513148792134105870de990f9ca84d",
+      "sha256": "3c6e7c055461d28c2047556dcc65185f542805b0a3198d2fe24236ac07699696",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/check_bounding_boxes.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/check_bounding_boxes.py",
+      "relative_source": "scripts/check_bounding_boxes.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "1dca0625f10873d9f28f979ac77463002582687c",
+      "sha256": "c5a6c5c418252965eb3b2ed26bb4206f102118805a9d314ab8e7992faf487016",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/check_bounding_boxes_test.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/check_bounding_boxes_test.py",
+      "relative_source": "scripts/check_bounding_boxes_test.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "357369560ebb773ec1b5cc863c52ab92b36f18f1",
+      "sha256": "c9614e2dee1f614318985c9bcabb24e4bea6326b866d7dae7494940047f38461",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/check_fillable_fields.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/check_fillable_fields.py",
+      "relative_source": "scripts/check_fillable_fields.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "9881fc56eef92ae8fe040a96eff421de0bf80547",
+      "sha256": "9842bf09975f2cc2bd2e1f7a413ecd0d4a7823b09653278bfc59d84af3b0aeb9",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/convert_pdf_to_images.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/convert_pdf_to_images.py",
+      "relative_source": "scripts/convert_pdf_to_images.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "0c2381bdec24fc7504507118c8b84f6878ef680a",
+      "sha256": "4fdb00d3042f6c995ad5994a43e306a2b13c3e5b94eef2088dd6db6200476e58",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/create_validation_image.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/create_validation_image.py",
+      "relative_source": "scripts/create_validation_image.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "31dedb53d84ae74f6216ce3ffccb271b1452e3f3",
+      "sha256": "7a58f04c3607897f9491513e4f5f624cfdf7dd8521ce5eaf7b5707c2581e4594",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/extract_form_field_info.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/extract_form_field_info.py",
+      "relative_source": "scripts/extract_form_field_info.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "f9301bc2152509ac9fd229489e383cb923dbdb08",
+      "sha256": "683228c1b909e821739f138e753d00c8f514e7bb54d3686045e38426fc813d46",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/fill_fillable_fields.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/fill_fillable_fields.py",
+      "relative_source": "scripts/fill_fillable_fields.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "23f13dec27a8e001326bc923ec8402e488d6aa4c",
+      "sha256": "c5f7602e1b14d12457bb42812da80cfb22b0bbdbe8b70da4035a69b73e5160fe",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "pdf-excel-diff/pdf/pdf_v0/scripts/fill_pdf_form_with_annotations.py",
+      "source": "tasks/pdf-excel-diff/environment/skills/pdf/scripts/fill_pdf_form_with_annotations.py",
+      "relative_source": "scripts/fill_pdf_form_with_annotations.py",
+      "revision": "48256ce44f58649003298864079b1a24a72a5c7c",
+      "blob": "5056da63aa0de72fcc41dd422d9cc189439a5c20",
+      "sha256": "503fc5a22080b2343cbcf9795fe37c7b2afd49a5a5840115d01c9f83afa45f97",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

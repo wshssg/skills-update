@@ -1,0 +1,43 @@
+{
+  "task": "parallel-tfidf-search",
+  "skill": "memory-optimization",
+  "version": "v0",
+  "directory": "parallel-tfidf-search/memory-optimization/memory-optimization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c13ccd457018cae0edb7795712d428220561d938",
+  "source_root": "tasks/parallel-tfidf-search/environment/skills/memory-optimization",
+  "commit_title": "Parallelize tfidf search (#245)",
+  "commit_time_beijing": "2026-01-23 06:52:11",
+  "author_time_beijing": "2026-01-23 06:52:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "parallel-tfidf-search/memory-optimization/memory-optimization_v0/SKILL.md",
+      "source": "tasks/parallel-tfidf-search/environment/skills/memory-optimization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c13ccd457018cae0edb7795712d428220561d938",
+      "blob": "512eae7ad69ecae7dea2e3d7d58417018814adb0",
+      "sha256": "cc56c4b8119265a50ae48506c20f6e495bcb7972dfb7e78adc5405b840fb2ba8",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "parallel-tfidf-search/memory-optimization/memory-optimization_v0/references/advanced_techniques.md",
+      "source": "tasks/parallel-tfidf-search/environment/skills/memory-optimization/references/advanced_techniques.md",
+      "relative_source": "references/advanced_techniques.md",
+      "revision": "c13ccd457018cae0edb7795712d428220561d938",
+      "blob": "f0db9bc425090bd93ea0f6068ffb5b1b985e43e0",
+      "sha256": "68de997fe654d08b5fddef08810e4d15f765c190064a3a9628547c71da7f9226",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

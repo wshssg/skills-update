@@ -1,0 +1,43 @@
+{
+  "task": "parallel-tfidf-search",
+  "skill": "workload-balancing",
+  "version": "v0",
+  "directory": "parallel-tfidf-search/workload-balancing/workload-balancing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c13ccd457018cae0edb7795712d428220561d938",
+  "source_root": "tasks/parallel-tfidf-search/environment/skills/workload-balancing",
+  "commit_title": "Parallelize tfidf search (#245)",
+  "commit_time_beijing": "2026-01-23 06:52:11",
+  "author_time_beijing": "2026-01-23 06:52:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "parallel-tfidf-search/workload-balancing/workload-balancing_v0/SKILL.md",
+      "source": "tasks/parallel-tfidf-search/environment/skills/workload-balancing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c13ccd457018cae0edb7795712d428220561d938",
+      "blob": "8fe24f540bb6c84f2b76168b719a5ba5ac75fe50",
+      "sha256": "28260b9d369855ee36fab41bc2c084bb08e0473787888a3d20ca67d25d62ad5c",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "parallel-tfidf-search/workload-balancing/workload-balancing_v0/references/advanced_techniques.md",
+      "source": "tasks/parallel-tfidf-search/environment/skills/workload-balancing/references/advanced_techniques.md",
+      "relative_source": "references/advanced_techniques.md",
+      "revision": "c13ccd457018cae0edb7795712d428220561d938",
+      "blob": "1588c4f369c764f04b16ed63d24b77b35803372a",
+      "sha256": "1978f6170b2d759bd1a281ebb0e1fdc7ba1e487ea4b82546e79211d1e9539e72",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

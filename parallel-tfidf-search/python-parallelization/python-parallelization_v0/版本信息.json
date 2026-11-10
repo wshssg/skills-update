@@ -1,0 +1,43 @@
+{
+  "task": "parallel-tfidf-search",
+  "skill": "python-parallelization",
+  "version": "v0",
+  "directory": "parallel-tfidf-search/python-parallelization/python-parallelization_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "c13ccd457018cae0edb7795712d428220561d938",
+  "source_root": "tasks/parallel-tfidf-search/environment/skills/python-parallelization",
+  "commit_title": "Parallelize tfidf search (#245)",
+  "commit_time_beijing": "2026-01-23 06:52:11",
+  "author_time_beijing": "2026-01-23 06:52:11",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "parallel-tfidf-search/python-parallelization/python-parallelization_v0/SKILL.md",
+      "source": "tasks/parallel-tfidf-search/environment/skills/python-parallelization/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "c13ccd457018cae0edb7795712d428220561d938",
+      "blob": "23f8a507e7ebcaf3b33dc97bca92d1fb1e5d760e",
+      "sha256": "cade40ed1ab5ae28c52ef8ebeaaf0d72b0323d73aa1886f54f5a995685a48a79",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "parallel-tfidf-search/python-parallelization/python-parallelization_v0/references/advanced_techniques.md",
+      "source": "tasks/parallel-tfidf-search/environment/skills/python-parallelization/references/advanced_techniques.md",
+      "relative_source": "references/advanced_techniques.md",
+      "revision": "c13ccd457018cae0edb7795712d428220561d938",
+      "blob": "80174521e6472d341b9c5b83f462588692d242ae",
+      "sha256": "17eb5b5031a3a38a22aa0d8a5d8b45ff2116598d483e82eaa8a58bc45a175024",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

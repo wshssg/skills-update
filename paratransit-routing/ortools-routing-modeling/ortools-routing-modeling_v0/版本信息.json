@@ -1,0 +1,32 @@
+{
+  "task": "paratransit-routing",
+  "skill": "ortools-routing-modeling",
+  "version": "v0",
+  "directory": "paratransit-routing/ortools-routing-modeling/ortools-routing-modeling_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ccd5d42b96126f9037ec92905523f5340d180eab",
+  "source_root": "tasks/paratransit-routing/environment/skills/ortools-routing-modeling",
+  "commit_title": "Add paratransit routing task (#742)",
+  "commit_time_beijing": "2026-04-30 14:02:39",
+  "author_time_beijing": "2026-04-30 14:02:39",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "paratransit-routing/ortools-routing-modeling/ortools-routing-modeling_v0/SKILL.md",
+      "source": "tasks/paratransit-routing/environment/skills/ortools-routing-modeling/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ccd5d42b96126f9037ec92905523f5340d180eab",
+      "blob": "44a33adb1ea3ce43fd8e54ba25551692e2ec2249",
+      "sha256": "c563c6cdd94a278ca7c22bf172d20875198b9c618ecb111d5545ae10cdf53754",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

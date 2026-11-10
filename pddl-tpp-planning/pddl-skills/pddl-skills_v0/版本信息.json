@@ -1,0 +1,76 @@
+{
+  "task": "pddl-tpp-planning",
+  "skill": "pddl-skills",
+  "version": "v0",
+  "directory": "pddl-tpp-planning/pddl-skills/pddl-skills_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "fc0ec02d415bd5eec684e6a8fc280a21d6a09c56",
+  "source_root": "tasks/pddl-tpp-planning/environment/skills/pddl-skills",
+  "commit_title": "update vh",
+  "commit_time_beijing": "2026-01-24 02:05:40",
+  "author_time_beijing": "2026-01-24 02:05:01",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "pddl-tpp-planning/pddl-skills/pddl-skills_v0/SKILL.md",
+      "source": "tasks/pddl-tpp-planning/environment/skills/pddl-skills/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "fc0ec02d415bd5eec684e6a8fc280a21d6a09c56",
+      "blob": "0891313f04f87858d11f270680611feb477fd16f",
+      "sha256": "adc4db64d2554074650a49a11f008698c7e95f69967e300ba219c5777f9ced4b",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pddl-tpp-planning/pddl-skills/pddl-skills_v0/generate_plan.skill",
+      "source": "tasks/pddl-tpp-planning/environment/skills/pddl-skills/generate_plan.skill",
+      "relative_source": "generate_plan.skill",
+      "revision": "fc0ec02d415bd5eec684e6a8fc280a21d6a09c56",
+      "blob": "66488c676330c1c2b68042a8cf237cc864451f3a",
+      "sha256": "0e87f8ae98a524ce99779bdb79fe569e0dbcc8a77dc1795f0503501c7ae3d629",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pddl-tpp-planning/pddl-skills/pddl-skills_v0/load_problem.skill",
+      "source": "tasks/pddl-tpp-planning/environment/skills/pddl-skills/load_problem.skill",
+      "relative_source": "load_problem.skill",
+      "revision": "fc0ec02d415bd5eec684e6a8fc280a21d6a09c56",
+      "blob": "6dcc68760e74a563e2d3036f29242cc20fad26c3",
+      "sha256": "66fe85a19bfd8f6523b22ce5ec558fe3a68b19daf406546d4cbf1ae15e4399dc",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pddl-tpp-planning/pddl-skills/pddl-skills_v0/save_plan.skill",
+      "source": "tasks/pddl-tpp-planning/environment/skills/pddl-skills/save_plan.skill",
+      "relative_source": "save_plan.skill",
+      "revision": "fc0ec02d415bd5eec684e6a8fc280a21d6a09c56",
+      "blob": "2f63175ae3b8ab4c2e72ce0a126cc7611a9d3dc4",
+      "sha256": "ca84320e8fa16da7d926ddd6a4858111490970e8a988a5a9acb74f9bce67e4c9",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "pddl-tpp-planning/pddl-skills/pddl-skills_v0/validate.skill",
+      "source": "tasks/pddl-tpp-planning/environment/skills/pddl-skills/validate.skill",
+      "relative_source": "validate.skill",
+      "revision": "fc0ec02d415bd5eec684e6a8fc280a21d6a09c56",
+      "blob": "744d49f6686bd5eeddeb28d1c4c310f8ace14718",
+      "sha256": "a07da1277fdd81db82cb0edba271be6f46c5233234fd153debc5a93c9b7ba4c0",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

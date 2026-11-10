@@ -1,0 +1,32 @@
+{
+  "task": "paratransit-routing",
+  "skill": "ortools-pickup-delivery-routing",
+  "version": "v0",
+  "directory": "paratransit-routing/ortools-pickup-delivery-routing/ortools-pickup-delivery-routing_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ccd5d42b96126f9037ec92905523f5340d180eab",
+  "source_root": "tasks/paratransit-routing/environment/skills/ortools-pickup-delivery-routing",
+  "commit_title": "Add paratransit routing task (#742)",
+  "commit_time_beijing": "2026-04-30 14:02:39",
+  "author_time_beijing": "2026-04-30 14:02:39",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "paratransit-routing/ortools-pickup-delivery-routing/ortools-pickup-delivery-routing_v0/SKILL.md",
+      "source": "tasks/paratransit-routing/environment/skills/ortools-pickup-delivery-routing/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ccd5d42b96126f9037ec92905523f5340d180eab",
+      "blob": "0df766814bd941bf8712972e07587f57f96b056d",
+      "sha256": "cad3ae9d92bd49da1426f612761fde5ff6aa9f0ffab5a6447ba8643af6c1473f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
