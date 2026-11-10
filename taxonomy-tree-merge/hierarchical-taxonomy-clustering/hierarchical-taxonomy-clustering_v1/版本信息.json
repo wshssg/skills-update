@@ -1,0 +1,87 @@
+{
+  "task": "taxonomy-tree-merge",
+  "skill": "hierarchical-taxonomy-clustering",
+  "version": "v1",
+  "directory": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P1",
+  "source_revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+  "source_root": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering",
+  "commit_title": "Move taxonomy-tree-merge to tasks-extra (#916)",
+  "commit_time_beijing": "2026-06-09 04:26:09",
+  "author_time_beijing": "2026-06-09 04:26:09",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1/SKILL.md",
+      "source": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+      "blob": "c24dce350104cb3c25528e0657bc6305a968d304",
+      "sha256": "4442f0462e66e24fad06ef269e6b19d31251fbea84ac6532cc85fbe964bb6911",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1/scripts/pipeline.py",
+      "source": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/pipeline.py",
+      "relative_source": "scripts/pipeline.py",
+      "revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+      "blob": "db327b5da22002e2a2a713767edd316f7f9655fc",
+      "sha256": "7648116f663b68a267588fe2d151901f4d1155844740edd8aed12151a0b6629e",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1/scripts/step1_preprocessing_and_merge.py",
+      "source": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step1_preprocessing_and_merge.py",
+      "relative_source": "scripts/step1_preprocessing_and_merge.py",
+      "revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+      "blob": "9dc8d1fc7ec86db9fd2b45de22e7c6a362cc534d",
+      "sha256": "1452af1942c92415eebcfb60094ece9626e0ecb9ae3fb4b91aeaa127213f16a0",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1/scripts/step2_weighted_embedding_generation.py",
+      "source": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step2_weighted_embedding_generation.py",
+      "relative_source": "scripts/step2_weighted_embedding_generation.py",
+      "revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+      "blob": "6fcfd4bdbcc05701ba375b30b90226aa9522eb0c",
+      "sha256": "8421c7f89716f78e44d0d6ff95f86a52d384996c5316b7c727f15a9a90d01f4f",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1/scripts/step3_recursive_clustering_naming.py",
+      "source": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step3_recursive_clustering_naming.py",
+      "relative_source": "scripts/step3_recursive_clustering_naming.py",
+      "revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+      "blob": "92f172c8c28b5fd9ee8a457c94a5536ff2d4f674",
+      "sha256": "cb86f3f337653697da26ec93dd754449301e23ddf13d362dd752c17138d19ff8",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v1/scripts/step4_result_assignments.py",
+      "source": "tasks-extra/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step4_result_assignments.py",
+      "relative_source": "scripts/step4_result_assignments.py",
+      "revision": "312d07e15e5398f6eda32ee1bb86e492ab18edd1",
+      "blob": "45175a203ea3885430395ebcb9a51f3d84ccb0c0",
+      "sha256": "0d542db76176522cceeb06467b22c2264029f16f373fd21422cb202a0ca70add",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

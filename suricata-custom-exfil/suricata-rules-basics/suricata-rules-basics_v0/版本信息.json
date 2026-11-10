@@ -1,0 +1,32 @@
+{
+  "task": "suricata-custom-exfil",
+  "skill": "suricata-rules-basics",
+  "version": "v0",
+  "directory": "suricata-custom-exfil/suricata-rules-basics/suricata-rules-basics_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9e00abf875e3a73178906caef91a54a8d3cec57b",
+  "source_root": "tasks/suricata-custom-exfil/environment/skills/suricata-rules-basics",
+  "commit_title": "[task] Add Suricata custom exfil (#91)",
+  "commit_time_beijing": "2026-01-20 03:19:54",
+  "author_time_beijing": "2026-01-20 03:19:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "suricata-custom-exfil/suricata-rules-basics/suricata-rules-basics_v0/SKILL.md",
+      "source": "tasks/suricata-custom-exfil/environment/skills/suricata-rules-basics/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9e00abf875e3a73178906caef91a54a8d3cec57b",
+      "blob": "7b5bccaa96b673487f0cbcbf7d091ac60049904a",
+      "sha256": "12311a48a3bda4a363a9debbcf52c0bb978273aa10c472a2cff72593831f223d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

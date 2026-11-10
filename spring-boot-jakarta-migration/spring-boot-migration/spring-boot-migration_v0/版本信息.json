@@ -1,0 +1,32 @@
+{
+  "task": "spring-boot-jakarta-migration",
+  "skill": "spring-boot-migration",
+  "version": "v0",
+  "directory": "spring-boot-jakarta-migration/spring-boot-migration/spring-boot-migration_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b072479bd98d757934ce683c9d328f64795dba93",
+  "source_root": "tasks/spring-boot-jakarta-migration/environment/skills/spring-boot-migration",
+  "commit_title": "[Task] Legacy code migration (#289)",
+  "commit_time_beijing": "2026-01-23 06:47:17",
+  "author_time_beijing": "2026-01-23 06:47:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "spring-boot-jakarta-migration/spring-boot-migration/spring-boot-migration_v0/SKILL.md",
+      "source": "tasks/spring-boot-jakarta-migration/environment/skills/spring-boot-migration/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b072479bd98d757934ce683c9d328f64795dba93",
+      "blob": "9607bf373acef03faf73f909206c8d5e0d1ab43f",
+      "sha256": "0cc93cde9cc7cfd0d5af62edce6cedab6395f24b60de883cf5eb36a994e94b78",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

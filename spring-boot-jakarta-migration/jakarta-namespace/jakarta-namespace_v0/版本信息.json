@@ -1,0 +1,32 @@
+{
+  "task": "spring-boot-jakarta-migration",
+  "skill": "jakarta-namespace",
+  "version": "v0",
+  "directory": "spring-boot-jakarta-migration/jakarta-namespace/jakarta-namespace_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b072479bd98d757934ce683c9d328f64795dba93",
+  "source_root": "tasks/spring-boot-jakarta-migration/environment/skills/jakarta-namespace",
+  "commit_title": "[Task] Legacy code migration (#289)",
+  "commit_time_beijing": "2026-01-23 06:47:17",
+  "author_time_beijing": "2026-01-23 06:47:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "spring-boot-jakarta-migration/jakarta-namespace/jakarta-namespace_v0/SKILL.md",
+      "source": "tasks/spring-boot-jakarta-migration/environment/skills/jakarta-namespace/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b072479bd98d757934ce683c9d328f64795dba93",
+      "blob": "fdaf6ddb687eec9ad63b8319a474ca202cf372e9",
+      "sha256": "6af9ccbf16fff0f7cb65ed15a2433256cb48ca2328ebd86f5e556570f86f93a1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

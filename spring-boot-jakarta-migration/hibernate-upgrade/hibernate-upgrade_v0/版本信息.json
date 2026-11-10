@@ -1,0 +1,32 @@
+{
+  "task": "spring-boot-jakarta-migration",
+  "skill": "hibernate-upgrade",
+  "version": "v0",
+  "directory": "spring-boot-jakarta-migration/hibernate-upgrade/hibernate-upgrade_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b072479bd98d757934ce683c9d328f64795dba93",
+  "source_root": "tasks/spring-boot-jakarta-migration/environment/skills/hibernate-upgrade",
+  "commit_title": "[Task] Legacy code migration (#289)",
+  "commit_time_beijing": "2026-01-23 06:47:17",
+  "author_time_beijing": "2026-01-23 06:47:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "spring-boot-jakarta-migration/hibernate-upgrade/hibernate-upgrade_v0/SKILL.md",
+      "source": "tasks/spring-boot-jakarta-migration/environment/skills/hibernate-upgrade/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b072479bd98d757934ce683c9d328f64795dba93",
+      "blob": "7042e3b79898120cbda605602740960c488ae9d1",
+      "sha256": "b54208d472482e218ff9cd16e8e4bed12fa8df7f801af8aea22184df954f8bcd",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "syzkaller-ppdev-syzlang",
+  "skill": "syz-extract-constants",
+  "version": "v1",
+  "directory": "syzkaller-ppdev-syzlang【含迭代】/syz-extract-constants【含迭代】/syz-extract-constants_v1_其他分支",
+  "scope": "branch",
+  "original_body_versions": [
+    "v1"
+  ],
+  "complete_package": "B0",
+  "source_revision": "fdf1d0c2f389d00e288ed2d3c1d1e339842dca1a",
+  "source_root": "tasks/syzkaller-ppdev-syzlang/environment/skills/syz-extract-constants",
+  "commit_title": "syzkaller-ppdev-syzlang: use a made-up driver in the constants example",
+  "commit_time_beijing": "2026-11-04 04:55:10",
+  "author_time_beijing": "2026-11-04 04:55:10",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "syzkaller-ppdev-syzlang【含迭代】/syz-extract-constants【含迭代】/syz-extract-constants_v1_其他分支/SKILL.md",
+      "source": "tasks/syzkaller-ppdev-syzlang/environment/skills/syz-extract-constants/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "fdf1d0c2f389d00e288ed2d3c1d1e339842dca1a",
+      "blob": "b018e5a1d6f3cce59ea5463f24ad6c5e7e3e259a",
+      "sha256": "f8d37b582c24f1bcf029194afebc44992c2b1960abba27d1d0d5b00e56b80695",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

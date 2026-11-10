@@ -1,0 +1,32 @@
+{
+  "task": "speaker-diarization-subtitles",
+  "skill": "automatic-speech-recognition",
+  "version": "v0",
+  "directory": "speaker-diarization-subtitles/automatic-speech-recognition/automatic-speech-recognition_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+  "source_root": "tasks/speaker-diarization-subtitles/environment/skills/automatic-speech-recognition",
+  "commit_title": "Speaker Diarization and Speaker-Labeled Subtitles (#234)",
+  "commit_time_beijing": "2026-01-24 06:55:54",
+  "author_time_beijing": "2026-01-24 06:55:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "speaker-diarization-subtitles/automatic-speech-recognition/automatic-speech-recognition_v0/SKILL.md",
+      "source": "tasks/speaker-diarization-subtitles/environment/skills/automatic-speech-recognition/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+      "blob": "aca984079f9492940b9956419dbd6d11f0de711e",
+      "sha256": "42b1430261aa641f97771e71f645b38559e67e523b5f48fcf65b2d9337f4bc6f",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

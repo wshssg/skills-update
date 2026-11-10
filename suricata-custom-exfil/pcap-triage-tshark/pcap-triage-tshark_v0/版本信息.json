@@ -1,0 +1,43 @@
+{
+  "task": "suricata-custom-exfil",
+  "skill": "pcap-triage-tshark",
+  "version": "v0",
+  "directory": "suricata-custom-exfil/pcap-triage-tshark/pcap-triage-tshark_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "9e00abf875e3a73178906caef91a54a8d3cec57b",
+  "source_root": "tasks/suricata-custom-exfil/environment/skills/pcap-triage-tshark",
+  "commit_title": "[task] Add Suricata custom exfil (#91)",
+  "commit_time_beijing": "2026-01-20 03:19:54",
+  "author_time_beijing": "2026-01-20 03:19:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "suricata-custom-exfil/pcap-triage-tshark/pcap-triage-tshark_v0/SKILL.md",
+      "source": "tasks/suricata-custom-exfil/environment/skills/pcap-triage-tshark/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "9e00abf875e3a73178906caef91a54a8d3cec57b",
+      "blob": "0457fd5cc133086a22002abbb58dee60fbf99144",
+      "sha256": "1070842f53661264a2e881666d586710a91e8ca463d703af1012645bde1b7e28",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "suricata-custom-exfil/pcap-triage-tshark/pcap-triage-tshark_v0/scripts/summarize_http_requests.sh",
+      "source": "tasks/suricata-custom-exfil/environment/skills/pcap-triage-tshark/scripts/summarize_http_requests.sh",
+      "relative_source": "scripts/summarize_http_requests.sh",
+      "revision": "9e00abf875e3a73178906caef91a54a8d3cec57b",
+      "blob": "9b0197991410e72ebbcafde5ff4ae336e7ba39c7",
+      "sha256": "56a5573c1d9349292dabf5234e2bd56c70513009c95682b7921a39af1315bc15",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

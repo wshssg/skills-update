@@ -1,0 +1,32 @@
+{
+  "task": "spring-boot-jakarta-migration",
+  "skill": "spring-security-6",
+  "version": "v0",
+  "directory": "spring-boot-jakarta-migration/spring-security-6/spring-security-6_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "b072479bd98d757934ce683c9d328f64795dba93",
+  "source_root": "tasks/spring-boot-jakarta-migration/environment/skills/spring-security-6",
+  "commit_title": "[Task] Legacy code migration (#289)",
+  "commit_time_beijing": "2026-01-23 06:47:17",
+  "author_time_beijing": "2026-01-23 06:47:17",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "spring-boot-jakarta-migration/spring-security-6/spring-security-6_v0/SKILL.md",
+      "source": "tasks/spring-boot-jakarta-migration/environment/skills/spring-security-6/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "b072479bd98d757934ce683c9d328f64795dba93",
+      "blob": "b2979c4f26472a6a089a847f20b44a4e976616ad",
+      "sha256": "d4522347dbc38ba3280929376b054066fa5b202ca845b6fead78c085debb622d",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

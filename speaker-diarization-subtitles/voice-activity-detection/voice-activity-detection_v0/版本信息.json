@@ -1,0 +1,32 @@
+{
+  "task": "speaker-diarization-subtitles",
+  "skill": "voice-activity-detection",
+  "version": "v0",
+  "directory": "speaker-diarization-subtitles/voice-activity-detection/voice-activity-detection_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+  "source_root": "tasks/speaker-diarization-subtitles/environment/skills/voice-activity-detection",
+  "commit_title": "Speaker Diarization and Speaker-Labeled Subtitles (#234)",
+  "commit_time_beijing": "2026-01-24 06:55:54",
+  "author_time_beijing": "2026-01-24 06:55:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "speaker-diarization-subtitles/voice-activity-detection/voice-activity-detection_v0/SKILL.md",
+      "source": "tasks/speaker-diarization-subtitles/environment/skills/voice-activity-detection/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+      "blob": "f5fba88d5a7f109845919e01b024c3055999d8af",
+      "sha256": "f0af8b1467114672df68e3f2d170ab9d0169b44af62169b5ba4431e5baebd449",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

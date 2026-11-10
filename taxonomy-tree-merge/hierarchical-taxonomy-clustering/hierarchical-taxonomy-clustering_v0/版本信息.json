@@ -1,0 +1,87 @@
+{
+  "task": "taxonomy-tree-merge",
+  "skill": "hierarchical-taxonomy-clustering",
+  "version": "v0",
+  "directory": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+  "source_root": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering",
+  "commit_title": "[Task] add taxonomy-tree-merge (#570)",
+  "commit_time_beijing": "2026-01-24 06:57:33",
+  "author_time_beijing": "2026-01-24 06:57:33",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0/SKILL.md",
+      "source": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "c24dce350104cb3c25528e0657bc6305a968d304",
+      "sha256": "4442f0462e66e24fad06ef269e6b19d31251fbea84ac6532cc85fbe964bb6911",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0/scripts/pipeline.py",
+      "source": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/pipeline.py",
+      "relative_source": "scripts/pipeline.py",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "091e27a9731b0719e45be927a109513fc4fcd48c",
+      "sha256": "08693111c0616abafeca6cd41406de356d1a01a38038bc29fb39abd10534ed15",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0/scripts/step1_preprocessing_and_merge.py",
+      "source": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step1_preprocessing_and_merge.py",
+      "relative_source": "scripts/step1_preprocessing_and_merge.py",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "d99dbd864e71c9e5c353c5eeade2d1d0da055d58",
+      "sha256": "5bb68656c188daf0f8d4ce984e7d4f62d0871ecfbaa674bf6f1f94f45440fddc",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0/scripts/step2_weighted_embedding_generation.py",
+      "source": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step2_weighted_embedding_generation.py",
+      "relative_source": "scripts/step2_weighted_embedding_generation.py",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "6fcfd4bdbcc05701ba375b30b90226aa9522eb0c",
+      "sha256": "8421c7f89716f78e44d0d6ff95f86a52d384996c5316b7c727f15a9a90d01f4f",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0/scripts/step3_recursive_clustering_naming.py",
+      "source": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step3_recursive_clustering_naming.py",
+      "relative_source": "scripts/step3_recursive_clustering_naming.py",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "398a2fe424d78f98a1f910a5795cfed9ca0fc0a5",
+      "sha256": "5de408b3529d25cdd0812cd204ac4240a21c8f2c46182d852d7167e0ddde2abe",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    },
+    {
+      "local": "taxonomy-tree-merge/hierarchical-taxonomy-clustering/hierarchical-taxonomy-clustering_v0/scripts/step4_result_assignments.py",
+      "source": "tasks/taxonomy-tree-merge/environment/skills/hierarchical-taxonomy-clustering/scripts/step4_result_assignments.py",
+      "relative_source": "scripts/step4_result_assignments.py",
+      "revision": "aa42d73d4d31d6c3799d6a0829dc278ab3ef5f49",
+      "blob": "b0c2c54cead01a325140580be9b8b5d6f66d8fc9",
+      "sha256": "582b18deac0fc0508089a98c83602009fb38943385ef17d91d30625c9ac14ea7",
+      "mode": "100644",
+      "script": true,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

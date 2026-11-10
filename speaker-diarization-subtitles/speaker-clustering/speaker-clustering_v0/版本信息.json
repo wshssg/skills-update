@@ -1,0 +1,32 @@
+{
+  "task": "speaker-diarization-subtitles",
+  "skill": "speaker-clustering",
+  "version": "v0",
+  "directory": "speaker-diarization-subtitles/speaker-clustering/speaker-clustering_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+  "source_root": "tasks/speaker-diarization-subtitles/environment/skills/speaker-clustering",
+  "commit_title": "Speaker Diarization and Speaker-Labeled Subtitles (#234)",
+  "commit_time_beijing": "2026-01-24 06:55:54",
+  "author_time_beijing": "2026-01-24 06:55:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "speaker-diarization-subtitles/speaker-clustering/speaker-clustering_v0/SKILL.md",
+      "source": "tasks/speaker-diarization-subtitles/environment/skills/speaker-clustering/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+      "blob": "94bf529188d76531d2f5f2dbdaa27aa141af73b2",
+      "sha256": "915873f13e7c2c9b3f8c87db06fb2332cb3941ccb70b49397b224173121990d1",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "task": "syzkaller-ppdev-syzlang",
+  "skill": "syzlang-ioctl-basics",
+  "version": "v0",
+  "directory": "syzkaller-ppdev-syzlang【含迭代】/syzlang-ioctl-basics/syzlang-ioctl-basics_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "ad178ce397dc5fe8c7750261b13c676fa26ea38b",
+  "source_root": "tasks/syzkaller-ppdev-syzlang/environment/skills/syzlang-ioctl-basics",
+  "commit_title": "[task] add syzkaller-ppdev-syzlang (#96)",
+  "commit_time_beijing": "2026-01-21 15:00:31",
+  "author_time_beijing": "2026-01-21 15:00:31",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "syzkaller-ppdev-syzlang【含迭代】/syzlang-ioctl-basics/syzlang-ioctl-basics_v0/SKILL.md",
+      "source": "tasks/syzkaller-ppdev-syzlang/environment/skills/syzlang-ioctl-basics/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "ad178ce397dc5fe8c7750261b13c676fa26ea38b",
+      "blob": "6d29c753f73cdec9be3fd576a774ffb538c1f658",
+      "sha256": "f733ad59a34b426d8cc02fda55228feb88c15f8af40baae7b2944812d236c1c5",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}

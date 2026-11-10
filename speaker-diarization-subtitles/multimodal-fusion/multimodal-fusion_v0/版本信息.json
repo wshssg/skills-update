@@ -1,0 +1,32 @@
+{
+  "task": "speaker-diarization-subtitles",
+  "skill": "multimodal-fusion",
+  "version": "v0",
+  "directory": "speaker-diarization-subtitles/multimodal-fusion/multimodal-fusion_v0",
+  "scope": "main",
+  "original_body_versions": [
+    "v0"
+  ],
+  "complete_package": "P0",
+  "source_revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+  "source_root": "tasks/speaker-diarization-subtitles/environment/skills/multimodal-fusion",
+  "commit_title": "Speaker Diarization and Speaker-Labeled Subtitles (#234)",
+  "commit_time_beijing": "2026-01-24 06:55:54",
+  "author_time_beijing": "2026-01-24 06:55:54",
+  "entry_present": true,
+  "original_entry_name": "SKILL.md",
+  "files": [
+    {
+      "local": "speaker-diarization-subtitles/multimodal-fusion/multimodal-fusion_v0/SKILL.md",
+      "source": "tasks/speaker-diarization-subtitles/environment/skills/multimodal-fusion/SKILL.md",
+      "relative_source": "SKILL.md",
+      "revision": "d9b0034babf73f5d4d787826f656a9dac1ad2b84",
+      "blob": "0d3c3b0d9ef42fe2d8347038d74ca1eecbf762a0",
+      "sha256": "47c107a14d78c637c222a514ef9194b883731ad38b12386eeaa4d889ff9ed4ee",
+      "mode": "100644",
+      "script": false,
+      "role": "skill"
+    }
+  ],
+  "missing_source_references": []
+}
